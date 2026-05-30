@@ -19,7 +19,7 @@
   "title": "AnyDesk",
   "description": "A utiliser si Android 11 TV sur le boitier",
   "url": "https://download.anydesk.com/anydesk.apk",
-  "app_review": "",
+  "app_review": "https://dl.dropboxusercontent.com/scl/fi/pfcjq5vcz6pzcdob6jouz/Anydesk.mp4?rlkey=t9nuklzq9896s471xiwpqmkn5",
   "ver": "8.3.4 (⭐08/05/2026⭐)",
   "category": "Assistance"
 	},
@@ -27,7 +27,7 @@
   "title": "AnyDesk Plugin AD1",
   "description": "A utiliser si Android 11 TV sur le boitier, installation obligatoire avec AnyDesk",
   "url": "https://download.anydesk.com/android/plugins/adcontrol-ad1.apk",
-  "app_review": "",
+  "app_review": "https://dl.dropboxusercontent.com/scl/fi/pfcjq5vcz6pzcdob6jouz/Anydesk.mp4?rlkey=t9nuklzq9896s471xiwpqmkn5",
   "ver": "1.00",
   "category": "Assistance"
 	},
@@ -88,11 +88,11 @@
   "category": "IPTV Atlas Pro"
 	},
 		{
-  "title": "AtlasPro Tivi DISPO PROCHAINEMENT (Android TV uniquement)",
-  "description": "Version AtlasPro du logiciel Tivimate avec une interface sobre mais diablement efficace.",
-  "url": "https://dl.dropboxusercontent.com/scl/fi/ied7okqbq6vb9ihig3u22/ATLASPRO_Prime.apk?rlkey=u33vcrxcg7tceow2yg8cnmz36&dl=0",
-  "app_review": "",
-  "ver": "5.1.6",
+  "title": "AtlasPro Tivi (BETA - Android TV uniquement)",
+  "description": "Version AtlasPro du logiciel Tivimate avec une interface sobre mais diablement efficace. N.B ====> laisser d'abord appuyé sur ok sur cette ligne pour pouvoir télécharger le fichier de configuration de l'application. Puis revenir sur cet écran, cocher la case et aller sur Installer. Une fois installée, allez à gauche pour ouvrir les paramètres puis dans *Général* aller sur *Charger une sauvegarde* pour ensuite aller renseigner le fichier téléchargé. ",
+  "url": "https://www.dropbox.com/scl/fi/bdr2ejbjmd6l554k74tve/AtlasPro-Tivi-5.1.0-PANEL-OTT-PREMIUM.apk?rlkey=nkcfn1iesviwbn19a4dtyie8o&dl=1",
+  "app_review": "https://www.dropbox.com/scl/fi/gstvzwduir6zq3e0p6l13/AtlasPro-Tivi-Backup-AtlasPro_uncrypted.tmb?rlkey=166nxrodvtnbep02qs51xjljo&dl=1",
+  "ver": "5.1.1",
   "category": "IPTV Atlas Pro"
 	},
 	{
@@ -221,7 +221,7 @@
   "url": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
   "mirror": "https://go.aftvnews.com/28544",
   "app_review": "https://www.youtube.com/watch?v=ZuxE14gGoRc",
-  "ver": "31.63 (⭐30/04/26⭐)",
+  "ver": "31.73 (⭐25/05/26⭐)",
   "category": "YouTube"
 	},
 	{
@@ -237,7 +237,7 @@
   "description": "TizenTube Cobalt est une application basée sur Cobalt qui améliore votre expérience de streaming préféré en supprimant les publicités, en ajoutant le support SponsorBlock",
   "url": "https://github.com/reisxd/TizenTubeCobalt/releases/download/latest/cobalt-arm.apk",
   "mirror": "https://cobalt.6513006.xyz",
-  "ver": "2.0.1 ⭐(12/05/2026)⭐",
+  "ver": "2.0.2 ⭐(25/05/2026)⭐",
   "category": "YouTube"
 	},
 	{
