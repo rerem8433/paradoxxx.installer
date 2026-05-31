@@ -8,6 +8,14 @@
     "category": "Z"
   	},
 	{
+  "title": "** NEW ** ParadoxXx Installer ATV",
+  "description": "Nouvelle version de mon application avec correction de bugs signalés ou trouvés",
+  "url": "https://www.dropbox.com/scl/fi/x7hfqngeof197gmf9kxj2/ParadoxXx-Installer-2.1-avec-applis-SANS-URL-MODIFIABLE.apk?rlkey=gxgotxo524y8h53a83729tart&dl=1",
+  "app_review": "",
+  "ver": "2.1.0 (⭐31/05/2026⭐)",
+  "category": "Utilitaires"
+	},	
+	{
   "title": "** NEW ** 9Xtream",
   "description": "Nouvelle application IPTV permettant le telechargement de films/séries pour recuperer ensuite sur une cle USB/HDD",
   "url": "https://www.dropbox.com/scl/fi/kmt243jeujxso51xiptf9/9Xtream_46.0.0.apk?rlkey=dbozh7gkjrz19uuc2rpfgja8e&dl=1",
@@ -18,19 +26,27 @@
 	{
   "title": "AnyDesk",
   "description": "A utiliser si Android 11 TV sur le boitier",
-  "url": "https://download.anydesk.com/anydesk.apk",
+  "url": "http://download.anydesk.com/anydesk.apk",
   "app_review": "https://dl.dropboxusercontent.com/scl/fi/pfcjq5vcz6pzcdob6jouz/Anydesk.mp4?rlkey=t9nuklzq9896s471xiwpqmkn5",
   "ver": "8.3.4 (⭐08/05/2026⭐)",
   "category": "Assistance"
 	},
 	{
-  "title": "AnyDesk Plugin AD1",
+  "title": "AnyDesk Plugin AD1 (optionnel)",
   "description": "A utiliser si Android 11 TV sur le boitier, installation obligatoire avec AnyDesk",
-  "url": "https://download.anydesk.com/android/plugins/adcontrol-ad1.apk",
-  "app_review": "https://dl.dropboxusercontent.com/scl/fi/pfcjq5vcz6pzcdob6jouz/Anydesk.mp4?rlkey=t9nuklzq9896s471xiwpqmkn5",
-  "ver": "1.00",
+  "url": "http://download.anydesk.com/android/plugins/adcontrol-ad1.apk",
+  "app_review": "",
+  "ver": "1.7.2",
   "category": "Assistance"
 	},
+	{
+  "title": "AnyDesk Plugin AOSP2 (optionnel)",
+  "description": "A utiliser si Android 11 TV sur le boitier, installation obligatoire avec AnyDesk",
+  "url": "http://download.anydesk.com/android/plugins/adcontrol-aosp2.apk",
+  "app_review": "",
+  "ver": "1.7.2",
+  "category": "Assistance"
+	},	
 	{
   "title": "Aptoide 📱",
   "description": "Store alternatif n'impliquant pas l'ajout d'un compte Google",
@@ -130,9 +146,9 @@
 	{
   "title": "FileManager Plus",
   "description": "FileManager Plus est un explorateur de fichiers simple et puissant pour les appareils Android. Avec une interface utilisateur ergonomique, il est extrêmement facile a utiliser.",
-  "url": "https://www.dropbox.com/scl/fi/d1wfg3w8rk2g8gs5540y0/File_Manager_v3.7.3_Mod.apk?rlkey=dj36cgvcnozhp6he1lprz3ja2&dl=1",
+  "url": "https://www.dropbox.com/scl/fi/urhglcb6h65ir2xg21mzk/File_Manager_v3.7.4_Mod.apk?rlkey=gohuad6e30c8sb7ha45bl8jeb&dl=1",
   "app_review": "",
-  "ver": "3.7.3 (⭐14/05/26⭐)",
+  "ver": "3.7.4 (⭐26/05/26⭐)",
   "category": "Utilitaires"
 	},
 	{
