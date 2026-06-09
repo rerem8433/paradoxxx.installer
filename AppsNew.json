@@ -58,7 +58,7 @@
 	{
   "title": "Aptoide TV 📱",
   "description": "Version AndroidTV de la celebre application Aptoide",
-  "url": "https://pool.apk.aptoide.com/carolyne-silva/cm-aptoidetv-pt-542-72049303-6212d8ef0991eaf05b32f8f0141dadb8.apk",
+  "url": "https://tv.aptoide.com/howtoinstall.html",
   "app_review": "",
   "ver": "1.5.3",
   "category": "Utilitaires"
@@ -277,7 +277,7 @@
   "title": "VLC Media Player ⏯️",
   "description": "Lecteur alternatif pour regarder des videos sur Android TV.",
   "url": "https://get.videolan.org/vlc-android/last/VLC-Android-3.7.0-armeabi-v7a.apk",
-  "app_review": "",
+  "app_review": "https://www.dropbox.com/scl/fi/lkzqlnfd9uul24hf97s7j/VLC-MediaPayer-3.7.1-armv7.apk?rlkey=83391frasyn3rnk50gg5d4q6x&dl=1",
   "ver": "3.7.0",
   "category": "Lecteurs videos"
 	},
@@ -305,14 +305,14 @@
   "category": "."
 	},
 	{
-  "title": "Z- Changer les DNS v1",
+  "title": "Z- Changer les DNS v1 - SlimboxTV",
   "description": "Modifier dans les parametres Android les DNS pour contrer la censure",
   "app_review": "https://dl.dropboxusercontent.com/scl/fi/kmqnmyeeipmwi8k8hdu85/Changer-les-DNS.mp4?rlkey=rwovs5rj9rni0mmi4wublf1ot",
   "ver": "",
   "category": "."
 	},
 	{
-  "title": "Z- Changer les DNS v2",
+  "title": "Z- Changer les DNS v2 - ByeByeDPI",
   "description": "Utilisation de ByeByeDPI pour modifier les DNS",
   "app_review": "https://dl.dropboxusercontent.com/scl/fi/apemosaieow0pqpwadpch/ByeByeDPI.mp4?rlkey=0je46l2eisaxbmv2bcet0alyk",
   "ver": "",
