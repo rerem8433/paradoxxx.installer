@@ -114,9 +114,9 @@
 	{
   "title": "Browser for ATV 🌐",
   "description": "Browser for ATV",
-  "url": "https://www.dropbox.com/scl/fi/3cz9hxokw1fn0rbpr0k36/Browser-for-TV-2.13.36.apk?rlkey=u2xw1c6y8a7ta5063joplxcve&dl=1",
+  "url": "https://www.dropbox.com/scl/fi/6aej6gxq78vryj396y0rn/Browser-for-TV-2.14.37.apk?rlkey=ttc1gm3agaqzjl7cj3bulso6h&dl=1",
   "app_review": "",
-  "ver": "2.13.36",
+  "ver": "2.14.37 (⭐12/06/2026⭐)",
   "category": "Navigateurs"
 	},
 	{
@@ -146,9 +146,9 @@
 	{
   "title": "FileManager Plus",
   "description": "FileManager Plus est un explorateur de fichiers simple et puissant pour les appareils Android. Avec une interface utilisateur ergonomique, il est extrêmement facile a utiliser.",
-  "url": "https://www.dropbox.com/scl/fi/urhglcb6h65ir2xg21mzk/File_Manager_v3.7.4_Mod.apk?rlkey=gohuad6e30c8sb7ha45bl8jeb&dl=1",
+  "url": "https://www.dropbox.com/scl/fi/iregy7mio6gg4pshht954/FileManager-Plus-3.7.8.apk?rlkey=fnrdcts9ygw8ppfs4zociaxs6&dl=1",
   "app_review": "",
-  "ver": "3.7.4 (⭐26/05/26⭐)",
+  "ver": "3.7.8 (⭐12/06/26⭐)",
   "category": "Utilitaires"
 	},
 	{
@@ -271,15 +271,23 @@
   "url": "https://dl.dropboxusercontent.com/scl/fi/jtpiy33e1iieetm4bdck2/Vimu_Media_Player_12.00_ST.apk?rlkey=w7epomnzpr3nrj58uwawiiv4n&dl=0",
   "app_review": "",
   "ver": "12.00",
-  "category": "Lecteurs videos"
+  "category": "Multimédia"
 	},
+	{
+  "title": "Kodi ⏯️",
+  "description": "Le célèbre lecteur Kodi. Permet de créer des bibliothèques films/series/photos/musiques avec des medias locaux ou en réseau. Possibilité d'ajouter des addons et de customiser le thème principal.Si vous laissez appuyé sur OK ici, cela va télécharger le plugin Catchup TV and More qui permet d'ajouter la TV TNT dans Kodi.",
+  "url": "https://mirrors.kodi.tv/releases/android/arm/kodi-21.3-Omega-armeabi-v7a.apk?https=1",
+  "app_review": "https://github.com/Catch-up-TV-and-More/plugin.video.catchuptvandmore/releases/download/v0.2.41/plugin.video.catchuptvandmore-no-openvpn.zip",
+  "ver": "21.3",
+  "category": "Multimédia"
+	},	
 	{
   "title": "VLC Media Player ⏯️",
   "description": "Lecteur alternatif pour regarder des videos sur Android TV.",
   "url": "https://get.videolan.org/vlc-android/last/VLC-Android-3.7.0-armeabi-v7a.apk",
   "app_review": "https://www.dropbox.com/scl/fi/lkzqlnfd9uul24hf97s7j/VLC-MediaPayer-3.7.1-armv7.apk?rlkey=83391frasyn3rnk50gg5d4q6x&dl=1",
   "ver": "3.7.0",
-  "category": "Lecteurs videos"
+  "category": "Multimédia"
 	},
 	{
   "title": "XCIPTV 7.0 modded",
