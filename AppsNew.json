@@ -165,7 +165,7 @@
   "url": "https://dl.dropboxusercontent.com/scl/fi/gtolpq5pdlx9dzulun1ho/MX-Player-v2.0.0-Premium.apk?rlkey=b18l3gfxrkwwl18xm4ufys5ba&dl=0",
   "app_review": "",
   "ver": "2.0.0",
-  "category": "Lecteurs videos"
+  "category": "Multimédia"
 	},
 	{
   "title": "Nova Video Player ⏯️",
@@ -173,7 +173,7 @@
   "url": "https://www.dropbox.com/scl/fi/w9y5snyt7wmgye55vrxto/Nova-6.4.36.apk?rlkey=ma4qh8uphh9tgsydj5dff4dnd&dl=1",
   "app_review": "",
   "ver": "6.4.36 (⭐08/05/26⭐)",
-  "category": "Lecteurs videos"
+  "category": "Multimédia"
 	},
 	{
   "title": "Open Browser Lite 🌐",
@@ -265,6 +265,16 @@
   "ver": "7.1.0",
   "category": "Navigateurs"
 	},
+	{
+  "title": "Stremio ⏯️",
+  "description": "Le meilleur lecteur pour télécharger des films/séries sur Android TV.Fonctionnement avec torrentio recommandé : installer/lancer d'abord Stremio puis revenir ici et laissé appuyer sur OK pour télécharger torrentio",
+  "url": "https://dl.strem.io/android/v2.2.3-android/com.stremio.one-2.2.3-4048579-armeabi-v7a.apk",
+  "app_review": "stremio://torrentio.strem.fun/providers=yts,eztv,rarbg,1337x,thepiratebay,kickasstorrents,torrentgalaxy,magnetdl,torrent9|language=french/manifest.json",
+  "ver": "2.2.3",
+  "category": "Multimédia"
+	},
+	  
+	  
 	{
   "title": "Vimu Media Player️ ⏯️",
   "description": "Le meilleur lecteur pour regarder des videos sur Android TV.",
