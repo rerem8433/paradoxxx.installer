@@ -268,7 +268,7 @@
 	{
   "title": "Stremio ⏯️",
   "description": "Le meilleur lecteur pour télécharger des films/séries sur Android TV.Fonctionnement avec torrentio recommandé : installer/lancer d'abord Stremio puis revenir ici et laissé appuyer sur OK pour télécharger torrentio",
-  "url": "https://dl.strem.io/android/v2.2.3-android/com.stremio.one-2.2.3-4048579-armeabi-v7a.apk",
+  "url": "https://dl.strem.io/android/v1.10.2-androidTV/com.stremio.one-1.10.2-31048578-armeabi-v7a.apk",
   "app_review": "stremio://torrentio.strem.fun/providers=yts,eztv,rarbg,1337x,thepiratebay,kickasstorrents,torrentgalaxy,magnetdl,torrent9|language=french/manifest.json",
   "ver": "2.2.3",
   "category": "Multimédia"
