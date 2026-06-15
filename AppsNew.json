@@ -184,36 +184,12 @@
   "category": "Navigateurs"
 	},
 	{
-  "title": "OTT Premium Tivimate",
-  "description": "Basee sur le celebre Tivimate, cette application a des fonctionnalités de suggestions et une esthetique rafinee",
-  "url": "https://dl.dropboxusercontent.com/scl/fi/nbly79n5dmc8wghm68vl8/OTT-Premium-Tivimate-5.1.0.apk?rlkey=f33qb99lefbw0x18rkyji9050&dl=0",
-  "app_review": "",
-  "ver": "5.1.0",
-  "category": "IPTV OTT Premium"
-	},
-	{
-  "title": "OTT Prime 2.5.0 ** NEW **",
-  "description": "Inspiree de l'application NexTV avec une interface plus proche esthetiquement d'une appli NetFlix",
-  "url": "https://www.dropbox.com/scl/fi/xh8vf2p2eeqmi82z7no9c/OTT-Premium-Prime-2.5.0-signed.apk?rlkey=jf5x56mzfr7e0i2a59ch9ta55&dl=1",
-  "app_review": "",
-  "ver": "2.5.0 (⭐07/06/26⭐)",
-  "category": "IPTV OTT Premium"
-	},
-	{
   "title": "PowerTunnel for Android 📡",
   "description": "Une solution de censure anti-gouvernementale simple, evolutive, multiplateforme et efficace pour Android.",
   "url": "https://github.com/krlvm/PowerTunnel-Android/releases/download/v2.6.3/PowerTunnel.apk",
   "app_review": "",
   "ver": "1.0",
   "category": "VPN"
-	},
-	{
-  "title": "Premium OTT V4",
-  "description": "Lecteur base sur le celebre IPTV Smarters Pro avec fonction de téléchargements",
-  "url": "https://dl.dropboxusercontent.com/scl/fi/eki1mlxufijrjdg5uv6ff/OTT-Premium-Smarters-4.1.1.apk?rlkey=evtjhp5bgnhkvskue6reoqbtf&dl=0",
-  "app_review": "",
-  "ver": "4.1.1",
-  "category": "IPTV OTT Premium"
 	},
 	{
   "title": "Projectivy Launcher",
@@ -273,8 +249,6 @@
   "ver": "2.2.3",
   "category": "Multimédia"
 	},
-	  
-	  
 	{
   "title": "Vimu Media Player️ ⏯️",
   "description": "Le meilleur lecteur pour regarder des videos sur Android TV.",
@@ -298,14 +272,6 @@
   "app_review": "https://www.dropbox.com/scl/fi/lkzqlnfd9uul24hf97s7j/VLC-MediaPayer-3.7.1-armv7.apk?rlkey=83391frasyn3rnk50gg5d4q6x&dl=1",
   "ver": "3.7.0",
   "category": "Multimédia"
-	},
-	{
-  "title": "XCIPTV 7.0 modded",
-  "description": "XCIPTV PLAYER utilise ExoPlayer et VLC Player. Cette application peut etre installee sur les telephones, tablettes et televiseurs Android.\nAdresse URL du serveur:\n\n- http://dob-1.com",
-  "url": "https://dl.dropboxusercontent.com/scl/fi/m87i3le836xvrpt2nzvgb/XCIPTV-v7.0-Mod.apk?rlkey=2qedmb5bsy229xtizzkz5ub3y&dl=0",
-  "app_review": "",
-  "ver": "7.0.909",
-  "category": "IPTV OTT Premium"
 	},
 	{
   "title": "Navigateur Zeus Browser 🌐",
