@@ -48,7 +48,7 @@
   "category": "Assistance"
 	},	
 	{
-  "title": "Aptoide 📱",
+  "title": "Aptoide Smartphone 📱",
   "description": "Store alternatif n'impliquant pas l'ajout d'un compte Google",
   "url": "https://pool.apk.aptoide.com/aptoide-web/cm-aptoide-pt-12060-71289868-2725e9ae81839a4ae69f8f362fc4d7e1.apk?apk_name=aptoide",
   "app_review": "",
@@ -184,12 +184,60 @@
   "category": "Navigateurs"
 	},
 	{
+  "title": "XCIPTV 7.0 modded",
+  "description": "XCIPTV PLAYER utilise ExoPlayer et VLC Player. Cette application peut etre installee sur les telephones, tablettes et televiseurs Android.\nAdresse URL du serveur:\n\n- http://eu.100900.me",
+  "url": "https://dl.dropboxusercontent.com/scl/fi/m87i3le836xvrpt2nzvgb/XCIPTV-v7.0-Mod.apk?rlkey=2qedmb5bsy229xtizzkz5ub3y&dl=0",
+  "app_review": "",
+  "ver": "7.0.909",
+  "category": "IPTV Divers"
+	},
+	{
   "title": "PowerTunnel for Android 📡",
   "description": "Une solution de censure anti-gouvernementale simple, evolutive, multiplateforme et efficace pour Android.",
   "url": "https://github.com/krlvm/PowerTunnel-Android/releases/download/v2.6.3/PowerTunnel.apk",
   "app_review": "",
   "ver": "1.0",
   "category": "VPN"
+	},
+	{
+  "title": "OTT Prime 2.5.1 ** NEW **",
+  "description": "Inspiree de l'application NexTV avec une interface plus proche esthetiquement d'une appli NetFlix",
+  "url": "https://www.dropbox.com/scl/fi/lscnh9zbbi82gnkwz4h34/OTT-Premium-Prime-2.5.1-signed.apk?rlkey=qyc4shavuec5etwsd9djflwge&dl=1",
+  "app_review": "",
+  "ver": "2.5.1 (⭐16/06/26⭐)",
+  "category": "IPTV Divers"
+	},
+	{
+  "title": "OTT Premium Tivimate",
+  "description": "Basee sur le celebre Tivimate, cette application a des fonctionnalités de suggestions et une esthetique rafinee",
+  "url": "https://www.dropbox.com/scl/fi/5sveoy7i0ax5havwtbzcz/OTT-Premium-Tivimate-5.1.0-NEW-signed.apk?rlkey=e711j6yglobbsfrx6fmomxocc&dl=1",
+  "app_review": "",
+  "ver": "5.1.1",
+  "category": "IPTV Divers"
+	},
+	{
+  "title": "OTT Premium Smarters V4",
+  "description": "Lecteur base sur le celebre IPTV Smarters Pro avec fonction de téléchargements",
+  "url": "https://dl.dropboxusercontent.com/scl/fi/eki1mlxufijrjdg5uv6ff/OTT-Premium-Smarters-4.1.1.apk?rlkey=evtjhp5bgnhkvskue6reoqbtf&dl=0",
+  "app_review": "",
+  "ver": "4.1.1",
+  "category": "IPTV Divers"
+	},
+	{
+  "title": "NexTV Android TV ** NEW ** ",
+  "description": "Lecteur IPTV soigné esthétiquement avec proposition de contenu similaire, accès aux fiches d'acteurs",
+  "url": "https://www.dropbox.com/scl/fi/bm59245l0yspsr41b0t13/NexTv_IPTV_player_v3_2_7_rev2_google_tv_mod-unlocked.apk?rlkey=q7p1jhndnbce6497q188areei&dl=1",
+  "app_review": "",
+  "ver": "3.2.7 (⭐16/06/26⭐)",
+  "category": "IPTV Divers"
+	},
+	{
+  "title": "IPTV Smarters Pro ** NEW ** ",
+  "description": "LE célèbre lecteur universel",
+  "url": "https://www.dropbox.com/scl/fi/rz5lcqob7f3o1obqk8ajm/IPTV-Smarters-Pro-v5.0-Premium.apk?rlkey=mrt03uhdu8glh96lpze9qz87j&dl=1",
+  "app_review": "",
+  "ver": "5.0 (⭐16/06/26⭐)",
+  "category": "IPTV Divers"
 	},
 	{
   "title": "Projectivy Launcher",
@@ -202,9 +250,9 @@
 	{
   "title": "RustDesk",
   "description": "Logiciel RustDesk pour prise en main à distance",
-  "url": "https://github.com/rustdesk/rustdesk/releases/download/1.4.6/rustdesk-1.4.6-universal-signed.apk",
+  "url": "https://github.com/rustdesk/rustdesk/releases/download/1.4.7/rustdesk-1.4.7-universal-signed.apk",
   "app_review": "",
-  "ver": "1.4.6",
+  "ver": "1.4.7 (⭐02/06/26⭐)",
   "category": "Assistance"
 	},
 	{
