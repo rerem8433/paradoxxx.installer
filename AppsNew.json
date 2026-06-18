@@ -200,7 +200,7 @@
   "category": "VPN"
 	},
 	{
-  "title": "OTT Prime 2.5.1 ** NEW **",
+  "title": "OTT Premium Prime 2.5.1 ** NEW **",
   "description": "Inspiree de l'application NexTV avec une interface plus proche esthetiquement d'une appli NetFlix",
   "url": "https://www.dropbox.com/scl/fi/lscnh9zbbi82gnkwz4h34/OTT-Premium-Prime-2.5.1-signed.apk?rlkey=qyc4shavuec5etwsd9djflwge&dl=1",
   "app_review": "",
@@ -208,11 +208,19 @@
   "category": "IPTV Divers"
 	},
 	{
-  "title": "OTT Premium Tivimate",
+  "title": "OTT Premium Tivi",
   "description": "Basee sur le celebre Tivimate, cette application a des fonctionnalités de suggestions et une esthetique rafinee",
   "url": "https://www.dropbox.com/scl/fi/5sveoy7i0ax5havwtbzcz/OTT-Premium-Tivimate-5.1.0-NEW-signed.apk?rlkey=e711j6yglobbsfrx6fmomxocc&dl=1",
   "app_review": "",
   "ver": "5.1.1",
+  "category": "IPTV Divers"
+	},
+	{
+  "title": "Tivimate",
+  "description": "Le célèbre lecteur IPTV *Tivimate*, une référence dans le monde des lecteurs XtreamCodes. Fonctionne avec un fichier de sauvegarde .tmb fourni sur demande par un ami qui vous veut du bien =) ",
+  "url": "https://www.dropbox.com/scl/fi/nw9fnr9yob1konkxx55cv/TiviMate-5.1.6-FlashGordon-PANEL_00000.store.apk?rlkey=mr6p0czsm4ta6lnue4jx251uy&dl=1",
+  "app_review": "",
+  "ver": "5.1.6 (⭐18/06/26⭐)",
   "category": "IPTV Divers"
 	},
 	{
