@@ -105,9 +105,9 @@
 	},
 		{
   "title": "AtlasPro Tivi (BETA - Android TV uniquement)",
-  "description": "Version AtlasPro du logiciel Tivimate avec une interface sobre mais diablement efficace. N.B ====> laisser d'abord appuyé sur ok sur cette ligne pour pouvoir télécharger le fichier de configuration de l'application. Puis revenir sur cet écran, cocher la case et aller sur Installer. Une fois installée, allez à gauche pour ouvrir les paramètres puis dans *Général* aller sur *Charger une sauvegarde* pour ensuite aller renseigner le fichier téléchargé. ",
-  "url": "https://www.dropbox.com/scl/fi/bdr2ejbjmd6l554k74tve/AtlasPro-Tivi-5.1.0-PANEL-OTT-PREMIUM.apk?rlkey=nkcfn1iesviwbn19a4dtyie8o&dl=1",
-  "app_review": "https://www.dropbox.com/scl/fi/gstvzwduir6zq3e0p6l13/AtlasPro-Tivi-Backup-AtlasPro_uncrypted.tmb?rlkey=166nxrodvtnbep02qs51xjljo&dl=1",
+  "description": "Version AtlasPro du logiciel Tivimate avec une interface sobre mais diablement efficace.\n N.B ====> Pour configurer votre abonnement, demandez le lien de votre sauvegarde Tivimate à votre connaissance.\n Une fois le logiciel lancé, allez sur *Parametres* puis sur *Général* pour enfin aller cliquer en bas sur *Restaurer les données*.\n Puis choisir *Entrer l'URL* et saisir l'URL que vous aura communiqué la personne.",
+  "url": "https://www.dropbox.com/scl/fi/bdr2ejbjmd6l554k74tve/AtlasPro-Tivi-5.1.0.apk?rlkey=nkcfn1iesviwbn19a4dtyie8o&dl=1",
+  "app_review": "",
   "ver": "5.1.1",
   "category": "IPTV Atlas Pro"
 	},
@@ -170,9 +170,9 @@
 	{
   "title": "Nova Video Player ⏯️",
   "description": "Lecteur video entierement gratuit et tres puissant pour decodeurs. Prend en charge le transfert audio direct (passthrow), la lecture DoVi (y compris Profle 7) et l'utilisation des ressources du reseau local. Il existe un systeme complet de parametres et la possibilite de creer un catalogue pratique a partir de votre collection de films et de series televisees.",
-  "url": "https://www.dropbox.com/scl/fi/w9y5snyt7wmgye55vrxto/Nova-6.4.36.apk?rlkey=ma4qh8uphh9tgsydj5dff4dnd&dl=1",
+  "url": "https://www.dropbox.com/scl/fi/kkgnla7bmf7zqu0vis99p/NovaVideoPlayer-v.6.4.39.apk?rlkey=qb7y6sf1rno1gdfhyesgrc7kh&dl=1",
   "app_review": "",
-  "ver": "6.4.36 (⭐08/05/26⭐)",
+  "ver": "6.4.39 (⭐20/06/26⭐)",
   "category": "Multimédia"
 	},
 	{
@@ -184,12 +184,52 @@
   "category": "Navigateurs"
 	},
 	{
-  "title": "XCIPTV 7.0 modded",
-  "description": "XCIPTV PLAYER utilise ExoPlayer et VLC Player. Cette application peut etre installee sur les telephones, tablettes et televiseurs Android.\nAdresse URL du serveur:\n\n- http://sf6.myftp.biz",
-  "url": "https://dl.dropboxusercontent.com/scl/fi/m87i3le836xvrpt2nzvgb/XCIPTV-v7.0-Mod.apk?rlkey=2qedmb5bsy229xtizzkz5ub3y&dl=0",
-  "app_review": "",
-  "ver": "7.0.909",
-  "category": "IPTV Divers"
+  "title": "DigitalTV XCIPTV",
+  "description": "Cette application est basée sur le fameux XCIPTV.\n Sobre, efficace, cette application peut etre installee sur les telephones, tablettes et televiseurs Android.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne",
+  "url": "https://www.dropbox.com/scl/fi/h6kzdf0n9wid1iu7ndtza/DigitalTV-XCIPTV-7.0.2000.apk?rlkey=8w59cte0g033lkxruch038307&dl=1",
+  "app_review": "https://uc039518ce92f9f10fa8271a22a9.previews.dropboxusercontent.com/p/thumb/ADBM1oQlzc7-XR-UGrvWtv6ifu3dCdiFopNBVoZ0OuE6QX1c8Ax2bgrNBlMc72JHe9hvZkeLmnqEqO055Pk0A855f7qqwnX_QXQQlNvaohbY4VU1cxm4-kza3g09-0Dt4cs5SEmmSMKvkuWgo_yya_xZuuOs4JiUpha487JT9BjfaXwGvZT3mJK_Av_1WwBtChRghQ8yQB_Xyk9pRFmW9C_b3qo4VoC5fWF-3yoJ3JUWwUSRApsxuQTPa3NJE5E-4cNiHj7WjGkemvmHbZ_7RTBSrl1c0cXTvJqhNFXcUJGE3hRzyKsAI97X_2fd1kAv_U1AYeMN6vbQppEWDyXdZKDMaGTtn03OsYrAc9M0dXoZQnnKW9ZL6FNe3J73AAN6127B1w5YaraI39OCwoXDrfQX/p.png?is_prewarmed=true",
+  "ver": "7.0.2000 (⭐26/06/26⭐)",
+  "category": "IPTV OTT"
+	},
+	{
+  "title": "DigitalTV iBo-Ultimate",
+  "description": "Cette application est basée sur l'application iBoPlayer.\n Cette application peut etre installee sur les telephones, tablettes et televiseurs Android.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne",
+  "url": "https://www.dropbox.com/scl/fi/511u5eom0aixtpza6eh5e/DigitalTV-IBO_Ultimate_43.apk?rlkey=7yog8hwgsjoggn93j1iefj1ek&dl=1",
+  "app_review": "https://uc12dda2e4a5c2c384c013b3ba27.previews.dropboxusercontent.com/p/thumb/ADCaUdQx-0KljK5hiBNpqYcdPFQh7pCW45sfs_FT0R5puui6z9l5ujFSCY0LEqwF8ic1htwYk2_E2nvONQ1-ZOaDHBI1eeS06n-wsqpCfb1lBI0ZqHtA05K1U-w93tsvgqyv2Yd7MNzJGkgyyh3Dd44pU91Y62iSWtRjMz5-ic8V7e4WTZxH7r5mSIdhLyqTIK1v3QM-FWDNZHJcQJLttTZ-2hfBBuwpWJU7eRta4NFiFhFbO2m3qMfF0fayJDkdiVKbPKGAwZZjXscmh0kRrnG5iA14zEoacpgnpC341n18W4jR_yGJgCSkyrddLsRtuhBfeuissMA2ogxbgbkUxXIbdnQT6HpNSXugTec6GB4SYbVX0YiJT4_YhVI-qzxNT2A/p.png?is_prewarmed=true",
+  "ver": "4.3 (⭐26/06/26⭐)",
+  "category": "IPTV OTT"
+	},
+	{
+  "title": "DigitalTV Nio",
+  "description": "Cette application est basée sur Nio Player.\n Cette application peut etre installee sur les telephones, tablettes et televiseurs Android.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne",
+  "url": "https://www.dropbox.com/scl/fi/hof11ramk9s8rjlrnwiw8/DigitalTV-Nio_1.0.8.apk?rlkey=2ng8uv7h9j0g27uag607vikf6&dl=1",
+  "app_review": "https://uc38920a7cf5e96b2aa32d578dba.previews.dropboxusercontent.com/p/thumb/ADAYW3nTc8S8t6hvaZEEy7vW82rYXZnh0SPhuMZu7tCtpVnSAfg6Qi9aajL4fRLRWcmLjGLGO2ua394NB3f0Rmxkpy2QlUtNv4WqbbZaF8SALt_KG3ygd65xgAuTxZ6qRCT9OWGs-0lyRR2uSV6v7soYWupo7nJHXyrfdDkGwx8ADan0Id892vWhfbLxtiFtKFae4S9O2sVdQtOnpKol0AFQnwrG56B2JwZbWU6dcKFGuFt81BXjlvba2IG31iW4e4YTq0GEr6kTE8MlAbJfawAVBaMgPzo6A9f3oDkVJPNFnn6YDA-OxD6pDpv-jp0Rwv8ad9BgHa8LZVsw2JoaNQcBoCJbnSgIPep2AdWKBA_50tlf9ml6Drdtu8ggHhQib4ascd7YPLU_XWs4W6A_qSqu/p.png?is_prewarmed=true",
+  "ver": "1.0.8 (⭐26/06/26⭐)",
+  "category": "IPTV OTT"
+	},
+	{
+  "title": "DigitalTV Tivimate",
+  "description": "Cette application est basée sur le fameux Tivimate.\n Cette application ne peut etre installee QUE sur des boitiers et téléviseurs Android (non tactiles).\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne",
+  "url": "https://www.dropbox.com/scl/fi/w5gqdgmfvw31wnervd4dc/DigitalTV-TiviMate-5.1.0.apk?rlkey=5tqvyfne87hht8numcqz021sl&dl=1",
+  "app_review": "https://uc681fb97d064d319b8e60ae6750.previews.dropboxusercontent.com/p/thumb/ADDiptZaRQxeJfQ_BU-XD4UOeafO5HH0yf-U9yh_BIOY0kR0Ve1la4xBWxR8bISJGz8v_7CcrJhVGt_YF3Bkk5Q7CoILLNqLtuXiMkGi6aljc64dAZLIS8iamgRb8NhuoIcA3BHztR_FU_nW6ufFANj2vTRrJHe1heF06_3Gp_o0_JbwfdT0j0Uq_UW_o3vqOJ1gGChRsSVtp2-n5Xy9y_U1Uz7QXtBD1m_zQdrVmgdfAYamSkxrDfqukFfGj42nHM0h56rVPaftjBjg2h-xcHhDih2932FHtzuDfYMSGLEZxaTZqf7LLWvA0jIw8z7yPLkGPlmnSJEKNymWkv1dg18xAYrcSW9R1_84qBdE6GcXR1UUfAFM_PazbOXiTb3uNgk/p.png?is_prewarmed=true",
+  "ver": "5.1.0 (⭐26/06/26⭐)",
+  "category": "IPTV OTT"
+	},
+	{
+  "title": "Infinityott Smarters v3.1",
+  "description": "Cette application est basée sur le fameux IPTV Smarters Pro.\n Cette application peut etre installée sur les téléphones, tablettes et televiseurs Android.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne",
+  "url": "https://www.dropbox.com/scl/fi/9uaosfhq1ixqxj69etadq/Infinityott-Smarters-v3.1.apk?rlkey=gw0rre0wzdk1tt9g7uxbijlef&dl=1",
+  "app_review": "https://uc6bbc84811715fa4715d1deb79a.previews.dropboxusercontent.com/p/thumb/ADACMTS6iP2GlISCxB5yjIGa9NZ___QUfuZj0f1qIdEA7T74Wj9Oxc3ziGCMF4etN8i7U2Cetk8Dny71siAhNoHNV_hN7EjmQEcetjitqH1usJEO3qIJXGOhjAxcghXYQsYkXyAkwRRuH-7dLPUzVliOialXftH3-G3hxHJfvLOb1mkqP6ujbXsEzAjCsxRBKpStfz9Kvx1WAh3-u7iCHQTPT8ObBLO2qCnBMUatquj4XGVYbAybNI12x3C2hzyRleSFSC-h4rDIBq7yGTqcqYXLY9hwpcOLIlKGpyxCeK7pzOVP5OW1GnquVm5Uge80m_jnsMH8N4-kFwNv-QbQ66cP3Cy3lTtk-RF0qivZkM9lSBVt4qNWb127kLor5s9j0Nep8SpaGPFLPSW-1xjZLD72/p.png?is_prewarmed=true",
+  "ver": "3.1 (⭐26/06/26⭐)",
+  "category": "IPTV OTT"
+	},
+	{
+  "title": "VU Player Pro",
+  "description": "Cette application peut etre installee sur les telephones, tablettes et televiseurs Android.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne",
+  "url": "https://www.dropbox.com/scl/fi/38y5whqbyaqcph7oty6tt/VU_Player_Pro_1.7.apk?rlkey=w01bzwh05sv06vsb91izdfceg&dl=1",
+  "app_review": "https://ucf4406f8aca262fa71fc9404646.previews.dropboxusercontent.com/p/thumb/ADB8IfrIwCSgmaZI6EGSE6nVciIg4GoDU8y72ycfNt4BFfxJtK6recZNUmMPIaU5eb0LfsBVRxQbe3B6E7_egSFjzTxqKH4Y6UKhum02uO5upi6VFszHdVkpayveVvmsrDdoBkfx9cpMofeCbAiIjnWvaicaEuyTk2lD57U3Ak5c91XD8BN2x4pm2WL2iWtERONC8rM_ZX2NyyVsOGoo19OXLQiFUcDRhcA35cb_RLwGHzFbZRCwhaLyVQFfBjOoMrMG5JwWlnrOZnDe7hreEBlx2meKpwYi-ldeOXnmV44jhfzr7ce3BMncHyAh0s_tzLz9jAPj1WGUBpzKbDWkXUv_Dyw0kPzcuu_Ux0vBX2EFNSzjVMirYekwjLWgo4br3ZVeEklkPuS2lLs7NJfo2kmb/p.png?is_prewarmed=true",
+  "ver": "1.7 (⭐26/06/26⭐)",
+  "category": "IPTV OTT"
 	},
 	{
   "title": "PowerTunnel for Android 📡",
@@ -200,36 +240,12 @@
   "category": "VPN"
 	},
 	{
-  "title": "OTT Premium Prime 2.5.1 ** NEW **",
+  "title": "OTT Premium Prime ** NEW **",
   "description": "Inspiree de l'application NexTV avec une interface plus proche esthetiquement d'une appli NetFlix",
   "url": "https://www.dropbox.com/scl/fi/lscnh9zbbi82gnkwz4h34/OTT-Premium-Prime-2.5.1-signed.apk?rlkey=qyc4shavuec5etwsd9djflwge&dl=1",
   "app_review": "",
-  "ver": "2.5.1 (⭐16/06/26⭐)",
-  "category": "IPTV Divers"
-	},
-	{
-  "title": "OTT Premium Tivi",
-  "description": "Basee sur le celebre Tivimate, cette application a des fonctionnalités de suggestions et une esthetique rafinee",
-  "url": "https://www.dropbox.com/scl/fi/5sveoy7i0ax5havwtbzcz/OTT-Premium-Tivimate-5.1.0-NEW-signed.apk?rlkey=e711j6yglobbsfrx6fmomxocc&dl=1",
-  "app_review": "",
-  "ver": "5.1.1",
-  "category": "IPTV Divers"
-	},
-	{
-  "title": "Tivimate",
-  "description": "Le célèbre lecteur IPTV *Tivimate*, une référence dans le monde des lecteurs XtreamCodes. Fonctionne avec un fichier de sauvegarde .tmb fourni sur demande par un ami qui vous veut du bien =) ",
-  "url": "https://www.dropbox.com/scl/fi/nw9fnr9yob1konkxx55cv/TiviMate-5.1.6-FlashGordon-PANEL_00000.store.apk?rlkey=mr6p0czsm4ta6lnue4jx251uy&dl=1",
-  "app_review": "",
-  "ver": "5.1.6 (⭐18/06/26⭐)",
-  "category": "IPTV Divers"
-	},
-	{
-  "title": "OTT Premium Smarters V4",
-  "description": "Lecteur base sur le celebre IPTV Smarters Pro avec fonction de téléchargements",
-  "url": "https://dl.dropboxusercontent.com/scl/fi/eki1mlxufijrjdg5uv6ff/OTT-Premium-Smarters-4.1.1.apk?rlkey=evtjhp5bgnhkvskue6reoqbtf&dl=0",
-  "app_review": "",
-  "ver": "4.1.1",
-  "category": "IPTV Divers"
+  "ver": "2.5.2 (⭐26/06/26⭐)",
+  "category": "IPTV OTT"
 	},
 	{
   "title": "NexTV Android TV ** NEW ** ",
@@ -300,17 +316,17 @@
 	{
   "title": "Stremio ⏯️",
   "description": "Le meilleur lecteur pour télécharger des films/séries sur Android TV.Fonctionnement avec torrentio recommandé : installer/lancer d'abord Stremio puis revenir ici et laissé appuyer sur OK pour télécharger torrentio",
-  "url": "https://dl.strem.io/android/v1.10.2-androidTV/com.stremio.one-1.10.2-31048578-armeabi-v7a.apk",
+  "url": "https://dl.strem.io/android/v2.3.2-android/com.stremio.one-2.3.2-5048578-armeabi-v7a.apk",
   "app_review": "stremio://torrentio.strem.fun/providers=yts,eztv,rarbg,1337x,thepiratebay,kickasstorrents,torrentgalaxy,magnetdl,torrent9|language=french/manifest.json",
-  "ver": "2.2.3",
+  "ver": "2.3.2",
   "category": "Multimédia"
 	},
 	{
   "title": "Vimu Media Player️ ⏯️",
   "description": "Le meilleur lecteur pour regarder des videos sur Android TV.",
-  "url": "https://www.dropbox.com/scl/fi/7k7q9z5n9deh7x0dikf8r/Vimu-MediaPlayer-12.40.apk?rlkey=yh8yr0zyf8xo2ndjf4h13saey&dl=1",
+  "url": "https://www.dropbox.com/scl/fi/9cswxlsjskul3t1cygrp6/Vimu.Media.Player.12.50.apk?rlkey=hwpfpmfsoi3dlskgb9zhx6a84&dl=1",
   "app_review": "",
-  "ver": "12.40 ⭐(22/06/2026)⭐",
+  "ver": "12.50 ⭐(26/06/2026)⭐",
   "category": "Multimédia"
 	},
 	{
