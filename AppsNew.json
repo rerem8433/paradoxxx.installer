@@ -8,7 +8,7 @@
     "category": "Z"
   	},
 	{
-  "title": "** NEW ** ParadoxXx Installer ATV",
+  "title": "ParadoxXx Installer ATV",
   "description": "Nouvelle version de mon application avec correction de bugs signalés ou trouvés",
   "url": "https://www.dropbox.com/scl/fi/x7hfqngeof197gmf9kxj2/ParadoxXx-Installer-2.1-avec-applis-SANS-URL-MODIFIABLE.apk?rlkey=gxgotxo524y8h53a83729tart&dl=1",
   "app_review": "",
@@ -16,8 +16,8 @@
   "category": "Utilitaires"
 	},	
 	{
-  "title": "** NEW ** 9Xtream",
-  "description": "Nouvelle application IPTV permettant le telechargement de films/séries pour recuperer ensuite sur une cle USB/HDD",
+  "title": "9Xtream",
+  "description": "Nouvelle application IPTV permettant le téléchargement de films/séries et possibilité de récuperer ensuite sur une cle USB/HDD",
   "url": "https://www.dropbox.com/scl/fi/kmt243jeujxso51xiptf9/9Xtream_46.0.0.apk?rlkey=dbozh7gkjrz19uuc2rpfgja8e&dl=1",
   "app_review": "https://www.dropbox.com/scl/fi/v7ahp2fkqxypqu5n1k3d8/9xtream.mp4?rlkey=u63j3ququ2e78bu69vz0h96yc&dl=0",
   "ver": "46.0.0",
@@ -32,22 +32,6 @@
   "category": "Assistance"
 	},
 	{
-  "title": "AnyDesk Plugin AD1 (optionnel)",
-  "description": "A utiliser si Android 11 TV sur le boitier, installation obligatoire avec AnyDesk",
-  "url": "http://download.anydesk.com/android/plugins/adcontrol-ad1.apk",
-  "app_review": "",
-  "ver": "1.7.2",
-  "category": "Assistance"
-	},
-	{
-  "title": "AnyDesk Plugin AOSP2 (optionnel)",
-  "description": "A utiliser si Android 11 TV sur le boitier, installation obligatoire avec AnyDesk",
-  "url": "http://download.anydesk.com/android/plugins/adcontrol-aosp2.apk",
-  "app_review": "",
-  "ver": "1.7.2",
-  "category": "Assistance"
-	},	
-	{
   "title": "Aptoide Smartphone 📱",
   "description": "Store alternatif n'impliquant pas l'ajout d'un compte Google",
   "url": "https://pool.apk.aptoide.com/aptoide-web/cm-aptoide-pt-12060-71289868-2725e9ae81839a4ae69f8f362fc4d7e1.apk?apk_name=aptoide",
@@ -57,7 +41,7 @@
 	},
 	{
   "title": "Aptoide TV 📱",
-  "description": "Version AndroidTV de la celebre application Aptoide",
+  "description": "Version AndroidTV de la célèbre application Aptoide",
   "url": "https://pool.apk.aptoide.com/carolyne-silva/cm-aptoidetv-pt-542-72049303-6212d8ef0991eaf05b32f8f0141dadb8.apk",
   "app_review": "",
   "ver": "1.5.3",
@@ -73,7 +57,7 @@
 	},
 	{
   "title": "AtlasPro iBo",
-  "description": "Inspiree de l'application MediaPlayer iBo des TVs Samsung/LG",
+  "description": "Inspirée de l'application MediaPlayer iBo des TVs Samsung/LG",
   "url": "https://atlaspro.io/download/64/android-smartphones-tablettes-box-andoid-firestick-android-tv/2294/atlas-pro-ibo.apk",
   "app_review": "https://dl.dropboxusercontent.com/scl/fi/oayvd6jsw4n0av7ti145m/ATLAS-PRO-IBO.apk?rlkey=ak90t4eu8e174mf3qvzaq435z&dl=0",
   "ver": "4.30",
@@ -89,7 +73,7 @@
 	},
 	{
   "title": "AtlasPro ONTV",
-  "description": "Inspiree de la célèbre application IPTV Smarters Pro avec fonction de téléchargement de films ou episodes de series pour visionnage en hors-ligne.",
+  "description": "Inspirée de la célèbre application IPTV Smarters Pro avec fonction de téléchargement de films ou episodes de series pour visionnage en hors-ligne.",
   "url": "https://atlaspro.io/download/64/android-smartphones-tablettes-box-andoid-firestick-android-tv/2269/atlaspro-ontv-4-0.apk",
   "app_review": "https://dl.dropboxusercontent.com/scl/fi/e51sfpmsh3o46hb8z9kdq/ATLASPRO-ONTV-4.0.2.apk?rlkey=bnkggnbe2s45vn4ps1l74jdbc&st=q055fymq&dl=0",
   "ver": "4.0.2 (⭐26/01/2026⭐)",
@@ -97,7 +81,7 @@
 	},
 	{
   "title": "AtlasPro Prime (Android TV uniquement)",
-  "description": "Inspiree de l'application NexTV avec une interface plus proche esthetiquement d'une appli NetFlix, fonctions DNS intégrées.",
+  "description": "Inspirée de l'application NexTV avec une interface plus proche esthetiquement d'une appli NetFlix, fonction modifications de DNS intégrées.",
   "url": "https://atlaspro.io/download/64/android-smartphones-tablettes-box-andoid-firestick-android-tv/2229/atlaspro-prime.apk",
   "app_review": "https://dl.dropboxusercontent.com/scl/fi/ied7okqbq6vb9ihig3u22/ATLASPRO_Prime.apk?rlkey=u33vcrxcg7tceow2yg8cnmz36&dl=0",
   "ver": "2.4.6",
@@ -105,7 +89,7 @@
 	},
 		{
   "title": "AtlasPro Tivi (BETA - Android TV uniquement)",
-  "description": "Version AtlasPro du logiciel Tivimate avec une interface sobre mais diablement efficace.\n N.B ====> Pour configurer votre abonnement, demandez le lien de votre sauvegarde Tivimate à votre connaissance.\n Une fois le logiciel lancé, allez sur *Parametres* puis sur *Général* pour enfin aller cliquer en bas sur *Restaurer les données*.\n Puis choisir *Entrer l'URL* et saisir l'URL que vous aura communiqué la personne.",
+  "description": "    Version AtlasPro du logiciel Tivimate avec une interface sobre mais diablement efficace.\n   N.B ====> Pour configurer votre abonnement, demandez le lien de votre sauvegarde Tivimate à votre connaissance.\n  Une fois le logiciel lancé, allez sur *Parametres* puis sur *Général* pour enfin aller cliquer en bas sur *Restaurer les données*. Choisir enfin *Entrer l'URL* et saisir l'URL que vous aura communiqué la personne.",
   "url": "https://www.dropbox.com/scl/fi/bdr2ejbjmd6l554k74tve/AtlasPro-Tivi-5.1.0.apk?rlkey=nkcfn1iesviwbn19a4dtyie8o&dl=1",
   "app_review": "",
   "ver": "5.1.1",
@@ -113,7 +97,7 @@
 	},
 	{
   "title": "Browser for ATV 🌐",
-  "description": "Browser for ATV",
+  "description": "Navigateur *Browser for ATV* qui possède un bloqueur de pubs intégré",
   "url": "https://www.dropbox.com/scl/fi/6aej6gxq78vryj396y0rn/Browser-for-TV-2.14.37.apk?rlkey=ttc1gm3agaqzjl7cj3bulso6h&dl=1",
   "app_review": "",
   "ver": "2.14.37 (⭐12/06/2026⭐)",
@@ -129,7 +113,7 @@
 	},
 	{
   "title": "Device Info HW+",
-  "description": "Utilitaire pour verifier le processeur ainsi que la quantite de RAM sur les telephones ou boxs Android",
+  "description": "Utilitaire pour vérifier le processeur ainsi que la quantité de RAM sur les téléphones ou boxs Android",
   "url": "https://www.dropbox.com/scl/fi/6rl2v1tmdy98ijnbjjzoj/Device-Info-HW-5.26.1.apk?rlkey=4hr92rtru2xijtr0yz1gmpd90&dl=1",
   "app_review": "",
   "ver": "5.26.1 (⭐22/06/2026⭐)",
@@ -145,14 +129,14 @@
 	},
 	{
   "title": "FileManager Plus",
-  "description": "FileManager Plus est un explorateur de fichiers simple et puissant pour les appareils Android. Avec une interface utilisateur ergonomique, il est extrêmement facile a utiliser.",
+  "description": "FileManager Plus est un explorateur de fichiers simple et puissant pour les appareils Android. Avec une interface utilisateur ergonomique, il est extrêmement facile à utiliser.",
   "url": "https://www.dropbox.com/scl/fi/cmceeziowzz2sceszcaeo/File-Manager-Premium-v3.8.2-Balatan.apk?rlkey=2sv7pr2rmp7yvuy6qb0u9bctk&dl=1",
   "app_review": "",
   "ver": "3.8.2 (⭐22/06/26⭐)",
   "category": "Utilitaires"
 	},
 	{
-  "title": "** NEW ** Intra DNS 📡",
+  "title": "Intra DNS 📡",
   "description": "Intra vous protège contre la manipulation DNS, une technique de piratage visant à bloquer l'accès aux sites de presse",
   "url": "https://dl.dropboxusercontent.com/scl/fi/yfxo4aq6iql4u8y7pec3k/app.intra_72.apk?rlkey=73tsbv082hromo9dtd57ewhd5&dl=0",
   "app_review": "https://getintra.org",
@@ -161,7 +145,7 @@
 	},
 	{
   "title": "MX Player ⏯️",
-  "description": "Lecteur alternatif pour regarder des videos sur Android TV.",
+  "description": "Lecteur alternatif pour regarder des vidéos sur Android TV.",
   "url": "https://dl.dropboxusercontent.com/scl/fi/gtolpq5pdlx9dzulun1ho/MX-Player-v2.0.0-Premium.apk?rlkey=b18l3gfxrkwwl18xm4ufys5ba&dl=0",
   "app_review": "",
   "ver": "2.0.0",
@@ -169,7 +153,7 @@
 	},
 	{
   "title": "Nova Video Player ⏯️",
-  "description": "Lecteur video entierement gratuit et tres puissant pour decodeurs. Prend en charge le transfert audio direct (passthrow), la lecture DoVi (y compris Profle 7) et l'utilisation des ressources du reseau local. Il existe un systeme complet de parametres et la possibilite de creer un catalogue pratique a partir de votre collection de films et de series televisees.",
+  "description": "Lecteur video entièrement gratuit et tres puissant pour décodeurs. Prend en charge le transfert audio direct (passthrow), la lecture DoVi (y compris Profle 7) et l'utilisation des ressources du reseau local. Il existe un systeme complet de parametres et la possibilite de creer un catalogue pratique à partir de votre collection de films et de series televisees.",
   "url": "https://www.dropbox.com/scl/fi/kkgnla7bmf7zqu0vis99p/NovaVideoPlayer-v.6.4.39.apk?rlkey=qb7y6sf1rno1gdfhyesgrc7kh&dl=1",
   "app_review": "",
   "ver": "6.4.39 (⭐20/06/26⭐)",
@@ -185,7 +169,7 @@
 	},
 	{
   "title": "DigitalTV XCIPTV",
-  "description": "Cette application est basée sur le fameux XCIPTV.\n Sobre, efficace, cette application peut etre installee sur les telephones, tablettes et televiseurs Android.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne",
+  "description": "Inspirée de l'application XCIPTV et qui possède une interface classique/sobre mais efficace",
   "url": "https://www.dropbox.com/scl/fi/h6kzdf0n9wid1iu7ndtza/DigitalTV-XCIPTV-7.0.2000.apk?rlkey=8w59cte0g033lkxruch038307&dl=1",
   "app_review": "https://uc039518ce92f9f10fa8271a22a9.previews.dropboxusercontent.com/p/thumb/ADBM1oQlzc7-XR-UGrvWtv6ifu3dCdiFopNBVoZ0OuE6QX1c8Ax2bgrNBlMc72JHe9hvZkeLmnqEqO055Pk0A855f7qqwnX_QXQQlNvaohbY4VU1cxm4-kza3g09-0Dt4cs5SEmmSMKvkuWgo_yya_xZuuOs4JiUpha487JT9BjfaXwGvZT3mJK_Av_1WwBtChRghQ8yQB_Xyk9pRFmW9C_b3qo4VoC5fWF-3yoJ3JUWwUSRApsxuQTPa3NJE5E-4cNiHj7WjGkemvmHbZ_7RTBSrl1c0cXTvJqhNFXcUJGE3hRzyKsAI97X_2fd1kAv_U1AYeMN6vbQppEWDyXdZKDMaGTtn03OsYrAc9M0dXoZQnnKW9ZL6FNe3J73AAN6127B1w5YaraI39OCwoXDrfQX/p.png?is_prewarmed=true",
   "ver": "7.0.2000 (⭐26/06/26⭐)",
@@ -193,7 +177,7 @@
 	},
 	{
   "title": "DigitalTV iBo-Ultimate",
-  "description": "Cette application est basée sur l'application iBoPlayer.\n Cette application peut etre installee sur les telephones, tablettes et televiseurs Android.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne",
+  "description": "Cette application est basée sur l'application iBoPlayer.\n Cette application peut etre installee sur les téléphones, tablettes et televiseurs Android.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne",
   "url": "https://www.dropbox.com/scl/fi/511u5eom0aixtpza6eh5e/DigitalTV-IBO_Ultimate_43.apk?rlkey=7yog8hwgsjoggn93j1iefj1ek&dl=1",
   "app_review": "https://uc12dda2e4a5c2c384c013b3ba27.previews.dropboxusercontent.com/p/thumb/ADCaUdQx-0KljK5hiBNpqYcdPFQh7pCW45sfs_FT0R5puui6z9l5ujFSCY0LEqwF8ic1htwYk2_E2nvONQ1-ZOaDHBI1eeS06n-wsqpCfb1lBI0ZqHtA05K1U-w93tsvgqyv2Yd7MNzJGkgyyh3Dd44pU91Y62iSWtRjMz5-ic8V7e4WTZxH7r5mSIdhLyqTIK1v3QM-FWDNZHJcQJLttTZ-2hfBBuwpWJU7eRta4NFiFhFbO2m3qMfF0fayJDkdiVKbPKGAwZZjXscmh0kRrnG5iA14zEoacpgnpC341n18W4jR_yGJgCSkyrddLsRtuhBfeuissMA2ogxbgbkUxXIbdnQT6HpNSXugTec6GB4SYbVX0YiJT4_YhVI-qzxNT2A/p.png?is_prewarmed=true",
   "ver": "4.3 (⭐26/06/26⭐)",
@@ -201,7 +185,7 @@
 	},
 	{
   "title": "DigitalTV Nio",
-  "description": "Cette application est basée sur Nio Player.\n Cette application peut etre installee sur les telephones, tablettes et televiseurs Android.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne",
+  "description": "Cette application est basée sur Nio Player.\n Cette application peut etre installee sur les téléphones, tablettes et televiseurs Android.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne",
   "url": "https://www.dropbox.com/scl/fi/hof11ramk9s8rjlrnwiw8/DigitalTV-Nio_1.0.8.apk?rlkey=2ng8uv7h9j0g27uag607vikf6&dl=1",
   "app_review": "https://uc38920a7cf5e96b2aa32d578dba.previews.dropboxusercontent.com/p/thumb/ADAYW3nTc8S8t6hvaZEEy7vW82rYXZnh0SPhuMZu7tCtpVnSAfg6Qi9aajL4fRLRWcmLjGLGO2ua394NB3f0Rmxkpy2QlUtNv4WqbbZaF8SALt_KG3ygd65xgAuTxZ6qRCT9OWGs-0lyRR2uSV6v7soYWupo7nJHXyrfdDkGwx8ADan0Id892vWhfbLxtiFtKFae4S9O2sVdQtOnpKol0AFQnwrG56B2JwZbWU6dcKFGuFt81BXjlvba2IG31iW4e4YTq0GEr6kTE8MlAbJfawAVBaMgPzo6A9f3oDkVJPNFnn6YDA-OxD6pDpv-jp0Rwv8ad9BgHa8LZVsw2JoaNQcBoCJbnSgIPep2AdWKBA_50tlf9ml6Drdtu8ggHhQib4ascd7YPLU_XWs4W6A_qSqu/p.png?is_prewarmed=true",
   "ver": "1.0.8 (⭐26/06/26⭐)",
@@ -225,7 +209,7 @@
 	},
 	{
   "title": "VU Player Pro",
-  "description": "Cette application peut etre installee sur les telephones, tablettes et televiseurs Android.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne",
+  "description": "Cette application peut etre installee sur les téléphones, tablettes et televiseurs Android.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne",
   "url": "https://www.dropbox.com/scl/fi/38y5whqbyaqcph7oty6tt/VU_Player_Pro_1.7.apk?rlkey=w01bzwh05sv06vsb91izdfceg&dl=1",
   "app_review": "https://ucf4406f8aca262fa71fc9404646.previews.dropboxusercontent.com/p/thumb/ADB8IfrIwCSgmaZI6EGSE6nVciIg4GoDU8y72ycfNt4BFfxJtK6recZNUmMPIaU5eb0LfsBVRxQbe3B6E7_egSFjzTxqKH4Y6UKhum02uO5upi6VFszHdVkpayveVvmsrDdoBkfx9cpMofeCbAiIjnWvaicaEuyTk2lD57U3Ak5c91XD8BN2x4pm2WL2iWtERONC8rM_ZX2NyyVsOGoo19OXLQiFUcDRhcA35cb_RLwGHzFbZRCwhaLyVQFfBjOoMrMG5JwWlnrOZnDe7hreEBlx2meKpwYi-ldeOXnmV44jhfzr7ce3BMncHyAh0s_tzLz9jAPj1WGUBpzKbDWkXUv_Dyw0kPzcuu_Ux0vBX2EFNSzjVMirYekwjLWgo4br3ZVeEklkPuS2lLs7NJfo2kmb/p.png?is_prewarmed=true",
   "ver": "1.7 (⭐26/06/26⭐)",
@@ -397,7 +381,7 @@
     },
 	{
   "title": "Z- Verificateur Resolveur DNS",
-  "description": "Site Browserleaks.com pour verifier les DNS actuels du boitier/telephone",
+  "description": "Site Browserleaks.com pour verifier les DNS actuels du boitier/téléphone",
   "app_review": "https://browserleaks.net/dns",
   "ver": "",
   "category": "."
