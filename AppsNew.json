@@ -258,9 +258,9 @@
 	{
   "title": "RustDesk",
   "description": "Logiciel RustDesk pour prise en main à distance",
-  "url": "https://github.com/rustdesk/rustdesk/releases/download/1.4.8/rustdesk-1.4.8-universal-signed.apk",
+  "url": "https://github.com/rustdesk/rustdesk/releases/download/1.4.9/rustdesk-1.4.9-universal-signed.apk",
   "app_review": "",
-  "ver": "1.4.8 (⭐25/06/26⭐)",
+  "ver": "1.4.9 (⭐06/07/26⭐)",
   "category": "Assistance"
 	},
 	{
@@ -269,7 +269,7 @@
   "url": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
   "mirror": "https://go.aftvnews.com/28544",
   "app_review": "https://www.youtube.com/watch?v=ZuxE14gGoRc",
-  "ver": "31.73 (⭐25/05/26⭐)",
+  "ver": "31.94 (⭐08/07/26⭐)",
   "category": "YouTube"
 	},
 	{
@@ -277,7 +277,7 @@
   "description": "Logiciel pour prise en main à distance SANS confirmation",
   "url": "https://download.teamviewer.com/download/TeamViewerHost.apk",
   "app_review": "",
-  "ver": "15.77",
+  "ver": "15.79",
   "category": "Assistance"
 	},
 	{
