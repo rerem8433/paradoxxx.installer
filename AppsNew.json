@@ -28,7 +28,7 @@
   "description": "A utiliser si Android 11 TV sur le boitier",
   "url": "http://download.anydesk.com/anydesk.apk",
   "app_review": "https://dl.dropboxusercontent.com/scl/fi/pfcjq5vcz6pzcdob6jouz/Anydesk.mp4?rlkey=t9nuklzq9896s471xiwpqmkn5",
-  "ver": "8.3.4 (⭐08/05/2026⭐)",
+  "ver": "8.4.0 (⭐12/07/2026⭐)",
   "category": "Assistance"
 	},
 	{
@@ -36,7 +36,7 @@
   "description": "A utiliser avec AnyDesk",
   "url": "https://download.anydesk.com/android/plugins/adcontrol-ad1.apk",
   "app_review": "",
-  "ver": "8.3.4 (⭐08/05/2026⭐)",
+  "ver": ".",
   "category": "Assistance"
 	},	
 	{
@@ -154,9 +154,9 @@
 	{
   "title": "MX Player ⏯️",
   "description": "Lecteur alternatif pour regarder des vidéos sur Android TV.",
-  "url": "https://dl.dropboxusercontent.com/scl/fi/gtolpq5pdlx9dzulun1ho/MX-Player-v2.0.0-Premium.apk?rlkey=b18l3gfxrkwwl18xm4ufys5ba&dl=0",
+  "url": "https://www.dropbox.com/scl/fi/x6785nyah6ucb54s63rve/MX-Player-v3.0.12-Offline-MOD-youarefinished.apk?rlkey=bj8oasvrh825zscpe87yuzvm6&dl=1",
   "app_review": "",
-  "ver": "2.0.0",
+  "ver": "3.0.12 (⭐20/07/26⭐)",
   "category": "Multimédia"
 	},
 	{
@@ -164,7 +164,7 @@
   "description": "Lecteur video entièrement gratuit et tres puissant pour décodeurs. Prend en charge le transfert audio direct (passthrow), la lecture DoVi (y compris Profle 7) et l'utilisation des ressources du reseau local. Il existe un systeme complet de parametres et la possibilite de creer un catalogue pratique à partir de votre collection de films et de series televisees.",
   "url": "https://www.dropbox.com/scl/fi/bxbe8v41vit3xsucmwwi1/NovaVIdeoPlayer-v.6.4.40.apk?rlkey=1hqdnrakkr8r9rdjnlrizjsyq&dl=1",
   "app_review": "",
-  "ver": "6.4.40 (⭐08/07/26⭐)",
+  "ver": "6.4.40 (⭐18/07/26⭐)",
   "category": "Multimédia"
 	},
 	{
@@ -176,7 +176,7 @@
   "category": "Navigateurs"
 	},
 	{
-  "title": "DigitalTV - XCIPTV",
+  "title": "DigitalTV - XC",
   "description": "Inspirée de l'application XCIPTV et qui possède une interface classique/sobre mais efficace.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
   "url": "https://www.dropbox.com/scl/fi/h6kzdf0n9wid1iu7ndtza/DigitalTV-XCIPTV-7.0.2000.apk?rlkey=8w59cte0g033lkxruch038307&dl=1",
   "app_review": "https://dl.dropboxusercontent.com/scl/fi/a09lm7jeqhlsyldqmozlf/DigitalTV-XCIPTV-7.0.2000.png?rlkey=mpi81ua6ndfdpb5qjvm5az2kf&dl=0",
@@ -269,7 +269,7 @@
   "url": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
   "mirror": "https://go.aftvnews.com/28544",
   "app_review": "https://www.youtube.com/watch?v=ZuxE14gGoRc",
-  "ver": "31.94 (⭐08/07/26⭐)",
+  "ver": "31.94 (⭐12/06/26⭐)",
   "category": "YouTube"
 	},
 	{
@@ -285,16 +285,16 @@
   "description": "TizenTube Cobalt est une application basée sur Cobalt qui améliore votre expérience de streaming préféré en supprimant les publicités, en ajoutant le support SponsorBlock",
   "url": "https://github.com/reisxd/TizenTubeCobalt/releases/download/latest/cobalt-arm.apk",
   "mirror": "https://cobalt.6513006.xyz",
-  "ver": "2.0.2 ⭐(25/05/2026)⭐",
+  "ver": "2.0.2 ⭐(17/05/2026)⭐",
   "category": "YouTube"
 	},
 	{
   "title": "VIA Browser 🌐",
   "description": "Navigateur Internet avec bloqueur de pubs",
   "url": "https://d.apkpure.com/b/APK/mark.via.gp?version=latest",
-  "mirror": "https://www.dropbox.com/scl/fi/r7vu60a8wn76u3r0lo3da/Via-Browser-v7.2.0-MOD-AnBo39.apk?rlkey=fytdi9dn4tr4n5vz34m5o28yi&dl=1",
+  "mirror": "https://www.dropbox.com/scl/fi/1hna805kh5opz2u4w4cug/Via-Browser-v7.2.1-Mod.apk?rlkey=jvxwoy583vntlb2ml1qmc8d62&dl=1",
   "app_review": "",
-  "ver": "7.2.0",
+  "ver": "7.2.1 (⭐20/07/26⭐)",
   "category": "Navigateurs"
 	},
 	{
@@ -324,14 +324,14 @@
 	{
   "title": "VLC Media Player ⏯️",
   "description": "Lecteur alternatif pour regarder des videos sur Android TV.",
-  "url": "https://get.videolan.org/vlc-android/last/VLC-Android-3.7.0-armeabi-v7a.apk",
+  "url": "https://get.videolan.org/vlc-android/last/VLC-Android-3.7.1-armeabi-v7a.apk",
   "app_review": "https://www.dropbox.com/scl/fi/lkzqlnfd9uul24hf97s7j/VLC-MediaPayer-3.7.1-armv7.apk?rlkey=83391frasyn3rnk50gg5d4q6x&dl=1",
-  "ver": "3.7.0",
+  "ver": "3.7.1 ⭐(14/07/2026)⭐",
   "category": "Multimédia"
 	},
 	{
   "title": "Z- AlphaBackup Restore Apps",
-  "description": "Navigateur Internet avec bloqueur de pubs",
+  "description": "Comment sauvegarder/restaurer ses applis grace à AlphaBackup",
   "app_review": "https://dl.dropboxusercontent.com/scl/fi/faqueaeb3mf5gktca8y11/AlphaBackup-Restore-Apps.mp4?rlkey=z5lnied554aa02fhk4gl5xg2s",
   "ver": "",
   "category": "."
