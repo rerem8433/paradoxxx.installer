@@ -8,6 +8,13 @@
     "category": "Z"
   	},
 	{
+  "title": "Logiciels Windows/iOs/MacOS",
+  "description": "Laisser appuyé sur OK sur cette ligne pour ouvrir une page internet où sont référencé une dizaine de logiciels pour Windows/iOs/MacOS. Vous pouvez consulter les captures d'écran / aller sur le site et même télécharger directement les fichiers d'installation en cliquant sur une des cards/boutons.",
+  "app_review": "http://176.174.151.49/annuaire_iptv2/index.html",
+  "ver": "XX (⭐21/07/2026⭐)",
+  "category": "Z"
+	},		
+	{
   "title": "ParadoxXx Installer ATV",
   "description": "Nouvelle version de mon application avec correction de bugs signalés ou trouvés",
   "url": "https://www.dropbox.com/scl/fi/x7hfqngeof197gmf9kxj2/ParadoxXx-Installer-2.1-avec-applis-SANS-URL-MODIFIABLE.apk?rlkey=gxgotxo524y8h53a83729tart&dl=1",
@@ -28,11 +35,7 @@
   "description": "A utiliser si Android 11 TV sur le boitier",
   "url": "http://download.anydesk.com/anydesk.apk",
   "app_review": "https://dl.dropboxusercontent.com/scl/fi/pfcjq5vcz6pzcdob6jouz/Anydesk.mp4?rlkey=t9nuklzq9896s471xiwpqmkn5",
-<<<<<<< Updated upstream
   "ver": "8.4.0 (⭐12/07/2026⭐)",
-=======
-  "ver": "8.4.0 (⭐08/07/2026⭐)",
->>>>>>> Stashed changes
   "category": "Assistance"
 	},
 	{
