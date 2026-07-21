@@ -28,7 +28,11 @@
   "description": "A utiliser si Android 11 TV sur le boitier",
   "url": "http://download.anydesk.com/anydesk.apk",
   "app_review": "https://dl.dropboxusercontent.com/scl/fi/pfcjq5vcz6pzcdob6jouz/Anydesk.mp4?rlkey=t9nuklzq9896s471xiwpqmkn5",
+<<<<<<< Updated upstream
   "ver": "8.4.0 (⭐12/07/2026⭐)",
+=======
+  "ver": "8.4.0 (⭐08/07/2026⭐)",
+>>>>>>> Stashed changes
   "category": "Assistance"
 	},
 	{
