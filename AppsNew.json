@@ -16,7 +16,7 @@
 	},
 	{
   "title": "** 26/07/2026 : Nouveautés",
-  "description": "Ajout des logiciels :\n ByeDPI, AdGuard ATV, Disney+, AppleTV, LauncherManager, LocalSend, Spotify ATV, Internet Speed Test\n Mise à jour de :\n ParadoxXx Installer ATV, Nova Video Player, Projectivy Launcher",
+  "description": "Ajout des logiciels :\n ByeDPI, AdGuard ATV, Disney+, AppleTV, LauncherManager, LocalSend, Spotify ATV, Internet Speed Test,FAST Speed Test by Netflix\n Mise à jour de :\n ParadoxXx Installer ATV, Nova Video Player, Projectivy Launcher, IPTV Smarters Pro, SmartTube",
   "url": "https://www.dropbox.com/scl/fi/2pxno2a6ij53ojfnaz368/ParadoxXx-Installer-2.2-avec-applis-SANS-URL-MODIFIABLE.apk?rlkey=kanmqj09seqkhx8qagqks7a6i&dl=1",
   "app_review": "",
   "ver": "(*26/07/2026*)",
@@ -255,8 +255,8 @@
   "category": "IPTV OTT"
 	},
 	{
-  "title": "NexTV - Android TV",
-  "description": "Lecteur IPTV soigné esthétiquement avec proposition de contenu similaire, accès aux fiches d'acteurs.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
+  "title": "NexTV 3",
+  "description": "(Android TV uniquement) Lecteur IPTV soigné esthétiquement avec proposition de contenu similaire, accès aux fiches d'acteurs.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
   "url": "https://www.dropbox.com/scl/fi/bm59245l0yspsr41b0t13/NexTv_IPTV_player_v3_2_7_rev2_google_tv_mod-unlocked.apk?rlkey=q7p1jhndnbce6497q188areei&dl=1",
   "app_review": "https://dl.dropboxusercontent.com/scl/fi/238yuc23cxz0k2j7djlwh/NexTv_IPTV_player_v3_2_7_rev2_google_tv_mod-unlocked.png?rlkey=8asezic92ruttly94igyh3bud&dl=0",
   "ver": "3.2.7 (⭐16/06/26⭐)",
@@ -402,12 +402,20 @@
     },
     {
 		"title": "Internet Speed Test",
-		"description": "",
+		"description": "Application test de débit avec un moteur de test utilisée par HBO/ AmazonPrime/ Netflix",
 		"url": "https://www.dropbox.com/scl/fi/p5yptalq3u943p8qelrk4/Internet-Speed-Test-1.25.10.27-com.rma.netpulsetv.apk?rlkey=457a78bo0ugn9spqtqh9z37gi&dl=1",
 		"app_review": "",
 		"ver": "1.25.10 ⭐(26/07/2026)⭐",
 		"category": "Utilitaires"
     },
+    {
+		"title": "FAST Speed Test by Netflix",
+		"description": "Application test de débit développée par Netflix",
+		"url": "https://d.apkpure.com/b/APK/com.netflix.Speedtest?version=latest",
+		"app_review": "",
+		"ver": "1.2.1 ⭐(26/07/2026)⭐",
+		"category": "Utilitaires"
+    },	
 	{
   "title": "Z- AlphaBackup Restore Apps",
   "description": "Comment sauvegarder/restaurer ses applis grace à AlphaBackup",
