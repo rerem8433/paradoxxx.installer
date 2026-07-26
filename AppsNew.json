@@ -20,7 +20,7 @@
   "url": "https://www.dropbox.com/scl/fi/2pxno2a6ij53ojfnaz368/ParadoxXx-Installer-2.2-avec-applis-SANS-URL-MODIFIABLE.apk?rlkey=kanmqj09seqkhx8qagqks7a6i&dl=1",
   "app_review": "",
   "ver": "2.2.0 (⭐25/07/2026⭐)",
-  "category": "Utilitaires"
+  "category": ".Nouveautés"
 	},	
 	{
   "title": "9Xtream",
@@ -63,44 +63,44 @@
   "category": "Utilitaires"
 	},
 	{
-  "title": "AtlasPro 9x",
+  "title": "AtlasPro 9x (Downloader 4858164)",
   "description": "Nouvelle appli sortie le 20/01/2026",
-  "url": "https://atlaspro.io/download/64/android-smartphones-tablettes-box-andoid-firestick-android-tv/2319/atlaspro-9x-new.apk",
-  "app_review": "https://dl.dropboxusercontent.com/scl/fi/dt1w9cf94x4zcn50tekw6/ATLASPRO-9x-new.apk?rlkey=rj8jn1w6i0x6l6xhgpiqm1nvf&dl=0",
+  "url": "https://dl.dropboxusercontent.com/scl/fi/dt1w9cf94x4zcn50tekw6/ATLASPRO-9x-new.apk?rlkey=rj8jn1w6i0x6l6xhgpiqm1nvf&dl=0",
+  "app_review": "https://atlaspro9x.fr/media-9x/Screenshot-2026-01-08-at-12.36.36-scaled.webp",
   "ver": "1.3.5 (⭐01/02/2026⭐)",
-  "category": "IPTV Atlas Pro"
+  "category": "IPTV AtlasPro"
 	},
 	{
-  "title": "AtlasPro iBo",
+  "title": "AtlasPro iBo (Downloader 4201733)",
   "description": "Inspirée de l'application MediaPlayer iBo des TVs Samsung/LG",
-  "url": "https://atlaspro.io/download/64/android-smartphones-tablettes-box-andoid-firestick-android-tv/2294/atlas-pro-ibo.apk",
-  "app_review": "https://dl.dropboxusercontent.com/scl/fi/oayvd6jsw4n0av7ti145m/ATLAS-PRO-IBO.apk?rlkey=ak90t4eu8e174mf3qvzaq435z&dl=0",
-  "ver": "4.30",
-  "category": "IPTV Atlas Pro"
+  "url": "https://dl.dropboxusercontent.com/scl/fi/oayvd6jsw4n0av7ti145m/ATLAS-PRO-IBO.apk?rlkey=ak90t4eu8e174mf3qvzaq435z&dl=0",
+  "app_review": "https://atlaspro.io/wp-content/uploads/2025/08/screen-accueil.jpg",
+  "ver": "4.30 (⭐01/08/2025⭐)",
+  "category": "IPTV AtlasPro"
 	},
 	{
-  "title": "AtlasPro MAX",
+  "title": "AtlasPro MAX (Downloader 6881653)",
   "description": "Inspirée de l'application XCIPTV et qui possède une interface classique mais efficace",
-  "url": "https://atlaspro.io/download/64/android-smartphones-tablettes-box-andoid-firestick-android-tv/2273/atlas-pro-max-7.apk",
-  "app_review": "https://www.dropbox.com/scl/fi/hs6ayaqb46ci0b3jifmgc/ATLASPRO-MAX-7.0.2001.apk?rlkey=xdius6s4ps6wc5xt658kx80c2&dl=1",
+  "url": "https://www.dropbox.com/scl/fi/hs6ayaqb46ci0b3jifmgc/ATLASPRO-MAX-7.0.2001.apk?rlkey=xdius6s4ps6wc5xt658kx80c2&dl=1",
+  "app_review": "https://atlaspro.io/wp-content/uploads/2020/09/ATLASPROMAX.png",
   "ver": "7.0.2001 (⭐26/01/2026⭐)",
-  "category": "IPTV Atlas Pro"
+  "category": "IPTV AtlasPro"
 	},
 	{
-  "title": "AtlasPro ONTV",
+  "title": "AtlasPro ONTV (Downloader 822648)",
   "description": "Inspirée de la célèbre application IPTV Smarters Pro avec fonction de téléchargement de films ou episodes de series pour visionnage en hors-ligne.",
-  "url": "https://atlaspro.io/download/64/android-smartphones-tablettes-box-andoid-firestick-android-tv/2269/atlaspro-ontv-4-0.apk",
-  "app_review": "https://dl.dropboxusercontent.com/scl/fi/e51sfpmsh3o46hb8z9kdq/ATLASPRO-ONTV-4.0.2.apk?rlkey=bnkggnbe2s45vn4ps1l74jdbc&st=q055fymq&dl=0",
+  "url": "https://dl.dropboxusercontent.com/scl/fi/e51sfpmsh3o46hb8z9kdq/ATLASPRO-ONTV-4.0.2.apk?rlkey=bnkggnbe2s45vn4ps1l74jdbc&st=q055fymq&dl=0",
+  "app_review": "https://atlaspro.io/wp-content/uploads/2024/03/Capture-decran-2024-02-23-a-13.59.33.png",
   "ver": "4.0.2 (⭐26/01/2026⭐)",
-  "category": "IPTV Atlas Pro"
+  "category": "IPTV AtlasPro"
 	},
 	{
-  "title": "AtlasPro Prime (Android TV uniquement)",
+  "title": "AtlasPro Prime (Android TV uniquement) (Downloader 361975)",
   "description": "Inspirée de l'application NexTV avec une interface plus proche esthetiquement d'une appli NetFlix, fonction modifications de DNS intégrées.",
-  "url": "https://atlaspro.io/download/64/android-smartphones-tablettes-box-andoid-firestick-android-tv/2229/atlaspro-prime.apk",
-  "app_review": "https://dl.dropboxusercontent.com/scl/fi/ied7okqbq6vb9ihig3u22/ATLASPRO_Prime.apk?rlkey=u33vcrxcg7tceow2yg8cnmz36&dl=0",
-  "ver": "2.4.6",
-  "category": "IPTV Atlas Pro"
+  "url": "https://dl.dropboxusercontent.com/scl/fi/ied7okqbq6vb9ihig3u22/ATLASPRO_Prime.apk?rlkey=u33vcrxcg7tceow2yg8cnmz36&dl=0",
+  "app_review": "https://atlaspro.io/wp-content/uploads/2023/09/1.png",
+  "ver": "2.4.6 (⭐05/09/2023⭐)",
+  "category": "IPTV AtlasPro"
 	},
 		{
   "title": "AtlasPro Tivi (BETA - Android TV uniquement)",
@@ -108,7 +108,7 @@
   "url": "https://www.dropbox.com/scl/fi/bdr2ejbjmd6l554k74tve/AtlasPro-Tivi-5.1.0.apk?rlkey=nkcfn1iesviwbn19a4dtyie8o&dl=1",
   "app_review": "",
   "ver": "5.1.1",
-  "category": "IPTV Atlas Pro"
+  "category": "IPTV AtlasPro"
 	},
 	{
   "title": "Browser for ATV 🌐",
@@ -383,7 +383,7 @@
   "description": "Site Browserleaks.com pour verifier les DNS actuels du boitier/téléphone",
   "app_review": "https://browserleaks.net/dns",
   "ver": "",
-  "category": "."
+  "category": ".Tutoriels"
 	}
   ]
 }
