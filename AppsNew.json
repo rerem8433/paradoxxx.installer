@@ -64,7 +64,7 @@
 	},
 	{
   "title": "AtlasPro 9x (Downloader 4858164)",
-  "description": "Nouvelle appli sortie le 20/01/2026",
+  "description": "Nouvelle appli sortie le 20/01/2026.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
   "url": "https://dl.dropboxusercontent.com/scl/fi/dt1w9cf94x4zcn50tekw6/ATLASPRO-9x-new.apk?rlkey=rj8jn1w6i0x6l6xhgpiqm1nvf&dl=0",
   "app_review": "https://atlaspro9x.fr/media-9x/Screenshot-2026-01-08-at-12.36.36-scaled.webp",
   "ver": "1.3.5 (⭐01/02/2026⭐)",
@@ -72,7 +72,7 @@
 	},
 	{
   "title": "AtlasPro iBo (Downloader 4201733)",
-  "description": "Inspirée de l'application MediaPlayer iBo des TVs Samsung/LG",
+  "description": "Inspirée de l'application MediaPlayer iBo des TVs Samsung/LG.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
   "url": "https://dl.dropboxusercontent.com/scl/fi/oayvd6jsw4n0av7ti145m/ATLAS-PRO-IBO.apk?rlkey=ak90t4eu8e174mf3qvzaq435z&dl=0",
   "app_review": "https://atlaspro.io/wp-content/uploads/2025/08/screen-accueil.jpg",
   "ver": "4.30 (⭐01/08/2025⭐)",
@@ -80,7 +80,7 @@
 	},
 	{
   "title": "AtlasPro MAX (Downloader 6881653)",
-  "description": "Inspirée de l'application XCIPTV et qui possède une interface classique mais efficace",
+  "description": "Inspirée de l'application XCIPTV et qui possède une interface sobre mais efficace.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
   "url": "https://www.dropbox.com/scl/fi/hs6ayaqb46ci0b3jifmgc/ATLASPRO-MAX-7.0.2001.apk?rlkey=xdius6s4ps6wc5xt658kx80c2&dl=1",
   "app_review": "https://atlaspro.io/wp-content/uploads/2020/09/ATLASPROMAX.png",
   "ver": "7.0.2001 (⭐26/01/2026⭐)",
@@ -88,7 +88,7 @@
 	},
 	{
   "title": "AtlasPro ONTV (Downloader 822648)",
-  "description": "Inspirée de la célèbre application IPTV Smarters Pro avec fonction de téléchargement de films ou episodes de series pour visionnage en hors-ligne.",
+  "description": "Inspirée de la célèbre application IPTV Smarters Pro avec fonction de téléchargement de films ou episodes de series pour visionnage en hors-ligne.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
   "url": "https://dl.dropboxusercontent.com/scl/fi/e51sfpmsh3o46hb8z9kdq/ATLASPRO-ONTV-4.0.2.apk?rlkey=bnkggnbe2s45vn4ps1l74jdbc&st=q055fymq&dl=0",
   "app_review": "https://atlaspro.io/wp-content/uploads/2024/03/Capture-decran-2024-02-23-a-13.59.33.png",
   "ver": "4.0.2 (⭐26/01/2026⭐)",
@@ -96,7 +96,7 @@
 	},
 	{
   "title": "AtlasPro Prime (Android TV uniquement) (Downloader 361975)",
-  "description": "Inspirée de l'application NexTV avec une interface plus proche esthetiquement d'une appli NetFlix, fonction modifications de DNS intégrées.",
+  "description": "Inspirée de l'application NexTV avec une interface plus proche esthetiquement d'une appli NetFlix, fonction modifications de DNS intégrées.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
   "url": "https://dl.dropboxusercontent.com/scl/fi/ied7okqbq6vb9ihig3u22/ATLASPRO_Prime.apk?rlkey=u33vcrxcg7tceow2yg8cnmz36&dl=0",
   "app_review": "https://atlaspro.io/wp-content/uploads/2023/09/1.png",
   "ver": "2.4.6 (⭐05/09/2023⭐)",
@@ -104,7 +104,7 @@
 	},
 		{
   "title": "AtlasPro Tivi (BETA - Android TV uniquement)",
-  "description": "    Version AtlasPro du logiciel Tivimate avec une interface sobre mais diablement efficace.\n   N.B ====> Pour configurer votre abonnement, demandez le lien de votre sauvegarde Tivimate à votre connaissance.\n  Une fois le logiciel lancé, allez sur *Parametres* puis sur *Général* pour enfin aller cliquer en bas sur *Restaurer les données*. Choisir enfin *Entrer l'URL* et saisir l'URL que vous aura communiqué la personne.",
+  "description": "    Version AtlasPro du logiciel Tivimate avec une interface sobre mais diablement efficace.\n   N.B ====> Pour configurer votre abonnement, demandez le lien de votre sauvegarde Tivimate à votre connaissance.\n  Une fois le logiciel lancé, allez sur *Parametres* puis sur *Général* pour enfin aller cliquer en bas sur *Restaurer les données*. Choisir enfin *Entrer l'URL* et saisir l'URL que vous aura communiqué la personne.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
   "url": "https://www.dropbox.com/scl/fi/bdr2ejbjmd6l554k74tve/AtlasPro-Tivi-5.1.0.apk?rlkey=nkcfn1iesviwbn19a4dtyie8o&dl=1",
   "app_review": "",
   "ver": "5.1.1",
@@ -121,9 +121,16 @@
 	{
   "title": "ByeByeDPI 📡",
   "description": "Une application Android qui execute un service VPN local pour contourner le DPI (Deep Packet Inspection) et la censure.",
-  "url": "https://github.com/romanvht/ByeByeDPI/releases/download/v.1.7.5/ByeByeDPI-v1.7.5-armeabi-v7a-release.apk",
+  "url": "https://github.com/romanvht/ByeByeDPI/releases/download/v.1.7.7/ByeByeDPI-v1.7.7-universal-release.apk",
   "app_review": "https://dl.dropboxusercontent.com/scl/fi/apemosaieow0pqpwadpch/ByeByeDPI.mp4?rlkey=0je46l2eisaxbmv2bcet0alyk",
-  "ver": "1.7.5 (⭐07/05/2026⭐)",
+  "ver": "1.7.7 (⭐23/07/2026⭐)",
+  "category": "VPN"
+	},
+  "title": "ByeDPI 📡",
+  "description": "Une application Android qui execute un service VPN local pour contourner le DPI (Deep Packet Inspection) et la censure.",
+  "url": "https://github.com/dovecoteescapee/ByeDPIAndroid/releases/download/v1.2.0/byedpi-1.2.0.apk",
+  "app_review": "",
+  "ver": "1.2.0 (⭐23/08/2024⭐)",
   "category": "VPN"
 	},
 	{
@@ -215,6 +222,14 @@
   "category": "IPTV OTT"
 	},
 	{
+  "title": "DigitalTV - NexTV 2 ** UNOFFICIAL **",
+  "description": "Inspirée de l'application NexTV avec une interface plus proche esthetiquement d'une appli NetFlix.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
+  "url": "https://www.dropbox.com/scl/fi/dkqs2fqx29oba6mhmx6uf/DigitalTV-NexTV-2.5.4-UNOFFICIAL.apk?rlkey=rzaeho8d17r2e1esjop04o93a&dl=1",
+  "app_review": "https://dl.dropboxusercontent.com/scl/fi/fuya3qpr0i2dp5q6xiiam/DigitalTV-NexTV-2.5.4-UNOFFICIAL.png?rlkey=lb57ynd1wx4ya0q6et4g1a8xp&dl=0",
+  "ver": "2.5.4 (⭐26/06/26⭐)",
+  "category": "IPTV OTT"
+	},
+	{
   "title": "Infinityott Smarters",
   "description": "Cette application est basée sur le fameux IPTV Smarters Pro.\n Cette application peut etre installée sur les téléphones, tablettes et televiseurs Android.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne",
   "url": "https://www.dropbox.com/scl/fi/9uaosfhq1ixqxj69etadq/Infinityott-Smarters-v3.1.apk?rlkey=gw0rre0wzdk1tt9g7uxbijlef&dl=1",
@@ -228,14 +243,6 @@
   "url": "https://www.dropbox.com/scl/fi/38y5whqbyaqcph7oty6tt/VU_Player_Pro_1.7.apk?rlkey=w01bzwh05sv06vsb91izdfceg&dl=1",
   "app_review": "https://dl.dropboxusercontent.com/scl/fi/94o5xu4mueej5zn7i02ba/VU_Player_Pro_1.7.png?rlkey=3clqf8vnveyelg920yvh61tbo&dl=0",
   "ver": "1.7 (⭐26/06/26⭐)",
-  "category": "IPTV OTT"
-	},
-	{
-  "title": "DigitalTV - NexTV ** BETA **",
-  "description": "Inspirée de l'application NexTV avec une interface plus proche esthetiquement d'une appli NetFlix.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
-  "url": "https://www.dropbox.com/scl/fi/dkqs2fqx29oba6mhmx6uf/DigitalTV-NexTV-2.5.4-UNOFFICIAL.apk?rlkey=rzaeho8d17r2e1esjop04o93a&dl=1",
-  "app_review": "https://dl.dropboxusercontent.com/scl/fi/fuya3qpr0i2dp5q6xiiam/DigitalTV-NexTV-2.5.4-UNOFFICIAL.png?rlkey=lb57ynd1wx4ya0q6et4g1a8xp&dl=0",
-  "ver": "2.5.4 (⭐26/06/26⭐)",
   "category": "IPTV OTT"
 	},
 	{
@@ -257,9 +264,9 @@
 	{
   "title": "Projectivy Launcher",
   "description": "Launcher pour remplacer GoogleTV plein de pubs et videos : simple, parametrable et customisable.",
-  "url": "https://dl.dropboxusercontent.com/scl/fi/laabd3boabkdug6oq6w6n/1-Projectivy-Launcher-v4.68-Premium.apk?rlkey=pzuj9oy2cn8ohzmkdjeuguwda&dl=0",
+  "url": "https://www.dropbox.com/scl/fi/oil9973il8fr4xxu82pcy/Projectivy-Launcher-Premium-v4.71-fidyBG.apk?rlkey=0fjkgmwrzd1f3vokplw4bzmrc&dl=1",
   "app_review": "",
-  "ver": "4.68",
+  "ver": "4.71 (⭐20/07/26⭐)",
   "category": "Utilitaires"
 	},
 	{
@@ -313,7 +320,7 @@
   "category": "Multimédia"
 	},
 	{
-  "title": "Vimu Media Player️ ⏯️",
+  "title": "ViMu Media Player️ ⏯️",
   "description": "Le meilleur lecteur pour regarder des videos sur Android TV.",
   "url": "https://www.dropbox.com/scl/fi/9cswxlsjskul3t1cygrp6/Vimu.Media.Player.12.50.apk?rlkey=hwpfpmfsoi3dlskgb9zhx6a84&dl=1",
   "app_review": "",
@@ -336,6 +343,47 @@
   "ver": "3.7.1 ⭐(14/07/2026)⭐",
   "category": "Multimédia"
 	},
+    {
+  "title": "AdGuard ATV",
+  "description": "AdGuard - Un outil efficace pour bloquer les publicités, préserver la confidentialité et se protéger contre les sites et applications malveillants.",
+  "url": "https://www.dropbox.com/scl/fi/59u7prs361if3i6pt44ee/Adguard-Pro-v4.14.35.apk?rlkey=bhh0n7hml9bnxwhvd7520iwtb&dl=1",
+  "mirror": "adguard",
+  "category": "VPN",
+  "ver": "4.14.35"
+    },
+    {
+      "title": "Disney+",
+      "description": "Application officielle Disney pour regarder des films et des séries. Un compte est requis pour se connecter !"",
+      "url": "https://www.dropbox.com/scl/fi/evsz64v7c13vakkfdshmt/Disney-v2.22.2-rc1.apk?rlkey=vmzzybwdyu593vr2ajfmdldhi&dl=1",
+      "mirror": "disney",
+      "ver": "2.22.2",
+      "category": "Multimédia"
+    },
+    {
+      "title": "Apple TV",
+      "description": "Apple TV+ est un service de streaming mettant en vedette Apple Originals - série primée, drames convaincants, documentaires révolutionnaires, divertissement pour les enfants, comédies, et plus encore, avec de nouveaux Apple Originals ajoutant chaque mois.",
+      "url": "https://www.dropbox.com/scl/fi/efpjtkdhc3ag3pz76ibcl/Apple-TV-v13.5.0.apk?rlkey=8f07q54tpao4050fliu79q3om&dl=1",
+      "mirror": "appletv",
+      "ver": "13.5.0",
+      "category": "Multimédia"
+    },
+    {
+      "title": "Launcher Manager by TDUK",
+      "description": "Launcher manager pour définir des launchers comme Projectivy Launcher comme Accueil TV préféré.",
+      "url": "https://www.dropbox.com/scl/fi/dfwm10jav29vtimmxmhvg/LMTDUK_119.apk?rlkey=76efp07whne8szwllweci44pl&dl=1",
+      "app_review": "https://www.youtube.com/watch?v=z7_rQS2ifQA",
+      "category": "Utilitaires",
+      "ver": "1.19"
+    },
+    {
+      "title": "LocalSend",
+      "description": "description": "LocalSend est une application gratuite et open source qui vous permet de partager en toute sécurité des fichiers et des messages avec des appareils situés à proximité, via votre réseau local et sans nécessiter de connexion Internet.",
+      "url": "https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-android-google-play.apk",
+      "app_review": "",
+      "category": "Utilitaires",
+      "ver": "1.17"
+    },
+
 	{
   "title": "Z- AlphaBackup Restore Apps",
   "description": "Comment sauvegarder/restaurer ses applis grace à AlphaBackup",
