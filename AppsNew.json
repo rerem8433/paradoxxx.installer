@@ -103,16 +103,16 @@
   "category": "IPTV AtlasPro"
 	},
 	{
-  "title": "AtlasPro Prime (Android TV uniquement) (Downloader 361975)",
-  "description": "Inspirée de l'application NexTV avec une interface plus proche esthetiquement d'une appli NetFlix, fonction modifications de DNS intégrées.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
+  "title": "AtlasPro Prime (Downloader 361975)",
+  "description": "(Android TV uniquement) Inspirée de l'application NexTV avec une interface plus proche esthetiquement d'une appli NetFlix, fonction modifications de DNS intégrées.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
   "url": "https://dl.dropboxusercontent.com/scl/fi/ied7okqbq6vb9ihig3u22/ATLASPRO_Prime.apk?rlkey=u33vcrxcg7tceow2yg8cnmz36&dl=0",
   "app_review": "https://atlaspro.io/wp-content/uploads/2023/09/1.png",
   "ver": "2.4.6 (⭐05/09/2023⭐)",
   "category": "IPTV AtlasPro"
 	},
 		{
-  "title": "AtlasPro Tivi (BETA - Android TV uniquement)",
-  "description": "    Version AtlasPro du logiciel Tivimate avec une interface sobre mais diablement efficace.\n   N.B ====> Pour configurer votre abonnement, demandez le lien de votre sauvegarde Tivimate à votre connaissance.\n  Une fois le logiciel lancé, allez sur *Parametres* puis sur *Général* pour enfin aller cliquer en bas sur *Restaurer les données*. Choisir enfin *Entrer l'URL* et saisir l'URL que vous aura communiqué la personne.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
+  "title": "AtlasPro Tivi (** NON-OFFICIELLE **)",
+  "description": "(Android TV uniquement) Version customisée de AtlasPro du logiciel TiviMate avec une interface intelligente et simplifiée mais bourée de fonctionnalités.\n   N.B ====> Pour configurer votre abonnement, demandez le lien de votre sauvegarde Tivimate au vendeur.\n  Une fois le logiciel lancé, allez sur *Parametres* puis sur *Général* pour enfin aller cliquer en bas sur *Restaurer les données*. Choisir enfin *Entrer l'URL* et saisir l'URL que vous aura communiqué le vendeur.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
   "url": "https://www.dropbox.com/scl/fi/bdr2ejbjmd6l554k74tve/AtlasPro-Tivi-5.1.0.apk?rlkey=nkcfn1iesviwbn19a4dtyie8o&dl=1",
   "app_review": "",
   "ver": "5.1.1",
@@ -231,7 +231,7 @@
   "category": "IPTV OTT"
 	},
 	{
-  "title": "DigitalTV - NexTV 2 ** UNOFFICIAL **",
+  "title": "DigitalTV - NexTV 2 ** NON-OFFICIELLE **",
   "description": "Inspirée de l'application NexTV avec une interface plus proche esthetiquement d'une appli NetFlix.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
   "url": "https://www.dropbox.com/scl/fi/dkqs2fqx29oba6mhmx6uf/DigitalTV-NexTV-2.5.4-UNOFFICIAL.apk?rlkey=rzaeho8d17r2e1esjop04o93a&dl=1",
   "app_review": "https://dl.dropboxusercontent.com/scl/fi/fuya3qpr0i2dp5q6xiiam/DigitalTV-NexTV-2.5.4-UNOFFICIAL.png?rlkey=lb57ynd1wx4ya0q6et4g1a8xp&dl=0",
@@ -304,7 +304,7 @@
   "category": "Assistance"
 	},
 	{
-  "title": "TizenTube Cobalt [ ▶︎ ] ** NEW **",
+  "title": "TizenTube Cobalt [ ▶︎ ]",
   "description": "TizenTube Cobalt est une application basée sur Cobalt qui améliore votre expérience de streaming préféré en supprimant les publicités, en ajoutant le support SponsorBlock",
   "url": "https://github.com/reisxd/TizenTubeCobalt/releases/download/latest/cobalt-arm.apk",
   "mirror": "https://cobalt.6513006.xyz",
