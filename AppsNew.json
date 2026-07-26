@@ -134,6 +134,7 @@
   "ver": "1.7.7 (⭐23/07/2026⭐)",
   "category": "VPN"
 	},
+	{
   "title": "ByeDPI 📡",
   "description": "Une application Android qui execute un service VPN local pour contourner le DPI (Deep Packet Inspection) et la censure.",
   "url": "https://github.com/dovecoteescapee/ByeDPIAndroid/releases/download/v1.2.0/byedpi-1.2.0.apk",
