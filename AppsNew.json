@@ -362,7 +362,7 @@
     },
     {
 		"title": "Disney+",
-		"description": "Application officielle Disney pour regarder des films et des séries. Un compte est requis pour se connecter !"",
+		"description": "Application officielle Disney pour regarder des films et des séries. Un compte est requis pour se connecter.",
 		"url": "https://www.dropbox.com/scl/fi/evsz64v7c13vakkfdshmt/Disney-v2.22.2-rc1.apk?rlkey=vmzzybwdyu593vr2ajfmdldhi&dl=1",
 		"app_review": "",
 		"ver": "2.22.2 ⭐(26/07/2026)⭐",
@@ -370,7 +370,7 @@
     },
     {
 		"title": "Apple TV",
-		"description": "Apple TV+ est un service de streaming mettant en vedette Apple Originals - série primée, drames convaincants, documentaires révolutionnaires, divertissement pour les enfants, comédies, et plus encore, avec de nouveaux Apple Originals ajoutant chaque mois.",
+		"description": "Apple TV+ est un service de streaming mettant en vedette Apple Originals - série primée, drames convaincants, documentaires révolutionnaires, divertissement pour les enfants, comédies, et plus encore, avec de nouveaux Apple Originals ajoutant chaque mois. Un compte est requis pour se connecter.",
 		"url": "https://www.dropbox.com/scl/fi/efpjtkdhc3ag3pz76ibcl/Apple-TV-v13.5.0.apk?rlkey=8f07q54tpao4050fliu79q3om&dl=1",
 		"app_review": "",
 		"ver": "13.5.0 ⭐(26/07/2026)⭐",
@@ -386,7 +386,7 @@
     },
     {
 		"title": "LocalSend",
-		"description": "description": "LocalSend est une application gratuite et open source qui vous permet de partager en toute sécurité des fichiers et des messages avec des appareils situés à proximité, via votre réseau local et sans nécessiter de connexion Internet.",
+		"description": "LocalSend est une application gratuite et open source qui vous permet de partager en toute sécurité des fichiers et des messages avec des appareils situés à proximité, via votre réseau local et sans nécessiter de connexion Internet.",
 		"url": "https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-android-google-play.apk",
 		"app_review": "https://www.youtube.com/watch?v=HDvCnXrryJ0",
 		"ver": "1.17 ⭐(26/07/2026)⭐",
