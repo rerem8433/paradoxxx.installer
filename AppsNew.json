@@ -2,14 +2,14 @@
 	"apps": [
 {
 "title": "* . . . . . . . . . . . . . . . . . . . . . . . . . 😁 BIENVENUE 😁. . . . . . . . . . . . . . . . . . . . . . . . . *",
-	"description": "\n				 Je vous souhaite la bienvenue sur ma nouvelle version de l'application *ParadoxXx Installer ATV* =)\n				 Voici un mini-tutoriel pour comprendre comment installer les applications. Un premier onglet (Liste de A à Z) ainsi que des catégories (en cliquant sur les touches gauche/droite de votre télécommande) sont présents afin de faciliter votre navigation =>\n\n		- L'installation : Allez vous positionner sur l'application voulue puis cliquez sur OK de votre télécommande et finir par valider en allant vous déplaçer tout à gauche sur **Installer la sélection**. Une barre de téléchargement apparaitra puis la proposition d'installation. Il vous suffit de répéter l'opération pour chaque application voulue. Possibilité de choisir plusieurs applications mais non conseillé\n\n				 La liste des logiciels présents dans cette nouvelle liste est régulièrement mise à jour par mes soins et il arrive fréquemment que j'en rajoute (Changelog juste en dessous de cette présentation). \n				 Le logo rouge (qui ressemble à Youtube) présent sur certains logiciels signifie qu'une vidéo/tutoriel/capture est associée.\n\n																																					😁 BONNE UTILISATION 😁\n																																						⬇️ ParadoxXx Squad ⬇️",
+	"description": "\n				 Je vous souhaite la bienvenue sur ma nouvelle version de l'application *ParadoxXx Installer ATV* =)\n				 Voici un mini-tutoriel pour comprendre comment installer les applications. Un premier onglet (Liste de A à Z) ainsi que des catégories (en cliquant sur les touches gauche/droite de votre télécommande) sont présents afin de faciliter votre navigation =>\n\n		- L'installation : Allez vous positionner sur l'application voulue puis cliquez sur OK de votre télécommande et finir par valider en allant vous déplaçer tout à gauche sur **Installer la sélection**. Une barre de téléchargement apparaitra puis la proposition d'installation. Il vous suffit de répéter l'opération pour chaque application voulue. Possibilité de choisir plusieurs applications mais non conseillé\n\n				 La liste des logiciels présents dans cette nouvelle liste est régulièrement mise à jour par mes soins et il arrive fréquemment que j'en rajoute (Changelog juste en dessous de cette présentation). \n				 Le logo rouge/blanc (qui ressemble à Youtube) présent sur certains logiciels signifie qu'une vidéo/tutoriel/capture est associée.\n\n																																					😁 BONNE UTILISATION 😁\n																																						⬇️ ParadoxXx Squad ⬇️",
 	"app_review": "",
 	"ver": "",
-	"category": "."
+	"category": ""
 },
 {
 "title": "** 26/07/2026 : Nouveautés",
-	"description": "Ajout des logiciels :\n ByeDPI, AdGuard ATV, Disney+, AppleTV, LauncherManager, LocalSend, Spotify ATV, Internet Speed Test,FAST Speed Test by Netflix\n Mise à jour de :\n ParadoxXx Installer ATV, Nova Video Player, Projectivy Launcher, IPTV Smarters Pro, SmartTube",
+	"description": "Ajout des logiciels :\n ByeDPI, AdGuard ATV, Disney+, AppleTV, LauncherManager, LocalSend, Spotify ATV, TCL BrowseHere,FAST Speed Test by Netflix\n Mise à jour de :\n ParadoxXx Installer ATV, Nova Video Player, Projectivy Launcher, IPTV Smarters Pro, SmartTube",
 	"url": "https://www.dropbox.com/scl/fi/2pxno2a6ij53ojfnaz368/ParadoxXx-Installer-2.2-avec-applis-SANS-URL-MODIFIABLE.apk?rlkey=kanmqj09seqkhx8qagqks7a6i&dl=1",
 	"app_review": "",
 	"ver": "(*26/07/2026*)",
@@ -114,18 +114,10 @@
 {
 "title": "Browser for ATV 🌐",
 	"description": "Navigateur *Browser for ATV* qui possède un bloqueur de pubs intégré",
-	"url": "https://www.dropbox.com/scl/fi/6aej6gxq78vryj396y0rn/Browser-for-TV-2.14.37.apk?rlkey=ttc1gm3agaqzjl7cj3bulso6h&dl=1",
+	"url": "https://www.tvbox.one/box-files/Browser-for-TV-2.16.00.apk",
 	"app_review": "",
-	"ver": "2.14.37 (⭐12/06/2026⭐)",
+	"ver": "2.16.00 (⭐26/06/2026⭐)",
 	"category": "Navigateurs"
-},
-{
-"title": "ByeByeDPI 📡",
-	"description": "Une application Android qui execute un service VPN local pour contourner le DPI (Deep Packet Inspection) et la censure.",
-	"url": "https://github.com/romanvht/ByeByeDPI/releases/download/v.1.7.7/ByeByeDPI-v1.7.7-universal-release.apk",
-	"app_review": "https://dl.dropboxusercontent.com/scl/fi/apemosaieow0pqpwadpch/ByeByeDPI.mp4?rlkey=0je46l2eisaxbmv2bcet0alyk",
-	"ver": "1.7.7 (⭐23/07/2026⭐)",
-	"category": "VPN"
 },
 {
 "title": "ByeDPI 📡",
@@ -409,51 +401,72 @@
 	"app_review": "",
 	"ver": "1.2.1 ⭐(26/07/2026)⭐",
 	"category": "Utilitaires"
-},	
+},
 {
-"title": "Z- AlphaBackup Restore Apps",
+"title": "TCL BrowseHere",
+	"description": "Un navigateur web gratuit conçu spécialement pour Android TV, Google TV, Amazon Fire TV ainsi que les boîtiers et appareils Android.\n BrowseHere prend en charge une expérience de streaming vidéo optimisée pour un usage TV, un blocage puissant des publicités sur les pages web et un lecteur IPTV, et est entièrement optimisé pour la navigation à la télécommande.",
+	"url": "https://tcl-img.b-cdn.net/BrowseHere/browsehere.net/browsehere-net-app-release.apk",
+	"ver": "8.02",
+	"category": "Navigateurs"
+}
+{
+"title": " ⬇️ ⬇️ 						Liste des applications 						⬇️ ⬇️ ",
+	"description": "",
+    "app_review": "",
+    "ver": "",
+	"category": "Assistance"
+},
+{
+"title": " .⬇️ ⬇️ 						T U T O R I E L S️ 							⬇️ ⬇️ ",
+    "description": "Liste de tutoriels vidéos pour dépanner certaines situations",
+    "app_review": "",
+    "ver": "",
+    "category": ".Tutoriels"
+},
+{
+"title": " Tutoriel - AlphaBackup Restore Apps",
 	"description": "Comment sauvegarder/restaurer ses applis grace à AlphaBackup",
 	"app_review": "https://dl.dropboxusercontent.com/scl/fi/faqueaeb3mf5gktca8y11/AlphaBackup-Restore-Apps.mp4?rlkey=z5lnied554aa02fhk4gl5xg2s",
 	"ver": "",
 	"category": ".Tutoriels"
 },
 {
-"title": "Z- Changer les DNS v1 - SlimboxTV",
+"title": " Tutoriel - Changer les DNS v1 - SlimboxTV",
 	"description": "Modifier dans les parametres Android les DNS pour contrer la censure",
 	"app_review": "https://dl.dropboxusercontent.com/scl/fi/kmqnmyeeipmwi8k8hdu85/Changer-les-DNS.mp4?rlkey=rwovs5rj9rni0mmi4wublf1ot",
 	"ver": "",
 	"category": ".Tutoriels"
 },
 {
-"title": "Z- Changer les DNS v2 - ByeByeDPI",
+"title": " Tutoriel - Changer les DNS v2 - ByeByeDPI",
 	"description": "Utilisation de ByeByeDPI pour modifier les DNS",
 	"app_review": "https://dl.dropboxusercontent.com/scl/fi/apemosaieow0pqpwadpch/ByeByeDPI.mp4?rlkey=0je46l2eisaxbmv2bcet0alyk",
 	"ver": "",
 	"category": ".Tutoriels"
 },
 {
-"title": "Z- Rustdesk Depannage",
+"title": " Tutoriel - Rustdesk Depannage",
 	"description": "Quand RustDesk est DEJA installe, et si besoin qu'une personne se connecte au boitier/TV",
 	"app_review": "https://dl.dropboxusercontent.com/scl/fi/exbynvv3pzdbuh0lrufsh/Rustdesk-D-pannage.mp4?rlkey=cf75l1o7yh7dythr1cg9zylfx",
 	"ver": "",
 	"category": ".Tutoriels"
 },
 {
-"title": "Z- RustDesk Initialisation",
+"title": " Tutoriel - RustDesk Initialisation",
 	"description": "Si reinitialisation du boitier/TV et besoin de configurer le logiciel",
 	"app_review": "https://dl.dropboxusercontent.com/scl/fi/xqzgmdns4c82cn4h4gd8h/RustDesk-Initialisation.mp4?rlkey=4l39ri71nqpkyc3zucg8fbabb",
 	"ver": "",
 	"category": ".Tutoriels"
 },
 {
-"title": "Z- Speedtest",
+"title": " Tutoriel - Speedtest",
 	"description": "SpeedTest sur un serveur auto-hébergé",
 	"app_review": "https://tinyurl.com/bdh2dkty",
 	"ver": "",
 	"category": ".Tutoriels"
 },
 {
-"title": "Z- Verificateur Resolveur DNS",
+"title": " Tutoriel - Verificateur Resolveur DNS",
 	"description": "Site Browserleaks.com pour verifier les DNS actuels du boitier/téléphone",
 	"app_review": "https://browserleaks.net/dns",
 	"ver": "",
