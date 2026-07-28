@@ -1,8 +1,8 @@
 {
 	"apps": [
 {
-"title": "* . . . . . . . . . . . . . . . . . . . . . . . . . 😁 BIENVENUE 😁. . . . . . . . . . . . . . . . . . . . . . *",
-	"description": "\n				 Je vous souhaite la bienvenue sur ma nouvelle version de l'application *ParadoxXx Installer ATV* =)\n				 Voici un mini-tutoriel pour comprendre comment installer les applications. Un premier onglet (Liste de A à Z) ainsi que des catégories (en cliquant sur les touches gauche/droite de votre télécommande) sont présents afin de faciliter votre navigation =>\n\n		- L'installation : Allez vous positionner sur l'application voulue puis cliquez sur OK de votre télécommande et finir par valider en allant vous déplaçer tout à gauche sur **Installer la sélection**. Une barre de téléchargement apparaitra puis la proposition d'installation. Il vous suffit de répéter l'opération pour chaque application voulue. Possibilité de choisir plusieurs applications mais non conseillé\n\n				 La liste des logiciels présents dans cette nouvelle liste est régulièrement mise à jour par mes soins et il arrive fréquemment que j'en rajoute (Changelog juste en dessous de cette présentation). \n				 Le logo rouge/blanc (qui ressemble à Youtube) présent sur certains logiciels signifie qu'une vidéo/tutoriel/capture est associée.\n\n																																					😁 BONNE UTILISATION 😁\n																																						⬇️ ParadoxXx Squad ⬇️",
+"title": "* . . . . . . . . . . . . . . . . . . . . . . . . . 😁 BIENVENUE 😁 . . . . . . . . . . . . . . . . . . . . . . *",
+  "description": "\n         Je vous souhaite la bienvenue sur ma nouvelle version de l'application *ParadoxXx Installer ATV* =) \n       Voici un mini-tutoriel pour comprendre comment installer les applications. Un premier onglet (Liste de A à Z) ainsi que des catégories (en cliquant sur les touches gauche/droite de votre télécommande) sont présents afin de faciliter votre navigation =>\n\n     Installation : Allez vous positionner sur l'application voulue puis cliquez sur OK de votre télécommande et finir par valider en allant vous déplaçer tout à gauche sur **Installer la sélection**. Une barre de téléchargement apparaitra puis la proposition d'installation. Il vous suffit de répéter l'opération pour chaque application voulue. Possibilité de choisir plusieurs applications mais non conseillé\n\n        La liste des logiciels présents dans cette nouvelle liste est régulièrement mise à jour par mes soins et il arrive fréquemment que j'en rajoute (Changelog juste en dessous de cette présentation). \n         Le logo rouge/blanc (qui ressemble à Youtube) présent sur certains logiciels signifie qu'une vidéo/tutoriel/capture est associée.\n\n                                                                          😁 BONNE UTILISATION 😁\n                                                                            ParadoxXx Squad",
 	"app_review": "",
 	"ver": "",
 	"category": ""
@@ -107,7 +107,7 @@
 "title": "AtlasPro Tivi (** NON-OFFICIELLE **)",
 	"description": "(Android TV uniquement) Version customisée de AtlasPro du logiciel TiviMate avec une interface intelligente et simplifiée mais bourée de fonctionnalités.\n	 N.B ====> Pour configurer votre abonnement, demandez le lien de votre sauvegarde Tivimate au vendeur.\n	Une fois le logiciel lancé, allez sur *Parametres* puis sur *Général* pour enfin aller cliquer en bas sur *Restaurer les données*. Choisir enfin *Entrer l'URL* et saisir l'URL que vous aura communiqué le vendeur.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
 	"url": "https://www.dropbox.com/scl/fi/bdr2ejbjmd6l554k74tve/AtlasPro-Tivi-5.1.0.apk?rlkey=nkcfn1iesviwbn19a4dtyie8o&dl=1",
-	"app_review": "",
+	"app_review": "https://dl.dropboxusercontent.com/scl/fi/cia0pz1iw26esb7xqdnsx/AtlasPro-Tivi.gif?rlkey=1kyxegc5lqgwssevdjcyo8fmk&dl=0",
 	"ver": "5.1.1",
 	"category": "IPTV AtlasPro"
 },
