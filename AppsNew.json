@@ -348,23 +348,31 @@
 },
 {
 "title": "Disney+",
-	"description": "Application officielle Disney pour regarder des films et des séries. Un compte est requis pour se connecter.",
+	"description": "Application officielle Disney pour regarder des films et des séries. Un compte est requis pour se connecter.\nOuverture avec le Google PlayStore en laissant appuyé sur OK.",
 	"url": "https://www.dropbox.com/scl/fi/evsz64v7c13vakkfdshmt/Disney-v2.22.2-rc1.apk?rlkey=vmzzybwdyu593vr2ajfmdldhi&dl=1",
-	"app_review": "",
+	"app_review": "https://play.google.com/store/apps/details?id=com.disney.disneyplus",
 	"ver": "2.22.2 ⭐(26/07/2026)⭐",
 	"category": "Multimédia"
 },
 {
 "title": "Apple TV",
-	"description": "Apple TV+ est un service de streaming mettant en vedette Apple Originals - série primée, drames convaincants, documentaires révolutionnaires, divertissement pour les enfants, comédies, et plus encore, avec de nouveaux Apple Originals ajoutant chaque mois. Un compte est requis pour se connecter.",
+	"description": "Apple TV+ est un service de streaming mettant en vedette Apple Originals - série primée, drames convaincants, documentaires révolutionnaires, divertissement pour les enfants, comédies, et plus encore, avec de nouveaux Apple Originals ajoutant chaque mois. Un compte est requis pour se connecter.\nOuverture avec le Google PlayStore en laissant appuyé sur OK.",
 	"url": "https://www.dropbox.com/scl/fi/efpjtkdhc3ag3pz76ibcl/Apple-TV-v13.5.0.apk?rlkey=8f07q54tpao4050fliu79q3om&dl=1",
-	"app_review": "",
+	"app_review": "https://play.google.com/store/apps/details?id=com.apple.atve.androidtv.appletv",
 	"ver": "13.5.0 ⭐(26/07/2026)⭐",
 	"category": "Multimédia"
 },
 {
+"title": "Amazon Prime Video",
+	"description": "Amazon Prime Video est un service de streaming nécessitant un compte Amazon Prime pour l'utiliser. Qualité SD uniquement.\nOuverture avec le Google PlayStore en laissant appuyé sur OK.",
+	"url": "https://www.dropbox.com/scl/fi/o03unszrl3dg18gbkibkt/Amazon-Video_4.1.115.apk?rlkey=50pb3km4sb01kqj0t6pzi94n8&st=ssa5gqzv&dl=1",
+	"app_review": "https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient",
+	"ver": "xx.xx ⭐(26/07/2026)⭐",
+	"category": "Multimédia"
+},
+{
 "title": "Launcher Manager by TDUK",
-	"description": "Launcher manager pour définir des launchers comme Projectivy Launcher comme Accueil TV préféré.",
+	"description": "Launcher Manager pour définir des launchers/lanceurs comme Projectivy Launcher en tant qu'application d' *Accueil TV* préférée.\nPermet de remplacer AndroidTV ou GoogleTV qui sont bourées de pubs et de vidéos en arrière-plan.",
 	"url": "https://www.dropbox.com/scl/fi/dfwm10jav29vtimmxmhvg/LMTDUK_119.apk?rlkey=76efp07whne8szwllweci44pl&dl=1",
 	"app_review": "https://www.youtube.com/watch?v=z7_rQS2ifQA",
 	"ver": "1.19 ⭐(26/07/2026)⭐",
@@ -408,6 +416,13 @@
 	"url": "https://tcl-img.b-cdn.net/BrowseHere/browsehere.net/browsehere-net-app-release.apk",
 	"ver": "8.02",
 	"category": "Navigateurs"
+},
+{
+"title": "AppDrawer ATV",
+	"description": "Logiciel permettant l'ajout d'un *tiroir* qui affiche la liste complète des logiciels installés et classés de A à Z .",
+	"url": "https://www.dropbox.com/scl/fi/08fo2rcitqtkgnn26kasa/App-Drawer_ATV.apk?rlkey=vzk3ho79u1yy1fuskfj7y1u9t&st=b7gb0ugw&dl=1",
+	"ver": "1.0",
+	"category": "Utilitaires"
 },
 {
 "title": " ⬇️ ⬇️ 						Liste des applications 						⬇️ ⬇️ ",
