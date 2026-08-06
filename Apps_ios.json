@@ -33,7 +33,71 @@
 	"video": "",
 	"site": "https://iboproapp.com/manage-playlists/list/"
 },
-
+{
+"title": "9Xtream 4K",
+	"ver": " 1.2.5",
+	"description": "Logiciel le plus abouti esthétiquement, existe pour Windows / Android / iOs.",
+	"logo": "https://pbs.twimg.com/profile_images/1892234921680519168/HRSR4miV_400x400.jpg",
+	"url": "https://apps.apple.com/us/app/9xtream-4k-player-iptv-live/id6745410384",
+	"screenshot": "https://9xtream4k.com/_next/static/media/site.ad931e7c.png",
+	"screenshot": "http://ngfts.lge.com/fts/gftsDownload.lge?biz_code=APP_STORE&func_code=APP_PREVIEW&file_path=/appstore/app/preview/20250313/38413340.png",
+	"video": "",
+	"site": "https://9xtream4k.com/manage/login/"
+},
+{
+    "title": "IPEXO IPTV Player",
+    "ver": "3.0.4",
+    "description": "IPEXO IPTV Player est le meilleur lecteur IPTV pour PC où vous pouvez ajouter vos propres listes de lecture avec nom d'utilisateur + mot de passe + URL/DNS pour regarder Live Tv, Movies et Series.",
+    "icon": "https://ipexoplayer.com/wp-content/uploads/2023/08/cropped-ipexo-windows-m3u-player-modified-150x150.png",
+    "url": "https://apps.apple.com/in/app/iptv-player-ipexo/id6739544197",
+    "screenshot": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/b5/5c/6bb55c1d-225c-d9f8-07a0-b9f4b9d602aa/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2025-04-24_at_01.49.45.png/230x499bb.webp",
+    "screenshot": "https://ipexoplayer.com/wp-content/uploads/2024/07/search-cropped.png",
+    "screenshot": "https://ipexoplayer.com/wp-content/uploads/2024/07/epg-big-desktop.png",
+    "video": "https://dl.dropboxusercontent.com/scl/fi/2106e9bqihuav7ie74ci9/Windows-Ipexo-0.mp4?rlkey=6xkthe93epmyfvql4uwrbzjo0&dl=0",
+    "review": "https://www.dropbox.com/scl/fi/2106e9bqihuav7ie74ci9/Windows-Ipexo-0.mp4?rlkey=6xkthe93epmyfvql4uwrbzjo0",
+	"site": "https://ipexoplayer.com/"
+},
+{
+    "title": "IPTV+",
+    "ver": "2.0.2",
+    "description": "",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/dc/5d/09dc5daf-6854-d962-7d06-622961aadf6f/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/200x200ib-75.webp",
+    "url": "https://apps.apple.com/in/app/iptv-my-smart-iptv-player/id1525121231",
+    "screenshot": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/c7/fd/bcc7fd14-da6f-7814-2a5f-ec826d313a57/3e98165c-54ec-472d-a3dd-54fd4af28b24_iPhone_-_0.jpg/230x499bb.webp",
+    "screenshot": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/32/87/7132873b-6ef5-0ae8-90ef-b0ff7335e30a/0d93294a-2473-4fb5-843b-3088149f67b9_iPhone__U2013_2.jpg/230x499bb.webp"
+},
+{
+    "title": "IPTVX",
+    "ver": "22.8",
+    "description": "La première application qui révolutionne l'expérience utilisateur OTT/IPTV, attractive et simple à utiliser pour diffuser votre contenu numérique sur tous vos appareils.\n Nous sommes l'original, le premier-né de nombreuses imitations, qui ont poussé ce marché à évoluer dans notre direction. Choisissez l'original.\n\nOrganisez et regardez votre contenu numérique, la télévision en direct, les films et les émissions de télévision AVEC STYLE (NOUS NE FOURNISSONS PAS DE CONTENU) !\n \nIPTVX prend en charge les principaux formats et services, notamment l'API Xtream, M3U, M3U8, PLEX et SMB (pour NAS/serveurs et ordinateurs).",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/ff/20/23ff2008-339a-dfe2-0b69-11d153dd5339/Placeholder.mill/200x200bb-75.webp",
+    "url": "https://apps.apple.com/us/app/iptvx/id1451470024",
+    "screenshot": "https://iptvx.app/media/iptvx-apple-tv-movies.png",
+    "screenshot": "https://iptvx.app/shot-iphone.png",
+    "site": "https://iptvx.app/"
+},
+{
+    "title": "MyTVOnline+",
+    "version": "1.0.6",
+    "description": "",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/5a/78/b25a78a7-077c-5509-55ff-f48bb96974ce/Placeholder.mill/200x200bb-75.webp",
+    "url": "https://apps.apple.com/fr/app/mytvonline-iptv-player/id6714452886",
+    "screenshot": "https://www.formulerus.com/wp-content/uploads/2025/01/app-1-1.webp",
+    "screenshot": "https://static.wixstatic.com/media/a3a962_9d7f6464777c497db8f85413f479d9d8~mv2.jpg/v1/fill/w_568,h_514,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a3a962_9d7f6464777c497db8f85413f479d9d8~mv2.jpg",
+    "screenshot": "https://static.wixstatic.com/media/a3a962_a8f517d923b34e93bceaffd360d508db~mv2.jpg/v1/fill/w_1870,h_825,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/a3a962_a8f517d923b34e93bceaffd360d508db~mv2.jpg",
+    "site": "https://fr.formuler.tv/mytvonline-plus"
+},
+{
+	"title": "NexTV",
+	"version": " 3.0.9",
+	"description": "Notre application est connue pour sa simplicité et sa facilité d'utilisation. Découvrez les dernières tendances en matière de films et d'émissions de télévision. Intégration transparente avec TMDB, avec métadonnées riches et recommandations.",
+	"logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/5e/9d/065e9dc3-cf00-6eb5-9b7c-120ae92e8f24/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200ia-75.webp",
+	"url": "https://apps.apple.com/us/app/nextv/id1628393213",
+	"screenshot": "https://nextv.fr/images/screenshot/top-image.webp",
+	"video": "",
+	"app_review": "",
+	"site": "https://nextv.fr/index.html"
+},
 {
 "title": " .⬇️ ⬇️ T U T O R I E L S️ ⬇️ ⬇️ ",
 	"description": "Liste de tutoriels vidéos pour dépanner certaines situations",
