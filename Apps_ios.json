@@ -12,43 +12,37 @@
 	"description": "Ajout des logiciels :\nYnoTV, ExtremeTV \n\nMise à jour de :\nAucun.",
 	"url": "",
 	"app_review": "",
-	"ver": "",
-	"category": ".Nouveautés"
+	"ver": ""
 },	
 {
 "title": " ⬇️ ⬇️ Liste des applications ⬇️ ⬇️ ",
 	"description": "",
   "app_review": "",
-  "ver": ".",
-	"category": "iOs"
+  "ver": ""
 },
 {
 "title": "iBo Media Player",
-  "version": "3.7",
+  "ver	": "3.7",
   "app_review": "https://iboproapp.com/public/intro.mp4",
   "description": "Le célèbre lecteur iBo issu des TVs Samsung/LG et porté sur iPhone",
   "icon": "https://iboproapp.com/m3u/logo-512.png",
-  "url": "https://apps.apple.com/in/app/ibo-pro-player/id6449647925",
-  "category": "iOs"
+  "url": "https://apps.apple.com/in/app/ibo-pro-player/id6449647925"
 },
 {
 "title": " .⬇️ ⬇️ T U T O R I E L S️ ⬇️ ⬇️ ",
     "description": "Liste de tutoriels vidéos pour dépanner certaines situations",
     "app_review": "",
-    "ver": ".",
-    "category": ".Tutoriels"
+    "ver": "."
 },
 {
 "title": " Tutoriel - Speedtest",
 	"description": "SpeedTest sur un serveur auto-hébergé",
-	"app_review": "https://tinyurl.com/bdh2dkty",
-	"category": ".Tutoriels"
+	"app_review": "https://tinyurl.com/bdh2dkty"
 },
 {
 "title": " Tutoriel - Verificateur Resolveur DNS",
 	"description": "Site Browserleaks.com pour verifier les DNS actuels du boitier/téléphone",
-	"app_review": "https://browserleaks.net/dns",
-	"category": ".Tutoriels"
+	"app_review": "https://browserleaks.net/dns"
 }
 ]
 }
