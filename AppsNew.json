@@ -8,8 +8,8 @@
 	"category": ""
 },
 {
-"title": "** 26/07/2026 : Nouveautés",
-	"description": "Ajout des logiciels :\n ByeDPI, AdGuard ATV, Disney+, AppleTV, LauncherManager, LocalSend, Spotify ATV, TCL BrowseHere,FAST Speed Test by Netflix\n Mise à jour de :\n ParadoxXx Installer ATV, Nova Video Player, Projectivy Launcher, IPTV Smarters Pro, SmartTube",
+"title": "** 06/08/2026 : Nouveautés",
+	"description": "Création de liens pour Smartphones OU pour AndroidTV signalés à la fin du titre du logiciel \nAjout des logiciels :\n ByeDPI, AdGuard ATV, Disney+, AppleTV, LauncherManager, LocalSend, Spotify ATV, TCL BrowseHere,FAST Speed Test \n Mise à jour de :\n ParadoxXx Installer ATV, Nova Video Player, Projectivy Launcher, IPTV Smarters Pro, SmartTube",
 	"url": "https://www.dropbox.com/scl/fi/2pxno2a6ij53ojfnaz368/ParadoxXx-Installer-2.2-avec-applis-SANS-URL-MODIFIABLE.apk?rlkey=kanmqj09seqkhx8qagqks7a6i&dl=1",
 	"app_review": "",
 	"ver": "(*26/07/2026*)",
@@ -17,10 +17,10 @@
 },	
 {
 "title": "** NEW** ParadoxXx Installer ATV",
-	"description": "Nouvelle version de mon application avec correction de bugs signalés ou trouvés.\n New : Ajout fonction recherche et widget latéral sur le nombre de téléchargements après appui sur Installer",
+	"description": "Nouvelle version de mon application avec correction de traduction.\n New : Ajout fonction Recherche et widget latéral sur le nombre de téléchargements et progressions après appui sur Installer.\n COMPATIBLE AVEC SMARTPHONES =)",
 	"url": "https://www.dropbox.com/scl/fi/2pxno2a6ij53ojfnaz368/ParadoxXx-Installer-2.2-avec-applis-SANS-URL-MODIFIABLE.apk?rlkey=kanmqj09seqkhx8qagqks7a6i&dl=1",
 	"app_review": "",
-	"ver": "2.2.0 (⭐25/07/2026⭐)",
+	"ver": "2.3.0 (⭐06/08/2026⭐)",
 	"category": ".Nouveautés"
 },	
 {
@@ -48,7 +48,7 @@
 	"category": "Assistance"
 },	
 {
-"title": "Aptoide Smartphone 📱",
+"title": "Aptoide (Smartphone 📱)",
 	"description": "Store alternatif n'impliquant pas l'ajout d'un compte Google",
 	"url": "https://pool.apk.aptoide.com/aptoide-web/cm-aptoide-pt-12060-71289868-2725e9ae81839a4ae69f8f362fc4d7e1.apk?apk_name=aptoide",
 	"app_review": "",
@@ -56,7 +56,7 @@
 	"category": "Utilitaires"
 },
 {
-"title": "Aptoide TV 📱",
+"title": "Aptoide TV (AndroidTV)",
 	"description": "Version AndroidTV de la célèbre application Aptoide",
 	"url": "https://pool.apk.aptoide.com/carolyne-silva/cm-aptoidetv-pt-542-72049303-6212d8ef0991eaf05b32f8f0141dadb8.apk",
 	"app_review": "",
@@ -96,7 +96,7 @@
 	"category": "IPTV AtlasPro"
 },
 {
-"title": "AtlasPro Prime (Downloader 361975)",
+"title": "AtlasPro Prime (Downloader 361975) (AndroidTV)",
 	"description": "(Android TV uniquement) Inspirée de l'application NexTV avec une interface plus proche esthetiquement d'une appli NetFlix, fonction modifications de DNS intégrées.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
 	"url": "https://dl.dropboxusercontent.com/scl/fi/ied7okqbq6vb9ihig3u22/ATLASPRO_Prime.apk?rlkey=u33vcrxcg7tceow2yg8cnmz36&dl=0",
 	"app_review": "https://dl.dropboxusercontent.com/scl/fi/lev9wmp4b3108xdtvg2yi/ATLASPRO-Prime.gif?rlkey=o3j37ka4ghp1tw5vtsqwfssm8&dl=0",
@@ -104,7 +104,7 @@
 	"category": "IPTV AtlasPro"
 },
 {
-"title": "AtlasPro Tivi (** NON-OFFICIELLE **)",
+"title": "AtlasPro Tivi (** NON-OFFICIELLE **) (AndroidTV)",
 	"description": "(Android TV uniquement) Version customisée de AtlasPro du logiciel TiviMate avec une interface intelligente et simplifiée mais bourée de fonctionnalités.\n N.B ====> Pour configurer votre abonnement, demandez le lien de votre sauvegarde Tivimate au vendeur.\n Une fois le logiciel lancé, allez sur *Parametres* puis sur *Général* pour enfin aller cliquer en bas sur *Restaurer les données*. Choisir enfin *Entrer l'URL* et saisir l'URL que vous aura communiqué le vendeur.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
 	"url": "https://www.dropbox.com/scl/fi/bdr2ejbjmd6l554k74tve/AtlasPro-Tivi-5.1.0.apk?rlkey=nkcfn1iesviwbn19a4dtyie8o&dl=1",
 	"app_review": "https://dl.dropboxusercontent.com/scl/fi/cia0pz1iw26esb7xqdnsx/AtlasPro-Tivi.gif?rlkey=1kyxegc5lqgwssevdjcyo8fmk&dl=0",
@@ -112,7 +112,7 @@
 	"category": "IPTV AtlasPro"
 },
 {
-"title": "Browser for ATV 🌐",
+"title": "Browser for ATV 🌐 (AndroidTV)",
 	"description": "Navigateur *Browser for ATV* qui possède un bloqueur de pubs intégré",
 	"url": "https://www.tvbox.one/box-files/Browser-for-TV-2.16.00.apk",
 	"app_review": "",
@@ -136,7 +136,7 @@
 	"category": "Utilitaires"
 },
 {
-"title": "Downloader by AFTVnews (Android TV) 📱",
+"title": "Downloader by AFTVnews (Android TV)",
 	"description": "Navigateur/telechargeur bien connu pour AndroidTV et Amazon FireSticks.",
 	"url": "https://www.dropbox.com/scl/fi/4y07zicxged49fkpyl2lz/Downloader-by-AFTVnews_1.4.5-ForGoogleAndroidTV_APKPure.apk?rlkey=ukbiydjvj1yzz5t6bdkzsmzky&dl=1",
 	"app_review": "https://www.youtube.com/watch?v=ZuxE14gGoRc",
@@ -208,7 +208,7 @@
 	"category": "IPTV OTT"
 },
 {
-"title": "DigitalTV - Tivimate",
+"title": "DigitalTV - Tivimate (AndroidTV)",
 	"description": "Cette application est basée sur le fameux Tivimate.\n Cette application ne peut etre installee QUE sur des boitiers et téléviseurs Android (non tactiles).\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne",
 	"url": "https://www.dropbox.com/scl/fi/w5gqdgmfvw31wnervd4dc/DigitalTV-TiviMate-5.1.0.apk?rlkey=5tqvyfne87hht8numcqz021sl&dl=1",
 	"app_review": "https://dl.dropboxusercontent.com/scl/fi/lksxcxy7bl1fhpk7c8f33/DigitalTV-TiviMate-5.1.0.png?rlkey=fhwe1e0n5rgi7i8chfaih65he&dl=0",
@@ -216,7 +216,7 @@
 	"category": "IPTV OTT"
 },
 {
-"title": "DigitalTV - NexTV 2 ** NON-OFFICIELLE **",
+"title": "DigitalTV - NexTV 2 ** NON-OFFICIELLE ** (AndroidTV)",
 	"description": "Inspirée de l'application NexTV avec une interface plus proche esthetiquement d'une appli NetFlix.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
 	"url": "https://www.dropbox.com/scl/fi/dkqs2fqx29oba6mhmx6uf/DigitalTV-NexTV-2.5.4-UNOFFICIAL.apk?rlkey=rzaeho8d17r2e1esjop04o93a&dl=1",
 	"app_review": "https://dl.dropboxusercontent.com/scl/fi/fuya3qpr0i2dp5q6xiiam/DigitalTV-NexTV-2.5.4-UNOFFICIAL.png?rlkey=lb57ynd1wx4ya0q6et4g1a8xp&dl=0",
@@ -240,7 +240,7 @@
 	"category": "IPTV OTT"
 },
 {
-"title": "NexTV 3",
+"title": "NexTV 3 (AndroidTV)",
 	"description": "(Android TV uniquement) Lecteur IPTV soigné esthétiquement avec proposition de contenu similaire, accès aux fiches d'acteurs.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
 	"url": "https://www.dropbox.com/scl/fi/bm59245l0yspsr41b0t13/NexTv_IPTV_player_v3_2_7_rev2_google_tv_mod-unlocked.apk?rlkey=q7p1jhndnbce6497q188areei&dl=1",
 	"app_review": "https://dl.dropboxusercontent.com/scl/fi/238yuc23cxz0k2j7djlwh/NexTv_IPTV_player_v3_2_7_rev2_google_tv_mod-unlocked.png?rlkey=8asezic92ruttly94igyh3bud&dl=0",
@@ -256,7 +256,7 @@
 	"category": "IPTV Divers"
 },
 {
-"title": "Projectivy Launcher",
+"title": "Projectivy Launcher (AndroidTV)",
 	"description": "Launcher pour remplacer GoogleTV plein de pubs et videos : simple, parametrable et customisable.",
 	"url": "https://www.dropbox.com/scl/fi/oil9973il8fr4xxu82pcy/Projectivy-Launcher-Premium-v4.71-fidyBG.apk?rlkey=0fjkgmwrzd1f3vokplw4bzmrc&dl=1",
 	"app_review": "",
@@ -272,7 +272,7 @@
 	"category": "Assistance"
 },
 {
-"title": "SmartTube [ ▶︎ ]",
+"title": "SmartTube [ ▶︎ ] (AndroidTV)",
 	"description": "Un excellent remplacement pour YouTube classique. Interface conviviale, frequence d'images automatiques (pour les decodeurs), pas de publicite et SponsorBlock. Version stable.",
 	"url": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
 	"mirror": "https://go.aftvnews.com/28544",
@@ -289,7 +289,7 @@
 	"category": "Assistance"
 },
 {
-"title": "TizenTube Cobalt [ ▶︎ ]",
+"title": "TizenTube Cobalt [ ▶︎ ] (AndroidTV)",
 	"description": "TizenTube Cobalt est une application basée sur Cobalt qui améliore votre expérience de streaming préféré en supprimant les publicités, en ajoutant le support SponsorBlock",
 	"url": "https://github.com/reisxd/TizenTubeCobalt/releases/download/latest/cobalt-arm.apk",
 	"mirror": "https://cobalt.6513006.xyz",
@@ -371,7 +371,7 @@
 	"category": "Multimédia"
 },
 {
-"title": "Launcher Manager by TDUK",
+"title": "Launcher Manager by TDUK (AndroidTV)",
 	"description": "Launcher Manager pour définir des launchers/lanceurs comme Projectivy Launcher en tant qu'application d' *Accueil TV* préférée.\nPermet de remplacer AndroidTV ou GoogleTV qui sont bourées de pubs et de vidéos en arrière-plan.",
 	"url": "https://www.dropbox.com/scl/fi/dfwm10jav29vtimmxmhvg/LMTDUK_119.apk?rlkey=76efp07whne8szwllweci44pl&dl=1",
 	"app_review": "https://www.youtube.com/watch?v=z7_rQS2ifQA",
@@ -387,7 +387,7 @@
 	"category": "Utilitaires"
 },
 {
-"title": "Spotify ATV",
+"title": "Spotify ATV (AndroidTV)",
 	"description": "L'application dispose d'une interface multilingue, version sans publicité. Prise en charge complète d'Android TV et de la télécommande.\n Certaines fonctionnalités serveur [Téléchargements] nécessitent un abonnement payant.\n CHOISIR *FERMER* SI MESSAGE MISE A JOUR NECESSAIRE.",
 	"url": "https://www.dropbox.com/scl/fi/w93i9wlujyhpqhqvo1ha5/Spotify-Premium-ATV-v.1.52.0-MODniy-style.apk?rlkey=3w0t1o5amnovkm68di279hza0&dl=1",
 	"app_review": "",
@@ -411,14 +411,14 @@
 	"category": "Utilitaires"
 },
 {
-"title": "TCL BrowseHere",
+"title": "TCL BrowseHere (AndroidTV)",
 	"description": "Un navigateur web gratuit conçu spécialement pour Android TV, Google TV, Amazon Fire TV ainsi que les boîtiers et appareils Android.\n BrowseHere prend en charge une expérience de streaming vidéo optimisée pour un usage TV, un blocage puissant des publicités sur les pages web et un lecteur IPTV, et est entièrement optimisé pour la navigation à la télécommande.",
 	"url": "https://tcl-img.b-cdn.net/BrowseHere/browsehere.net/browsehere-net-app-release.apk",
 	"ver": "8.02",
 	"category": "Navigateurs"
 },
 {
-"title": "AppDrawer ATV",
+"title": "AppDrawer (AndroidTV)",
 	"description": "Logiciel permettant l'ajout d'un *tiroir* qui affiche la liste complète des logiciels installés et classés de A à Z .",
 	"url": "https://www.dropbox.com/scl/fi/08fo2rcitqtkgnn26kasa/App-Drawer_ATV.apk?rlkey=vzk3ho79u1yy1fuskfj7y1u9t&st=b7gb0ugw&dl=1",
 	"ver": "1.0",
