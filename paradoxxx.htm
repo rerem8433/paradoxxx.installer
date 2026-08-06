@@ -1,0 +1,1100 @@
+<!DOCTYPE html>
+<html lang="bg" data-fpd-settings="{&quot;enabled&quot;:false,&quot;canvas&quot;:false,&quot;webgl&quot;:false,&quot;audio&quot;:false,&quot;fonts&quot;:false,&quot;screen&quot;:false,&quot;navigator&quot;:false,&quot;timezone&quot;:false,&quot;webrtc&quot;:false,&quot;battery&quot;:false,&quot;clientRects&quot;:false}"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ParadoxXx Squad</title>
+<style>
+  :root{
+--bg:#0a0909;
+--panel:#141010;
+--panel-2:#100d0d;
+--line:#251818;
+--text:#e9dfdf;
+--muted:#8f7d7d;
+--accent:#ff3b3b;
+--accent-dim:#8f2020;
+    --amber:#ffb454;
+    --danger:#ff6b6b;
+    --radius:10px;
+    --mono: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+    --sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  }
+
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:
+      radial-gradient(1200px 600px at 15% -10%, rgba(57,255,157,0.06), transparent 60%),
+      radial-gradient(900px 500px at 100% 0%, rgba(255,180,84,0.04), transparent 55%),
+      var(--bg);
+    color:var(--text);
+    font-family:var(--sans);
+    min-height:100vh;
+    line-height:1.5;
+  }
+
+  /* scanline texture, subtle */
+  body::before{
+    content:"";
+    position:fixed;
+    inset:0;
+    pointer-events:none;
+    background:repeating-linear-gradient(
+      to bottom,
+      rgba(255,255,255,0.012) 0px,
+      rgba(255,255,255,0.012) 1px,
+      transparent 1px,
+      transparent 3px
+    );
+    z-index:1;
+    opacity:.5;
+  }
+
+  .wrap{
+    max-width:980px;
+    margin:0 auto;
+    padding:32px 20px 80px;
+    position:relative;
+    z-index:2;
+  }
+
+  header{
+    display:flex;
+    align-items:flex-end;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap:14px;
+    margin-bottom:26px;
+    border-bottom:1px solid var(--line);
+    padding-bottom:20px;
+  }
+
+  .brand{
+    display:flex;
+    align-items:center;
+    gap:12px;
+  }
+
+  .brand-mark{
+    width:38px;
+    height:38px;
+    border-radius:8px;
+    background:linear-gradient(135deg, var(--accent), var(--accent-dim));
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-family:var(--mono);
+    font-weight:700;
+    font-size:13px;
+    color:#03150c;
+    flex-shrink:0;
+    box-shadow:0 0 22px rgba(57,255,157,0.35);
+  }
+
+  h1{
+    margin:0;
+    font-size:22px;
+    letter-spacing:0.02em;
+    font-weight:700;
+  }
+  h1 .sub{
+    display:block;
+    font-family:var(--mono);
+    font-size:11px;
+    color:var(--muted);
+    font-weight:400;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+    margin-top:3px;
+  }
+
+  .status{
+    font-family:var(--mono);
+    font-size:12px;
+    color:var(--muted);
+    text-align:right;
+    display:flex;
+    flex-direction:column;
+    gap:4px;
+    align-items:flex-end;
+  }
+  .status .dot{
+    display:inline-block;
+    width:7px;height:7px;
+    border-radius:50%;
+    background:var(--accent);
+    margin-right:6px;
+    box-shadow:0 0 6px var(--accent);
+    animation:pulse 2s ease-in-out infinite;
+  }
+  .status .dot.stale{background:var(--amber); box-shadow:0 0 6px var(--amber);}
+  .status .dot.err{background:var(--danger); box-shadow:0 0 6px var(--danger); animation:none;}
+  @keyframes pulse{
+    0%,100%{opacity:1;}
+    50%{opacity:.35;}
+  }
+
+  .source-row{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    margin-bottom:14px;
+    flex-wrap:wrap;
+  }
+  .source-row label,
+  .source-row-label{
+    font-family:var(--mono);
+    font-size:11px;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+    color:var(--accent-dim);
+    flex-shrink:0;
+  }
+  .custom-select{
+    position:relative;
+    flex:1;
+    min-width:240px;
+    max-width:420px;
+  }
+  .cs-trigger{
+    width:100%;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:10px;
+    background:var(--panel);
+    border:1px solid var(--line);
+    border-radius:var(--radius);
+    color:var(--text);
+    font-family:var(--sans);
+    font-size:14px;
+    padding:10px 14px;
+    min-height:44px;
+    cursor:pointer;
+    text-align:left;
+    transition:border-color .15s ease, box-shadow .15s ease;
+  }
+  .cs-trigger:hover{ border-color:var(--accent-dim); }
+  .cs-arrow{
+    color:var(--accent-dim);
+    font-size:11px;
+    flex-shrink:0;
+    transition:transform .15s ease;
+  }
+  .custom-select.open .cs-arrow{ transform:rotate(180deg); }
+  .cs-overlay{
+    position:absolute;
+    top:calc(100% + 6px);
+    left:0;
+    width:max-content;
+    min-width:100%;
+    max-width:min(90vw, 420px);
+    background:var(--panel-2);
+    border:1px solid var(--accent-dim);
+    border-radius:var(--radius);
+    padding:4px;
+    z-index:20;
+    box-shadow:0 10px 30px rgba(0,0,0,0.5), 0 0 0 1px rgba(57,255,157,0.08);
+  }
+  .cs-overlay[hidden]{ display:none; }
+  .cs-option{
+    padding:11px 12px;
+    border-radius:7px;
+    font-size:13.5px;
+    color:var(--text);
+    cursor:pointer;
+    line-height:1.35;
+    white-space:nowrap;
+    transition:background-color .12s ease;
+  }
+  .cs-option + .cs-option{ margin-top:2px; }
+  .cs-option:hover{ background:rgba(57,255,157,0.08); }
+  .cs-option.active{
+    color:var(--accent);
+    font-weight:600;
+  }
+  .cs-option.active::before{
+    content:"✓ ";
+  }
+  .fidy-btn{
+    margin-left:10px;
+    text-decoration:none;
+    white-space:nowrap;
+    color:var(--amber);
+    border-color:rgba(255,180,84,0.3);
+  }
+  .fidy-btn:hover{
+    border-color:var(--amber);
+    color:var(--amber);
+  }
+  @media (max-width:640px){
+    .fidy-btn{ margin-left:0; }
+  }
+
+  .searchbar{
+    display:grid;
+    grid-template-columns:1fr auto;
+    gap:10px;
+    margin-bottom:18px;
+  }
+  @media (max-width:640px){
+    .searchbar{grid-template-columns:1fr;}
+  }
+
+  .field{
+    position:relative;
+  }
+  .field label{
+    position:absolute;
+    top:-8px;
+    left:11px;
+    background:var(--bg);
+    padding:0 6px;
+    font-family:var(--mono);
+    font-size:10px;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+    color:var(--accent-dim);
+  }
+  .field input{
+    width:100%;
+    background:var(--panel);
+    border:1px solid var(--line);
+    border-radius:var(--radius);
+    color:var(--text);
+    font-size:14px;
+    padding:14px 14px;
+    font-family:var(--sans);
+    outline:none;
+    transition:border-color .15s ease, box-shadow .15s ease;
+  }
+  .field input:focus{
+    border-color:var(--accent-dim);
+    box-shadow:0 0 0 3px rgba(57,255,157,0.12);
+  }
+  .field input::placeholder{color:#4b5c53;}
+
+  .clear-btn{
+    background:var(--panel);
+    border:1px solid var(--line);
+    color:var(--muted);
+    border-radius:var(--radius);
+    padding:0 18px;
+    font-family:var(--mono);
+    font-size:12px;
+    cursor:pointer;
+    transition:border-color .15s ease, color .15s ease;
+  }
+  .clear-btn:hover{border-color:var(--danger); color:var(--danger);}
+
+  .meta-row{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    flex-wrap:wrap;
+    gap:8px;
+    margin-bottom:16px;
+    font-family:var(--mono);
+    font-size:12px;
+    color:var(--muted);
+  }
+  .meta-row a{color:var(--accent-dim); text-decoration:none;}
+  .meta-row a:hover{color:var(--accent);}
+  .meta-row span:first-child{
+    min-width:0;
+    max-width:100%;
+    overflow-wrap:anywhere;
+    word-break:break-all;
+  }
+
+  .cats{
+    display:flex;
+    flex-wrap:wrap;
+    gap:6px;
+    margin-bottom:20px;
+  }
+  .cat-chip{
+    font-family:var(--mono);
+    font-size:12.5px;
+    padding:8px 14px;
+    border-radius:999px;
+    border:1px solid var(--line);
+    color:var(--muted);
+    background:var(--panel);
+    cursor:pointer;
+    user-select:none;
+    transition:all .15s ease;
+    white-space:nowrap;
+  }
+  .cat-chip:hover{border-color:var(--accent-dim); color:var(--text);}
+  .cat-chip.active{
+    background:var(--accent);
+    color:#03150c;
+    border-color:var(--accent);
+    font-weight:600;
+  }
+
+  #results{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+  }
+
+  .card{
+    background:var(--panel);
+    border:1px solid var(--line);
+    border-radius:var(--radius);
+    padding:16px 18px;
+    display:grid;
+    grid-template-columns:1fr auto;
+    gap:10px 16px;
+    align-items:start;
+    transition:border-color .15s ease, transform .1s ease;
+  }
+  .card:hover{border-color:var(--accent-dim);}
+
+  .card-main{min-width:0;}
+  .card-title-row{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    flex-wrap:wrap;
+    margin-bottom:6px;
+  }
+  .card-title{
+    font-size:15.5px;
+    font-weight:700;
+    color:var(--text);
+  }
+  .badge{
+    font-family:var(--mono);
+    font-size:10.5px;
+    padding:2px 8px;
+    border-radius:5px;
+    letter-spacing:0.03em;
+  }
+  .badge.ver{
+    background:rgba(57,255,157,0.1);
+    color:var(--accent);
+    border:1px solid rgba(57,255,157,0.25);
+  }
+  .badge.cat{
+    background:rgba(255,180,84,0.08);
+    color:var(--amber);
+    border:1px solid rgba(255,180,84,0.2);
+  }
+  .badge.mirror{
+    background:transparent;
+    color:var(--muted);
+    border:1px solid var(--line);
+    font-size:10px;
+  }
+
+  .card-desc{
+    color:var(--muted);
+    font-size:13px;
+    white-space:pre-line;
+  }
+
+  .card-actions{
+    display:flex;
+    flex-direction:column;
+    gap:8px;
+    align-items:stretch;
+    min-width:118px;
+  }
+  .dl-btn{
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    gap:6px;
+    background:var(--accent);
+    color:#03150c;
+    text-decoration:none;
+    font-weight:700;
+    font-size:14px;
+    padding:12px 16px;
+    border-radius:8px;
+    transition:filter .15s ease, transform .1s ease;
+    white-space:nowrap;
+    min-height:44px;
+    position:relative;
+  }
+  .dl-btn:hover{filter:brightness(1.08); transform:translateY(-1px);}
+  .dl-btn:active{transform:translateY(0);}
+
+  .review-link{
+    text-align:center;
+    font-family:var(--mono);
+    font-size:11px;
+    color:var(--muted);
+    text-decoration:none;
+    border:1px solid var(--line);
+    padding:7px 10px;
+    border-radius:8px;
+  }
+  .review-link:hover{color:var(--text); border-color:var(--accent-dim);}
+
+  @media (max-width:560px){
+    .card{grid-template-columns:1fr;}
+    .card-actions{flex-direction:row; min-width:0;}
+    .dl-btn, .review-link{flex:1;}
+  }
+
+  .empty, .loading, .errbox{
+    text-align:center;
+    padding:60px 20px;
+    color:var(--muted);
+    font-family:var(--mono);
+    font-size:13px;
+  }
+  .loading .spin{
+    display:inline-block;
+    width:16px;height:16px;
+    border:2px solid var(--line);
+    border-top-color:var(--accent);
+    border-radius:50%;
+    animation:spin .7s linear infinite;
+    margin-right:8px;
+    vertical-align:middle;
+  }
+  @keyframes spin{to{transform:rotate(360deg);}}
+  .errbox{color:var(--danger);}
+
+  /* Фокус за навигация с дистанционно (стрелки + ОК) */
+  [data-tv-focusable]{
+    transition: outline-color .12s ease, box-shadow .12s ease, transform .12s ease, border-color .12s ease;
+  }
+  [data-tv-focusable]:focus{
+    outline:none;
+  }
+  [data-tv-focusable].tv-focused,
+  [data-tv-focusable]:focus-visible{
+    outline:3px solid var(--accent) !important;
+    outline-offset:2px;
+    box-shadow:0 0 0 6px rgba(57,255,157,0.18), 0 0 24px rgba(57,255,157,0.35) !important;
+    transform:scale(1.035);
+    z-index:5;
+    position:relative;
+    border-color:var(--accent) !important;
+  }
+  .card.tv-focused-within{
+    border-color:var(--accent-dim);
+  }
+
+  /* Специален градиентен оранжев фокус за бутона "Изтегли" */
+  .dl-btn[data-tv-focusable].tv-focused,
+  .dl-btn[data-tv-focusable]:focus-visible{
+    outline:none !important;
+    box-shadow:0 0 0 3px #ff8a00, 0 0 24px 6px rgba(255,122,24,0.6) !important;
+    transform:scale(1.07);
+  }
+  .dl-btn[data-tv-focusable].tv-focused::before,
+  .dl-btn[data-tv-focusable]:focus-visible::before{
+    content:"";
+    position:absolute;
+    inset:-5px;
+    border-radius:13px;
+    padding:3px;
+    background:linear-gradient(135deg, #ffe27a, #ff8a00, #ff3d00, #ffb454, #ffe27a);
+    background-size:300% 300%;
+    -webkit-mask:linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite:xor;
+    mask-composite:exclude;
+    pointer-events:none;
+    animation:dlGradientSpin 2.4s linear infinite;
+  }
+  @keyframes dlGradientSpin{
+    0%{background-position:0% 50%;}
+    100%{background-position:100% 50%;}
+  }
+
+  .list-controls{
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px;
+    margin-bottom:16px;
+  }
+  .list-controls-bottom{
+    margin-top:16px;
+    margin-bottom:0;
+  }
+  .ctrl-btn{
+    background:var(--panel);
+    border:1px solid var(--line);
+    color:var(--text);
+    border-radius:var(--radius);
+    padding:10px 16px;
+    font-family:var(--mono);
+    font-size:12.5px;
+    cursor:pointer;
+    transition:border-color .15s ease, color .15s ease;
+    min-height:44px;
+  }
+  .ctrl-btn:hover{border-color:var(--accent-dim); color:var(--accent);}
+  .ctrl-btn.active{
+    border-color:var(--accent);
+    color:var(--accent);
+  }
+
+  .count-line{
+    font-family:var(--mono);
+    font-size:11.5px;
+    color:var(--muted);
+    margin-bottom:10px;
+  }
+  .count-line b{color:var(--accent);}
+
+  footer{
+    margin-top:40px;
+    padding-top:16px;
+    border-top:1px solid var(--line);
+    text-align:center;
+    font-family:var(--mono);
+    font-size:11px;
+    color:#3f4d46;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div class="brand">
+      <div class="brand-mark">TV</div>
+      <h1>ParadoxXx Squad
+        <span class="sub">Bibliothèque d'applications par ParadoxXx Squad</span>
+      </h1>
+    </div>
+    <div class="status" id="status">
+      <span><span class="dot" id="statusDot"></span><span id="statusText">Actualités</span></span>
+      <span id="statusTime">mis à jour le 06/08/2026 à 13 h 23</span>
+    </div>
+  </header>
+
+  <div class="source-row">
+    <span class="source-row-label">Source</span>
+    <div class="custom-select" id="sourceCustomSelect">
+      <button type="button" class="cs-trigger" id="sourceTrigger" data-tv-focusable="" tabindex="0" aria-haspopup="listbox" aria-expanded="false">
+        <span id="sourceTriggerLabel">Choisir ici le système d'exploitation</span>
+        <span class="cs-arrow" aria-hidden="true">▾</span>
+      </button>
+      <div class="cs-overlay" id="sourceOverlay" role="listbox" hidden="">
+        <div class="cs-option active" role="option" aria-selected="true" data-source="windows" data-tv-focusable="" tabindex="0">Logiciels Windows / iOs / MacOS</div>
+        <div class="cs-option" role="option" aria-selected="false" data-source="android" data-tv-focusable="" tabindex="0">Android / AndroidTV</div>
+        <div class="cs-option" role="option" aria-selected="false" data-source="ios" data-tv-focusable="" tabindex="0">Logiciels iOs</div>
+        <div class="cs-option" role="option" aria-selected="false" data-source="macos" data-tv-focusable="" tabindex="0">Logiciels MacOS</div>		
+      </div>
+    </div>
+  </div>
+
+  <div class="searchbar">
+    <div class="field">
+      <label for="searchInput">Recherche (titre / miroir)</label>
+      <input id="searchInput" type="text" placeholder="Recherche…" autocomplete="off" data-tv-focusable="" tabindex="0" class="tv-focused">
+    </div>
+    <button class="clear-btn" id="clearBtn" type="button" data-tv-focusable="" tabindex="0">Effacer</button>
+  </div>
+
+  <div class="cats" id="cats"><span class="cat-chip" data-tv-focusable=« » tabindex="0" role="button">Navigateurs</span><span class="cat-chip" data-tv-focusable=« » tabindex="0" role="button" >Lecteurs vidéo</span><span class="cat-chip" data-tv-focusable=« » tabindex="0" role="button">Outils</span><span class="cat-chip" data-tv-focusable=“” tabindex="0" role="button">Cinéma</span><span class="cat-chip" data-tv-focusable=« » tabindex="0" role=« button »>Lanceurs</span><span class="cat-chip" data-tv-focusable=“” tabindex="0" role="button">Marchés</span><span class="cat-chip" data-tv-focusable=« » tabindex="0" role=« button »>Écrans de veille</span><span class="cat-chip" data-tv-focusable=“” tabindex="0" role="button">Streaming</span><span class="cat-chip" data-tv-focusable=« » tabindex="0" role="button" >FireTV</span><span class="cat-chip" data-tv-focusable=« » tabindex="0" role="button">IPTV</span><span class="cat-chip" data-tv-focusable=“” tabindex="0" role="button">Kodi</span><span class="cat-chip" data-tv-focusable=« » tabindex="0" role=« button »>Kodi Modi</span><span class="cat-chip" data-tv-focusable=“” tabindex="0" role="button">Référentiels Kodi</span><span class="cat-chip" data-tv-focusable=« » tabindex="0" role="button">Plex&amp;Jellyfin</span></div>
+
+  <div class="meta-row">
+    <a href="#" id="refreshLink" data-tv-focusable="" tabindex="0">↻ Mettre à jour maintenant</a>
+  </div>
+
+  <div class="count-line" id="countLine" style="display: block;">Résultats trouvés : <b>197</b> sur un total de 197</div>
+
+  <div class="list-controls" id="listControlsTop">
+    <button type="button" id="sortToggleBtn" class="ctrl-btn active" data-tv-focusable="" tabindex="0">🔤 Mise en page originale</button>
+    <button type="button" id="scrollEndBtn" class="ctrl-btn" data-tv-focusable="" tabindex="0">⤓ Vers la fin de la liste</button>
+  </div>
+
+  <div id="results">
+    </div>
+
+  <div class="list-controls list-controls-bottom" id="listControlsBottom">
+    <button type="button" id="scrollStartBtn" class="ctrl-btn" data-tv-focusable="" tabindex="0">⤒ Retour en haut de la page</button>
+  </div>
+
+</div>
+
+<footer>Les données sont mises à jour automatiquement depuis la source en cas de modifications futures</footer>
+
+<script>
+(function(){
+  const SOURCES = {
+    android: {
+      label: "Android / AndroidTV Apps",
+      urls: [
+        "https://raw.githubusercontent.com/rerem8433/paradoxxx.installer/refs/heads/main/AppsNew.json",
+        "https://tinyurl.com/38eeay6t"
+      ]
+    },
+    windows: {
+      label: "Logiciels Windows",
+      urls: [
+        "https://raw.githubusercontent.com/rerem8433/paradoxxx.installer/refs/heads/main/AppsWindows.json"
+      ]
+    },
+    ios: {
+      label: "Logiciels iOs",
+      urls: [
+        "https://raw.githubusercontent.com/rerem8433/paradoxxx.installer/refs/heads/main/AppsExemple.json"
+      ]
+    },	
+    macos: {
+      label: "Logiciels MacOS",
+      urls: [
+        "https://raw.githubusercontent.com/rerem8433/paradoxxx.installer/refs/heads/main/AppsEmpty.json"
+      ]
+    }
+  };
+  const REFRESH_MS = 15 * 60 * 1000; // vérification des nouvelles données toutes les 15 minutes
+
+  const els = {
+    sourceCustomSelect: document.getElementById('sourceCustomSelect'),
+    sourceTrigger: document.getElementById('sourceTrigger'),
+    sourceTriggerLabel: document.getElementById('sourceTriggerLabel'),
+    sourceOverlay: document.getElementById('sourceOverlay'),
+    search: document.getElementById('searchInput'),
+    clear: document.getElementById('clearBtn'),
+    results: document.getElementById('results'),
+    cats: document.getElementById('cats'),
+    statusDot: document.getElementById('statusDot'),
+    statusText: document.getElementById('statusText'),
+    statusTime: document.getElementById('statusTime'),
+    refreshLink: document.getElementById('refreshLink'),
+    countLine: document.getElementById('countLine'),
+    sourceLink: document.getElementById('sourceLink'),
+    sortToggleBtn: document.getElementById('sortToggleBtn'),
+    scrollEndBtn: document.getElementById('scrollEndBtn'),
+    scrollStartBtn: document.getElementById('scrollStartBtn'),
+    listControlsBottom: document.getElementById('listControlsBottom'),
+    fidyBtn: document.getElementById('fidyBtn'),
+  };
+
+  let currentSourceKey = 'paradoxxx';
+  let sortMode = 'az'; // 'default' | 'az' — само за текущата сесия на страницата
+
+  let allApps = [];
+  let activeCategory = null;
+  let lastFetchOk = false;
+
+  function escapeHtml(str){
+    return String(str).replace(/[&<>"']/g, m => ({
+      '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;'
+    }[m]));
+  }
+
+  function setStatus(state, text){
+    els.statusDot.className = 'dot' + (state === 'err' ? ' err' : state === 'stale' ? ' stale' : '');
+    els.statusText.textContent = text;
+  }
+
+  function formatTime(d){
+    return d.toLocaleString('fr-FR', { hour:'2-digit', minute:'2-digit', day:'2-digit', month:'2-digit', year:'numeric' });
+  }
+
+  async function fetchData(silent){
+    if(!silent){
+      setStatus('loading', 'Зареждане…');
+      els.results.innerHTML = '<div class="loading"><span class="spin"></span>Зареждане на каталога…</div>';
+    }
+
+    const source = SOURCES[currentSourceKey];
+    let lastErr = null;
+    for(const base of source.urls){
+      try{
+        const sep = base.includes('?') ? '&' : '?';
+        const res = await fetch(base + sep + '_=' + Date.now(), { cache: 'no-store' });
+        if(!res.ok) throw new Error('HTTP ' + res.status);
+        const data = await res.json();
+        const apps = Array.isArray(data) ? data : (data.apps || []);
+        allApps = apps;
+        lastFetchOk = true;
+        setStatus('ok', 'En ligne');
+        els.statusTime.textContent = 'Dernière mise à jour le ' + formatTime(new Date());
+        if(els.sourceLink){
+          els.sourceLink.href = base;
+          els.sourceLink.textContent = base.replace(/^https?:\/\//, '');
+        }
+        buildCategories();
+        render();
+        return;
+      }catch(err){
+        lastErr = err;
+      }
+    }
+
+    // всички източници се провалиха
+    if(allApps.length){
+      setStatus('stale', 'Няма връзка — показват се последно заредени данни');
+    }else{
+      setStatus('err', 'Грешка при зареждане');
+      els.results.innerHTML = '<div class="errbox">Неуспешно зареждане на данните от източника.<br>' + escapeHtml(lastErr ? lastErr.message : 'Неизвестна грешка') + '</div>';
+    }
+  }
+
+  function buildCategories(){
+    const cats = Array.from(new Set(allApps.map(a => a.category).filter(Boolean))).sort((a,b)=>a.localeCompare(b,'bg'));
+    els.cats.innerHTML = '';
+    cats.forEach(cat => {
+      const chip = document.createElement('span');
+      chip.className = 'cat-chip' + (activeCategory === cat ? ' active' : '');
+      chip.textContent = cat;
+      chip.setAttribute('data-tv-focusable', '');
+      chip.setAttribute('tabindex', '0');
+      chip.setAttribute('role', 'button');
+      const activate = () => {
+        activeCategory = (activeCategory === cat) ? null : cat;
+        buildCategories();
+        render();
+      };
+      chip.addEventListener('click', activate);
+      chip.addEventListener('keydown', (e) => {
+        if(e.key === 'Enter' || e.key === ' ' || e.key === 'Spacebar'){
+          e.preventDefault();
+          activate();
+        }
+      });
+      els.cats.appendChild(chip);
+    });
+  }
+
+  function matches(app, q){
+    const t = (app.title || '').toLowerCase();
+    const m = (app.mirror || '').toLowerCase();
+    if(q && !t.includes(q) && !m.includes(q)) return false;
+    if(activeCategory && app.category !== activeCategory) return false;
+    return true;
+  }
+
+  function render(){
+    const q = els.search.value.trim().toLowerCase();
+
+    let filtered = allApps.filter(a => matches(a, q));
+
+    if(sortMode === 'az'){
+      filtered = filtered.slice().sort((a, b) =>
+        (a.title || '').localeCompare((b.title || ''), 'bg', { sensitivity: 'base' })
+      );
+    }
+
+    if(!allApps.length){
+      return; // loading/error state already shown
+    }
+
+    els.countLine.style.display = 'block';
+    els.countLine.innerHTML = 'Résultat: <b>' + filtered.length + '</b> sur un total de ' + allApps.length;
+
+    if(!filtered.length){
+      els.results.innerHTML = '<div class="empty">Няма резултати. Опитайте друго заглавие или ключова дума.</div>';
+      return;
+    }
+
+    els.results.innerHTML = filtered.map(app => cardHtml(app)).join('');
+  }
+
+  function cardHtml(app){
+    const title = escapeHtml(app.title || 'Sans titre');
+    const desc = escapeHtml(app.description || '');
+    const rawVer = app.ver !== undefined && app.ver !== null && String(app.ver).trim() !== '' ? String(app.ver).trim() : '';
+    const isLatest = rawVer.toLowerCase() === 'latest';
+    const verHtml = rawVer === '' ? '' : (isLatest ? '<strong>LATEST</strong>' : escapeHtml(rawVer));
+    const cat = app.category ? escapeHtml(app.category) : '';
+    const mirror = app.mirror ? escapeHtml(app.mirror) : '';
+    const url = app.url ? escapeHtml(app.url) : '';
+    const review = app.app_review ? escapeHtml(app.app_review) : '';
+
+    return `
+      <div class="card">
+        <div class="card-main">
+          <div class="card-title-row">
+            <span class="card-title">${title}</span>
+            <span class="badge ver">${verHtml}</span>
+            ${cat ? `<span class="badge cat">${cat}</span>` : ''}
+            ${mirror ? `<span class="badge mirror">URL mirroir: ${mirror}</span>` : ''}
+          </div>
+          ${desc ? `<div class="card-desc">${desc}</div>` : ''}
+        </div>
+        <div class="card-actions">
+          ${url ? `<a class="dl-btn" href="${url}" download rel="noopener" data-tv-focusable tabindex="0">⬇ Télécharger</a>` : ''}
+          ${review ? `<a class="review-link" href="${review}" download rel="noopener" data-tv-focusable tabindex="0">▶ Aperçu</a>` : ''}
+        </div>
+      </div>
+    `;
+  }
+
+  function openSourceOverlay(){
+    els.sourceOverlay.hidden = false;
+    els.sourceCustomSelect.classList.add('open');
+    els.sourceTrigger.setAttribute('aria-expanded', 'true');
+    const activeOption = els.sourceOverlay.querySelector('.cs-option.active') || els.sourceOverlay.querySelector('.cs-option');
+    focusEl(activeOption);
+  }
+
+  function closeSourceOverlay(refocusTrigger){
+    els.sourceOverlay.hidden = true;
+    els.sourceCustomSelect.classList.remove('open');
+    els.sourceTrigger.setAttribute('aria-expanded', 'false');
+    if(refocusTrigger){
+      focusEl(els.sourceTrigger);
+    }
+  }
+
+  function isSourceOverlayOpen(){
+    return !els.sourceOverlay.hidden;
+  }
+
+  function selectSource(key, optionEl){
+    els.sourceOverlay.querySelectorAll('.cs-option').forEach(opt => {
+      const isMatch = opt === optionEl;
+      opt.classList.toggle('active', isMatch);
+      opt.setAttribute('aria-selected', isMatch ? 'true' : 'false');
+    });
+    els.sourceTriggerLabel.textContent = optionEl.textContent;
+
+    if(currentSourceKey !== key){
+      currentSourceKey = key;
+      allApps = [];
+      activeCategory = null;
+      els.search.value = '';
+      els.cats.innerHTML = '';
+      els.countLine.style.display = 'none';
+      fetchData(false);
+    }
+  }
+
+  els.sourceTrigger.addEventListener('click', () => {
+    if(isSourceOverlayOpen()){
+      closeSourceOverlay(false);
+    }else{
+      openSourceOverlay();
+    }
+  });
+
+  els.sourceOverlay.querySelectorAll('.cs-option').forEach(opt => {
+    opt.addEventListener('click', () => {
+      selectSource(opt.dataset.source, opt);
+      closeSourceOverlay(true);
+    });
+    opt.addEventListener('keydown', (e) => {
+      if(e.key === 'Enter' || e.key === ' ' || e.key === 'Spacebar'){
+        e.preventDefault();
+        selectSource(opt.dataset.source, opt);
+        closeSourceOverlay(true);
+      }
+    });
+  });
+
+  // Затваряне при клик извън overlay-я (за тъч/мишка)
+  document.addEventListener('click', (e) => {
+    if(isSourceOverlayOpen() && !els.sourceCustomSelect.contains(e.target)){
+      closeSourceOverlay(false);
+    }
+  });
+
+  function updateSortBtnLabel(){
+    if(sortMode === 'az'){
+      els.sortToggleBtn.textContent = '🔤 Disposition originale';
+      els.sortToggleBtn.classList.add('active');
+    }else{
+      els.sortToggleBtn.textContent = '🔤 Liste A-Z';
+      els.sortToggleBtn.classList.remove('active');
+    }
+  }
+
+  els.sortToggleBtn.addEventListener('click', () => {
+    sortMode = (sortMode === 'default') ? 'default' : 'az';
+    updateSortBtnLabel();
+    render();
+  });
+
+  els.scrollEndBtn.addEventListener('click', () => {
+    els.listControlsBottom.scrollIntoView({ block: 'end', behavior: 'smooth' });
+    requestAnimationFrame(() => {
+      const dlBtns = els.results.querySelectorAll('.dl-btn[data-tv-focusable]');
+      const lastDlBtn = dlBtns[dlBtns.length - 1];
+      if(lastDlBtn){
+        lastDlBtn.focus();
+      }
+    });
+  });
+
+  els.scrollStartBtn.addEventListener('click', () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+    requestAnimationFrame(() => {
+      const firstDlBtn = els.results.querySelector('.dl-btn[data-tv-focusable]');
+      if(firstDlBtn){
+        firstDlBtn.focus();
+      }
+    });
+  });
+
+  els.search.addEventListener('input', render);
+  els.clear.addEventListener('click', () => {
+    els.search.value = '';
+    activeCategory = null;
+    buildCategories();
+    render();
+  });
+  els.refreshLink.addEventListener('click', (e) => {
+    e.preventDefault();
+    fetchData(false);
+  });
+
+  fetchData(false);
+  setInterval(() => fetchData(true), REFRESH_MS);
+
+  /* ===== Навигация с дистанционно управление (стрелки + ОК) ===== */
+  function getFocusables(){
+    return Array.from(document.querySelectorAll('[data-tv-focusable]'))
+      .filter(el => el.offsetParent !== null && !el.disabled);
+  }
+
+  function focusEl(el){
+    if(!el) return false;
+    el.focus();
+    el.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+    return true;
+  }
+
+  function getFirstDlBtn(){
+    return els.results.querySelector('.dl-btn[data-tv-focusable]');
+  }
+
+  function moveFocus(direction){
+    const current = document.activeElement;
+    const isCsOption = current && current.classList && current.classList.contains('cs-option');
+
+    // Докато overlay-ят на "Източник" е отворен, нагоре/надолу местят маркера
+    // само между опциите вътре в него (не излизат навън).
+    if(isCsOption && (direction === 'up' || direction === 'down')){
+      const options = Array.from(els.sourceOverlay.querySelectorAll('.cs-option'));
+      const idx = options.indexOf(current);
+      const nextIdx = direction === 'down'
+        ? (idx + 1) % options.length
+        : (idx - 1 + options.length) % options.length;
+      focusEl(options[nextIdx]);
+      return;
+    }
+
+    // Докато overlay-ят на "Източник" е отворен, ляво/дясно не местят фокуса извън него
+    if(isCsOption && (direction === 'left' || direction === 'right')){
+      return;
+    }
+
+    // Изрична последователност между контролите над/под списъка и първото приложение
+    if(direction === 'up'){
+      if(current === els.search){ if(focusEl(els.sourceTrigger)) return; }
+      if(current === els.scrollEndBtn){ if(focusEl(els.sortToggleBtn)) return; }
+      if(current === els.sortToggleBtn){ if(focusEl(els.refreshLink)) return; }
+      if(current === getFirstDlBtn()){ if(focusEl(els.scrollEndBtn)) return; }
+    }
+    if(direction === 'down'){
+      if(current === els.sourceTrigger){ if(focusEl(els.search)) return; }
+      if(current === els.fidyBtn){ if(focusEl(els.search)) return; }
+      if(current === els.refreshLink){ if(focusEl(els.sortToggleBtn)) return; }
+      if(current === els.sortToggleBtn){ if(focusEl(els.scrollEndBtn)) return; }
+      if(current === els.scrollEndBtn){ if(focusEl(getFirstDlBtn())) return; }
+    }
+    if(direction === 'right'){
+      if(current === els.search){ if(focusEl(els.clear)) return; }
+      if(current === els.sourceTrigger){ if(focusEl(els.fidyBtn)) return; }
+    }
+    if(direction === 'left'){
+      if(current === els.clear){ if(focusEl(els.search)) return; }
+      if(current === els.fidyBtn){ if(focusEl(els.sourceTrigger)) return; }
+    }
+
+    const focusables = getFocusables();
+    if(!focusables.length) return;
+
+    if(!focusables.includes(current)){
+      focusables[0].focus();
+      focusables[0].scrollIntoView({block:'center', behavior:'smooth'});
+      return;
+    }
+
+    const curRect = current.getBoundingClientRect();
+    const curCenter = { x: curRect.left + curRect.width / 2, y: curRect.top + curRect.height / 2 };
+
+    let best = null;
+    let bestScore = Infinity;
+
+    focusables.forEach(el => {
+      if(el === current) return;
+      const r = el.getBoundingClientRect();
+      const c = { x: r.left + r.width / 2, y: r.top + r.height / 2 };
+      const dx = c.x - curCenter.x;
+      const dy = c.y - curCenter.y;
+      let valid, primary, secondary;
+
+      switch(direction){
+        case 'down':  valid = dy > 6;  primary = dy;  secondary = Math.abs(dx); break;
+        case 'up':    valid = dy < -6; primary = -dy; secondary = Math.abs(dx); break;
+        case 'right': valid = dx > 6;  primary = dx;  secondary = Math.abs(dy); break;
+        case 'left':  valid = dx < -6; primary = -dx; secondary = Math.abs(dy); break;
+      }
+      if(!valid) return;
+
+      const score = primary + secondary * 2.2;
+      if(score < bestScore){
+        bestScore = score;
+        best = el;
+      }
+    });
+
+    if(best){
+      best.focus();
+      best.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+    }
+  }
+
+  document.addEventListener('keydown', (e) => {
+    const dirMap = { ArrowUp:'up', ArrowDown:'down', ArrowLeft:'left', ArrowRight:'right' };
+    const dir = dirMap[e.key];
+    if(!dir) return;
+
+    // Dans le champ de texte : « Gauche » déplace toujours le curseur dans le texte.
+    // « Droite » déplace le curseur dans le texte jusqu'à ce qu'il atteigne la fin de la saisie —
+    // à ce moment-là (ou si le champ est vide), le curseur passe sur « Effacer ».
+    if(document.activeElement === els.search){
+      if(dir === 'left'){
+        return;
+      }
+      if(dir === 'right'){
+        const input = els.search;
+        const atEnd = input.selectionStart === input.value.length && input.selectionEnd === input.value.length;
+        if(!atEnd){
+          return;
+        }
+      }
+    }
+
+    e.preventDefault();
+    moveFocus(dir);
+  });
+
+  // Un indicateur visuel fiable de la sélection — certains navigateurs Android/TV ne l'affichent pas
+  // :focus-visible lorsque la méthode .focus() est appelée par programmation ; c'est pourquoi nous gérons cette classe manuellement.
+  document.addEventListener('focusin', (e) => {
+    document.querySelectorAll('.tv-focused').forEach(el => el.classList.remove('tv-focused'));
+    if(e.target && e.target.matches && e.target.matches('[data-tv-focusable]')){
+      e.target.classList.add('tv-focused');
+    }
+  });
+
+  // Mise au point initiale sur le champ de recherche, pratique pour démarrer avec la télécommande
+  els.search.focus();
+  window.addEventListener('load', () => {
+    if(!document.activeElement || document.activeElement === document.body){
+      els.search.focus();
+    }
+  });
+})();
+</script>
+
+
+</body></html>
