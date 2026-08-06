@@ -33,14 +33,12 @@
 "title": " Tutoriel - Speedtest",
 	"description": "SpeedTest sur un serveur auto-hébergé",
 	"app_review": "https://tinyurl.com/bdh2dkty",
-	"ver": "",
 	"category": ".Tutoriels"
 },
 {
 "title": " Tutoriel - Verificateur Resolveur DNS",
 	"description": "Site Browserleaks.com pour verifier les DNS actuels du boitier/téléphone",
 	"app_review": "https://browserleaks.net/dns",
-	"ver": "",
 	"category": ".Tutoriels"
 }
 ]
