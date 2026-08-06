@@ -26,12 +26,12 @@
 	"app_review": "https://iboproapp.com/public/intro.mp4",
 	"description": "Le célèbre lecteur iBo issu des TVs Samsung/LG et porté sur iPhone",
 	"icon": "https://iboproapp.com/m3u/logo-512.png",
-	"url": "https://apps.apple.com/in/app/ibo-pro-player/id6449647925"
+	"url": "https://apps.apple.com/in/app/ibo-pro-player/id6449647925",
 	"app_review": "https://iboproapp.com/public/intro.mp4",
 	"logo": "https://iboproapp.com/m3u/logo-512.png",
-	"screenshot": "https://iboproapp.com/screenshots/main.jpg",
-	"video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
-	"site": "https://iboproapp.com"
+	"screenshot": "https://iboproapp.com/m3u/tv-screen-3.png",
+	"video": "",
+	"site": "https://iboproapp.com/manage-playlists/list/"
 },
 
 {
