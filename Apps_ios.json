@@ -2,7 +2,7 @@
 	"apps": [
 {
 "title": " * . . . . . . . . . . 😁 BIENVENUE 😁 . . . . . . . . . . *",
-  "description": "Vous trouverez ici une sélection de logiciels pour iOs",
+	"description": "Vous trouverez ici une sélection de logiciels pour iOs",
 	"app_review": "",
 	"ver": "",
 	"category": ""
@@ -17,22 +17,28 @@
 {
 "title": " ⬇️ ⬇️ Liste des applications ⬇️ ⬇️ ",
 	"description": "",
-  "app_review": "",
-  "ver": ""
+	"app_review": "",
+	"ver": ""
 },
 {
 "title": "iBo Media Player",
-  "ver": "3.70 ",
-  "app_review": "https://iboproapp.com/public/intro.mp4",
-  "description": "Le célèbre lecteur iBo issu des TVs Samsung/LG et porté sur iPhone",
-  "icon": "https://iboproapp.com/m3u/logo-512.png",
-  "url": "https://apps.apple.com/in/app/ibo-pro-player/id6449647925"
+	"ver": "3.70 ",
+	"app_review": "https://iboproapp.com/public/intro.mp4",
+	"description": "Le célèbre lecteur iBo issu des TVs Samsung/LG et porté sur iPhone",
+	"icon": "https://iboproapp.com/m3u/logo-512.png",
+	"url": "https://apps.apple.com/in/app/ibo-pro-player/id6449647925"
+	"app_review": "https://iboproapp.com/public/intro.mp4",
+	"logo": "https://iboproapp.com/m3u/logo-512.png",
+	"screenshot": "https://iboproapp.com/screenshots/main.jpg",
+	"video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+	"site": "https://iboproapp.com"
 },
+
 {
 "title": " .⬇️ ⬇️ T U T O R I E L S️ ⬇️ ⬇️ ",
-    "description": "Liste de tutoriels vidéos pour dépanner certaines situations",
-    "app_review": "",
-    "ver": "."
+	"description": "Liste de tutoriels vidéos pour dépanner certaines situations",
+	"app_review": "",
+	"ver": "."
 },
 {
 "title": " Tutoriel - Speedtest",
