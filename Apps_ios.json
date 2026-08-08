@@ -73,7 +73,7 @@
 },
 {
     "title": "MyTVOnline+",
-    "version": "1.0.6",
+    "ver": "1.0.6",
     "description": "",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/5a/78/b25a78a7-077c-5509-55ff-f48bb96974ce/Placeholder.mill/200x200bb-75.webp",
     "url": "https://apps.apple.com/fr/app/mytvonline-iptv-player/id6714452886",
@@ -82,7 +82,7 @@
 },
 {
 	"title": "NexTV",
-	"version": "3.0.9",
+	"ver": "3.0.9",
 	"description": "Notre application est connue pour sa simplicité et sa facilité d'utilisation. Découvrez les dernières tendances en matière de films et d'émissions de télévision. Intégration transparente avec TMDB, avec métadonnées riches et recommandations.",
 	"logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/5e/9d/065e9dc3-cf00-6eb5-9b7c-120ae92e8f24/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200ia-75.webp",
 	"url": "https://apps.apple.com/us/app/nextv/id1628393213",
@@ -93,7 +93,7 @@
 },
 {
 	"title": "1.1.1.1 - Cloudflare DNS",
-	"version": "6.31.5",
+	"ver": "6.31.5",
 	"description": "1.1.1.1 avec WARP rend votre Internet plus privé et plus sûr. Personne ne devrait pouvoir espionner 🔍 ce que vous faites sur Internet. Nous avons créé la version 1.1.1.1 pour que vous puissiez vous connecter à Internet en toute sécurité à tout moment et en tout lieu..",
 	"logo": "https://play-lh.googleusercontent.com/PDwXxcvulfxi2bH4UjcMGJ7i0CQ7_QNypYohkhhg02zE7FdNTNRyF21-ikrLM5kyvcmNxtr77Va-7sS3NLbpNg=s56",
 	"url": "https://apps.apple.com/fr/app/1-1-1-1-faster-internet/id1423538627",
