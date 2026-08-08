@@ -22,9 +22,11 @@
 },
 {
 "title": "Extreme InfiniTV",
-	"description": "Un lecteur IPTV multiplateforme pour les codes Xtream et les playlists M3U / M3U8. TV en direct avec EPG, films, séries, téléchargements hors ligne et navigation TV-remote (D-pad). Expédié sous Windows (Microsoft Store + installateur), téléphone / tablette / TV Android (Google Play), macOS, Linux et le Web",
+	"description": "Un lecteur IPTV multiplateforme pour les codes Xtream et les playlists M3U / M3U8. TV en direct avec EPG, films, séries, téléchargements hors ligne et navigation TV-remote (D-pad). Expédié sous Windows (Microsoft Store + installateur), téléphone / tablette / TV Android (Google Play), macOS, Linux et le Web. \n\nImportant d'ouvrir un terminal et taper : xattr -dr com.apple.quarantine ''/Applications/Extreme InfiniTV.app''Puis ouvrir l'appli normalement.",
 	"logo" :"https://raw.githubusercontent.com/infinitel8p/Extreme-InfiniTV/refs/heads/main/src-tauri/icons/128x128@2x.png",
 	"url": "https://github.com/infinitel8p/Extreme-InfiniTV/releases/download/v1.7.1/Extreme.InfiniTV_1.7.1_x64-setup.exe",
+	"screenshot": "https://raw.githubusercontent.com/infinitel8p/Extreme-InfiniTV/main/docs/screenshots/Desktop/livetv.png",
+	"site": "https://dev.infinitel8p.com/Extreme-InfiniTV/",
     "app_review": "https://raw.githubusercontent.com/infinitel8p/Extreme-InfiniTV/main/docs/screenshots/Desktop/home.png",
     "ver": "1.7.1 (06/08/2026)"
 },
@@ -67,7 +69,7 @@
     "description": "",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/dc/5d/09dc5daf-6854-d962-7d06-622961aadf6f/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/200x200ib-75.webp",
     "url": "https://apps.apple.com/in/app/iptv-my-smart-iptv-player/id1525121231?platform=mac",
-    "screenshots": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/54/19/a25419e4-50ca-f6f9-6c0f-bdfcc0d6d353/ad81fa8c-2735-4af6-88f1-8397d5c5467e_iPad.jpg/480x640bb.webp"
+    "screenshot": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/54/19/a25419e4-50ca-f6f9-6c0f-bdfcc0d6d353/ad81fa8c-2735-4af6-88f1-8397d5c5467e_iPad.jpg/480x640bb.webp"
 },
 {
 "title": "IPTV Expert",
