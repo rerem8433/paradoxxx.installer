@@ -9,7 +9,7 @@
 },
 {
 "title": " ** 06/08/2026 : Nouveautés",
-	"description": "Ajout des logiciels :\nYnoTV, ExtremeTV \n\nMise à jour de :\nAucun.",
+	"description": "Ajout des logiciels :\nLogiciels IPTV + Logiciel 1.1.1.1 de Cloudflare si blocages \n\nMise à jour de :\nAucun.",
 	"url": "",
 	"app_review": "",
 	"ver": ""
@@ -92,10 +92,27 @@
 	"site": "https://nextv.fr/index.html"
 },
 {
+	"title": "1.1.1.1 - Cloudflare DNS",
+	"version": " 6.31.5",
+	"description": "1.1.1.1 avec WARP rend votre Internet plus privé et plus sûr. Personne ne devrait pouvoir espionner 🔍 ce que vous faites sur Internet. Nous avons créé la version 1.1.1.1 pour que vous puissiez vous connecter à Internet en toute sécurité à tout moment et en tout lieu..",
+	"logo": "https://play-lh.googleusercontent.com/PDwXxcvulfxi2bH4UjcMGJ7i0CQ7_QNypYohkhhg02zE7FdNTNRyF21-ikrLM5kyvcmNxtr77Va-7sS3NLbpNg=s56",
+	"url": "https://apps.apple.com/fr/app/1-1-1-1-faster-internet/id1423538627",
+	"screenshot": "https://play-lh.googleusercontent.com/WjphYDLcdmZTReaf0uppKBPzpLwgxsndEHm_J76UzRYNeFUdbwarI_cJkzJxKkqCLxjywo-9U0Q_oKb0zETQ9Q=w2560-h1440",
+	"video": "",
+	"app_review": "https://www.youtube.com/watch?v=ti0Y4thYEhE",
+	"site": "https://one.one.one.one/fr-FR/"
+},
+{
 "title": " ⬇️ ⬇️ T U T O R I E L S️ ⬇️ ⬇️ ",
 	"description": "Liste de tutoriels vidéos pour dépanner certaines situations",
 	"app_review": "",
 	"ver": "."
+},
+{
+"title": " Changer ses DNS sur iPhone",
+	"description": "Comment installer manuellement les DNS de Cloudflare sur un iPhone pour lutter contre la censure et accéder à des sites bloqués.",
+	"site": "https://www.bitdefender.fr/consumer/support/answer/115368/",
+	"app_review": "https://youtube.com/shorts/ndGu8wojgBY?si=glv2attr7uzvHyrw"
 },
 {
 "title": " Tutoriel - Speedtest",
