@@ -1,0 +1,75 @@
+{
+	"apps": [
+{
+"title": "  * . . . . . . . . . . 😁 BIENVENUE 😁 . . . . . . . . . . *",
+	"description": "Vous trouverez ici une sélection de logiciels pour Windows",
+	"app_review": "",
+	"ver": "",
+	"category": ""
+},
+{
+"title": " ** 06/08/2026 : Nouveautés",
+	"description": "Ajout des logiciels :\nYnoTV, ExtremeTV \n\nMise à jour de :\nAucun.",
+	"url": "",
+	"app_review": "",
+	"ver": ""
+},	
+{
+"title": "⬇️ ⬇️ Liste des applications ⬇️ ⬇️ ",
+	"description": "",
+    "app_review": "",
+    "ver": "."
+},
+{
+"title": "Extreme InfiniTV",
+	"description": "Un lecteur IPTV multiplateforme pour les codes Xtream et les playlists M3U / M3U8. TV en direct avec EPG, films, séries, téléchargements hors ligne et navigation TV-remote (D-pad). Expédié sous Windows (Microsoft Store + installateur), téléphone / tablette / TV Android (Google Play), macOS, Linux et le Web",
+	"logo" :"https://raw.githubusercontent.com/infinitel8p/Extreme-InfiniTV/refs/heads/main/src-tauri/icons/128x128@2x.png",
+	"url": "https://github.com/infinitel8p/Extreme-InfiniTV/releases/download/v1.7.1/Extreme.InfiniTV_1.7.1_x64-setup.exe",
+    "app_review": "https://raw.githubusercontent.com/infinitel8p/Extreme-InfiniTV/main/docs/screenshots/Desktop/home.png",
+    "ver": "1.7.1 (06/08/2026)"
+},
+{
+    "title": "IPEXO IPTV Player",
+    "ver": "3.0.4",
+    "description": "IPEXO IPTV Player est le meilleur lecteur IPTV pour PC où vous pouvez ajouter vos propres listes de lecture avec nom d'utilisateur + mot de passe + URL/DNS pour regarder Live Tv, Movies et Series.",
+    "logo": "https://ipexoplayer.com/wp-content/uploads/2023/08/cropped-ipexo-windows-m3u-player-modified-150x150.png",
+    "url": "https://ipexoplayer.com/downloads/ipexo_player_installer_v3.0.4.exe",
+    "screenshot": "https://ipexoplayer.com/wp-content/uploads/2024/07/search-cropped.png",
+    "app_review": "https://dl.dropboxusercontent.com/scl/fi/2106e9bqihuav7ie74ci9/Windows-Ipexo-0.mp4?rlkey=6xkthe93epmyfvql4uwrbzjo0&dl=0",
+    "tutorial": "https://www.dropbox.com/scl/fi/2106e9bqihuav7ie74ci9/Windows-Ipexo-0.mp4?rlkey=6xkthe93epmyfvql4uwrbzjo0",
+	"site": "https://ipexoplayer.com/"
+},	
+{
+	"title": "IPTVnator",
+	"ver": " 0.22.0",
+	"description": "IPTVnator est une application de lecteur vidéo qui fournit la prise en charge de la lecture de la liste de lecture IPTV (m3u, m3u8). L'application permet aux utilisateurs d'importer des listes de lecture à l'aide d'URL distantes ou en téléchargeant des fichiers à partir du système de fichiers local. En outre, il prend en charge les informations EPG au format XMLTV qui peuvent être fournies via l'URL.",
+	"logo": "https://iptvnator.org/wp-content/uploads/2026/04/cropped-1200x630wa-300x300.png",
+	"url": "https://github.com/4gray/iptvnator/releases/download/v0.22.0/iptvnator-0.22.0-windows-x64-setup.exe",
+	"screenshot": "https://www.linuxadictos.com/wp-content/uploads/IPTVnator-.png",
+	"app_review": "https://www.dropbox.com/scl/fi/ai5jxtn2uf3lgfl0dgrk7/IPTVnator.mp4?rlkey=uypvwvdzo3ldfqdkmmpkumoqu",
+	"tutorial": "https://iptvnator-org.translate.goog/iptvnator-playlist-setup-guide/?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp",
+	"site": "https://iptvnator.org/"
+},
+{
+"title": "NexTV",
+	"ver": " 3.0.9",
+	"description": "Notre application est connue pour sa simplicité et sa facilité d'utilisation. Découvrez les dernières tendances en matière de films et d'émissions de télévision. Intégration transparente avec TMDB, avec métadonnées riches et recommandations.",
+	"logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/5e/9d/065e9dc3-cf00-6eb5-9b7c-120ae92e8f24/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200ia-75.webp",
+	"url": "https://api2.nextv.fr/download/windows",
+	"screenshot": "https://nextv.fr/images/screenshots/top-image.webp",
+	"app_review": "",
+	"tutorial": "",
+	"site": "https://nextv.fr/index.html"
+},
+{
+"title": "IPTV Expert",
+	"ver": "10.2.2",
+	"desc": "Commencez dans le canapé, continuez sur votre téléphone puis reprenez sur votre ordinateur. IPTV Expert synchronise vos sources, favoris, historique, progression et organisation personnelle entre vos appareils compatibles — avec un lecteur conçu pour en profiter pleinement.",
+	"logo": "https://www.iptv-expert.app/assets/images/brand/app-icon-64.webp",
+	"url": "https://apps.apple.com/fr/app/iptv-smarters-player-expert/id1641944027?l=fr-FR&platform=mac",
+	"screenshot": "https://www.iptv-expert.app/assets/images/showcase/tablet/sources.webp",
+	"app_review": "",
+	"site": "https://www.iptv-expert.app/fr#download"
+}
+]
+}
