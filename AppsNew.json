@@ -9,7 +9,7 @@
 },
 {
 "title": "** 06/08/2026 : Nouveautés",
-	"description": "Création de liens pour Smartphones OU pour AndroidTV signalés à la fin du titre du logiciel \n\nAjout des logiciels :\nByeDPI, AdGuard ATV, Disney+, AppleTV, LauncherManager, LocalSend, Spotify ATV, TCL BrowseHere,FAST Speed Test \n\n Mise à jour de :\nParadoxXx Installer ATV, Nova Video Player, Projectivy Launcher, IPTV Smarters Pro, SmartTube",
+	"description": "Création de liens pour Smartphones OU pour AndroidTV signalés à la fin du titre du logiciel \n\nAjout des logiciels :\nByeDPI, AdGuard ATV, Disney+, AppleTV, LauncherManager, LocalSend, Spotify ATV, TCL BrowseHere,FAST Speed Test \n\n Mise à jour de :\nParadoxXx Installer ATV, File Manager +, SmartTube, Nova Video Player, Projectivy Launcher, IPTV Smarters Pro, SmartTube",
 	"url": "",
 	"app_review": "",
 	"ver": "(*06/08/2026*)",
@@ -146,9 +146,9 @@
 {
 "title": "FileManager Plus",
 	"description": "FileManager Plus est un explorateur de fichiers simple et puissant pour les appareils Android. Avec une interface utilisateur ergonomique, il est extrêmement facile à utiliser.",
-	"url": "https://www.dropbox.com/scl/fi/cmceeziowzz2sceszcaeo/File-Manager-Premium-v3.8.2-Balatan.apk?rlkey=2sv7pr2rmp7yvuy6qb0u9bctk&dl=1",
+	"url": "http://dl.dropbox.com/scl/fi/ix1m5etdb03oaib2kcj8z/FileManagerPlus.apk?rlkey=kj0yvdn1iwipl9yv7fm3t0l4o&st=o34eklom&dl=1",
 	"app_review": "",
-	"ver": "3.8.2 (⭐22/06/26⭐)",
+	"ver": "3.8.3 (⭐06/08/26⭐)",
 	"category": "Utilitaires"
 },
 {
@@ -276,7 +276,7 @@
 	"description": "Un excellent remplacement pour YouTubeTV. Interface ergonomique, frequence d'images automatiques (pour les decodeurs), pas de publicite et SponsorBlock. Version stable.",
 	"url": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
 	"app_review": "https://www.youtube.com/watch?v=ZuxE14gGoRc",
-	"ver": "31.94 (⭐12/06/26⭐)",
+	"ver": "32.10 (⭐07/08/26⭐)",
 	"category": "YouTube"
 },
 {
@@ -362,9 +362,9 @@
 {
 "title": "Amazon Prime Video",
 	"description": "Amazon Prime Video est un service de streaming nécessitant un compte Amazon Prime pour l'utiliser. Qualité SD uniquement.\nUn abonnement AmazonPrime est nécessaire pour l'utilisation de cette application. \nOuverture avec le Google PlayStore en laissant appuyé sur OK.",
-	"url": "https://www.dropbox.com/scl/fi/o03unszrl3dg18gbkibkt/Amazon-Video_4.1.115.apk?rlkey=50pb3km4sb01kqj0t6pzi94n8&st=ssa5gqzv&dl=1",
+	"url": "",
 	"app_review": "https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient",
-	"ver": "4.1.115 ⭐(26/07/2026)⭐",
+	"ver": "xxx ⭐(09/08/2026)⭐",
 	"category": "Multimédia"
 },
 {
