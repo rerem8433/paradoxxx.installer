@@ -311,6 +311,13 @@
 	"ver": "2.3.2",
 	"category": "Multimédia"
 },
+"title": "Stremio - addon Torrentio ⏯️",
+	"description": "Le meilleur logiciel/lecteur pour télécharger des films/séries sur Android TV. Fonctionnement avec torrentio recommandé : installer d'abord Stremio puis revenir ici et laissé appuyer sur OK pour télécharger *torrentio*.\nAu premier écran, choisissez Se connecter puis Guest login tout en bas.",
+	"url": "",
+	"app_review": "https://torrentio.strem.fun/language=french/manifest.json",
+	"ver": "2.3.2",
+	"category": "Multimédia"
+},
 {
 "title": "ViMu Media Player️ ⏯️",
 	"description": "Le meilleur lecteur (après VLC) pour regarder des videos stockées sur votre équipement.",
