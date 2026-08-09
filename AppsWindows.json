@@ -25,8 +25,6 @@
 	"description": "Un lecteur IPTV multiplateforme pour les codes Xtream et les playlists M3U / M3U8. TV en direct avec EPG, films, séries, téléchargements hors ligne et navigation TV-remote (D-pad). Expédié sous Windows (Microsoft Store + installateur), téléphone / tablette / TV Android (Google Play), macOS, Linux et le Web",
 	"logo" :"https://raw.githubusercontent.com/infinitel8p/Extreme-InfiniTV/refs/heads/main/src-tauri/icons/128x128@2x.png",
 	"screenshot": "https://raw.githubusercontent.com/infinitel8p/Extreme-InfiniTV/main/docs/screenshots/Desktop/home.png",
-	"screenshot2": "https://www.miam-asso.fr/wp-content/uploads/2017/05/Citron-vert.jpg",
-	"screenshot3": "https://static.aujardin.info/img/adb/citrons.jpg",
 	"url": "https://github.com/infinitel8p/Extreme-InfiniTV/releases/download/v1.7.1/Extreme.InfiniTV_1.7.1_x64-setup.exe",
     "app_review": "https://raw.githubusercontent.com/infinitel8p/Extreme-InfiniTV/main/docs/screenshots/Desktop/home.png",
     "ver": "1.7.1"
@@ -51,6 +49,8 @@
     "logo": "https://iboproapp.com/m3u/logo-512.png",
     "url": "https://cdn.iboproapp.com/download/windows",
     "screenshot": "https://iboproapp.com/m3u/tv-screen-3.png",
+	"screenshot2": "https://www.miam-asso.fr/wp-content/uploads/2017/05/Citron-vert.jpg",
+	"screenshot3": "https://static.aujardin.info/img/adb/citrons.jpg",
     "site": "https://iboproapp.com/",
     "app_review": "https://iboproapp.com/public/intro.mp4"	
 },
