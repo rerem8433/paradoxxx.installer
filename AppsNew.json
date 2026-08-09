@@ -275,7 +275,6 @@
 "title": "SmartTube [ ▶︎ ] (AndroidTV)",
 	"description": "Un excellent remplacement pour YouTubeTV. Interface ergonomique, frequence d'images automatiques (pour les decodeurs), pas de publicite et SponsorBlock. Version stable.",
 	"url": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
-	"mirror": "https://go.aftvnews.com/28544",
 	"app_review": "https://www.youtube.com/watch?v=ZuxE14gGoRc",
 	"ver": "31.94 (⭐12/06/26⭐)",
 	"category": "YouTube"
@@ -292,7 +291,6 @@
 "title": "TizenTube Cobalt [ ▶︎ ] (AndroidTV)",
 	"description": "TizenTube Cobalt est une application basée sur YoutubeTV qui équipe les téléviseurs. Cette version améliore votre expérience de streaming préféré en supprimant les publicités, en ajoutant le support SponsorBlock",
 	"url": "https://github.com/reisxd/TizenTubeCobalt/releases/download/latest/cobalt-arm.apk",
-	"mirror": "https://cobalt.6513006.xyz",
 	"app_review": "",
 	"ver": "2.0.2 ⭐(17/05/2026)⭐",
 	"category": "YouTube"
@@ -301,7 +299,6 @@
 "title": "VIA Browser 🌐",
 	"description": "Navigateur Internet avec bloqueur de pubs",
 	"url": "https://d.apkpure.com/b/APK/mark.via.gp?version=latest",
-	"mirror": "https://www.dropbox.com/scl/fi/1hna805kh5opz2u4w4cug/Via-Browser-v7.2.1-Mod.apk?rlkey=jvxwoy583vntlb2ml1qmc8d62&dl=1",
 	"app_review": "",
 	"ver": "7.2.1 (⭐20/07/26⭐)",
 	"category": "Navigateurs"
