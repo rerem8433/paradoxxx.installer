@@ -85,7 +85,9 @@
 	"description": "Notre application est connue pour sa simplicité et sa facilité d'utilisation. Découvrez les dernières tendances en matière de films et d'émissions de télévision. Intégration transparente avec TMDB, avec métadonnées riches et recommandations.",
 	"logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/5e/9d/065e9dc3-cf00-6eb5-9b7c-120ae92e8f24/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200ia-75.webp",
 	"url": "https://apps.apple.com/us/app/nextv/id1628393213",
-	"screenshot": "https://nextv.fr/images/screenshot/top-image.webp",
+	"screenshot": "https://nextv.fr/images/screenshots/top-image.webp",
+	"screenshot2": "https://nextv.fr/images/screenshots/just-install.webp",
+	"screenshot3": "https://nextv.fr/images/screenshots/seamless-sync.webp",
 	"video": "",
 	"app_review": "",
 	"site": "https://nextv.fr/index.html"
