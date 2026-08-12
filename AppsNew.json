@@ -8,13 +8,21 @@
 	"category": ""
 },
 {
-"title": "** 06/08/2026 : Nouveautés",
+"title": "** 2026/08/06 : Nouveautés",
 	"description": "Création de liens pour Smartphones OU pour AndroidTV signalés à la fin du titre du logiciel \n\nAjout des logiciels :\nByeDPI, AdGuard ATV, Disney+, AppleTV, LauncherManager, LocalSend, Spotify ATV, TCL BrowseHere,FAST Speed Test \n\n Mise à jour de :\nParadoxXx Installer ATV, File Manager +, SmartTube, Nova Video Player, Projectivy Launcher, IPTV Smarters Pro, SmartTube",
 	"url": "",
 	"app_review": "",
 	"ver": "(*06/08/2026*)",
 	"category": ".Nouveautés"
-},	
+},
+{
+"title": "** 2026/08/12 : Nouveautés",
+	"description": "Ajout des logiciels :\nParadoxXx Downloader \n\n Mise à jour de :\nParadoxXx Installer ATV, Projectivy Launcher, SmartTube.",
+	"url": "",
+	"app_review": "",
+	"ver": "(*12/08/2026*)",
+	"category": ".Nouveautés"
+},
 {
 "title": "** NEW** ParadoxXx Installer ATV",
 	"description": "COMPATIBLE maintenant avec Smartphones Android \n\nNouvelle version de mon application avec correction de traduction. \nNew : Ajout fonction Recherche et widget latéral sur le nombre de téléchargements et progressions après appui sur Installer.",
@@ -258,9 +266,9 @@
 {
 "title": "Projectivy Launcher (AndroidTV)",
 	"description": "Launcher pour remplacer AndroidTV / GoogleTV qui sont bourrés de pubs et videos en arrière plan ou suggestions d'achat: simple, paramétrable et customisable à volonté.",
-	"url": "https://www.dropbox.com/scl/fi/oil9973il8fr4xxu82pcy/Projectivy-Launcher-Premium-v4.71-fidyBG.apk?rlkey=0fjkgmwrzd1f3vokplw4bzmrc&dl=1",
-	"app_review": "",
-	"ver": "4.71 (⭐20/07/26⭐)",
+	"url": "https://www.dropbox.com/scl/fi/3e8ktbmyoiewae9jf19z8/Projectivy-Launcher-ParadoxXx-4.72.apk?rlkey=urhjty7y5zk4qg3z12xvapsoo&dl=1",
+	"app_review": "https://dl.dropbox.com/scl/fi/wvn29tofb546vqkvs7xcs/Projectivy-Launcher-ParadoxXx-4.72.gif?rlkey=il1cmatbrv2r4vobjbqwcjs0t&dl=0",
+	"ver": "4.72 (⭐12/08/26⭐)",
 	"category": "Utilitaires"
 },
 {
@@ -438,6 +446,13 @@
     "app_review": "https://dl.dropboxusercontent.com/scl/fi/9e6uzjc9yi96ydguiosk1/Monet-Launcher.png?rlkey=5wn7lkifw9ud83dmazanfooha&dl=0",
     "ver": "1.0.62",
     "category": "Utilitaires"
+},
+"title": "ParadoxXx Downloader",
+    "description": "Version moddée de Downloader pour afficher mes logiciels. \nPour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
+    "url": "https://www.dropbox.com/scl/fi/qmj809cju1ggicoc3zcnd/ParadoxXx-Downloader-v.3.3.3.apk?rlkey=cxe7jyzakr0p1gcnmvug30zb8&dl=1",
+    "app_review": "https://dl.dropbox.com/scl/fi/9o2az5ci67x4lvb0w243p/ParadoxXx-Downloader.png?rlkey=0x7mfhw282h3l93gfgjyim2uu&dl=0",
+    "ver": "3.3.3",
+    "category": "Navigateurs"
 },
 {
 "title": " ⬇️ ⬇️ Liste des applications ⬇️ ⬇️ ",
