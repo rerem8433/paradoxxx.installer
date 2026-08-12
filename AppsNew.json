@@ -17,7 +17,7 @@
 },
 {
 "title": "** 2026/08/12 : Nouveautés",
-	"description": "Ajout des logiciels :\nParadoxXx Downloader \n\n Mise à jour de :\nParadoxXx Installer ATV, Projectivy Launcher, SmartTube.",
+	"description": "Ajout des logiciels :\nParadoxXx Downloader, Aurora IPTV, \n\n Mise à jour de :\nParadoxXx Installer ATV, Projectivy Launcher, SmartTube.",
 	"url": "",
 	"app_review": "",
 	"ver": "(*12/08/2026*)",
@@ -118,6 +118,14 @@
 	"app_review": "https://dl.dropboxusercontent.com/scl/fi/cia0pz1iw26esb7xqdnsx/AtlasPro-Tivi.gif?rlkey=1kyxegc5lqgwssevdjcyo8fmk&dl=0",
 	"ver": "5.1.1",
 	"category": "IPTV AtlasPro"
+},
+{
+"title": "Aurora IPTV",
+	"description": "Aurora est un lecteur multimédia pour Android. Ajoutez les connexions que vous avez le droit d'utiliser (par exemple Xtream Codes API ou M3U), puis parcourez-les et jouez-les dans une mise en page propre et organisée. \nPour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
+	"url": "https://auroraiptv.app/api/download/aurora-iptv-v0.2.25.apk",
+	"app_review": "https://dl.dropbox.com/scl/fi/3835zrdcx0re4cxnvngp1/aurora-iptv-v0.1.67.png?rlkey=ils10tqzo3r2iph67r2bq6jhk&dl=0",
+	"ver": "0.2.25",
+	"category": "IPTV Divers"
 },
 {
 "title": "Browser for ATV 🌐 (AndroidTV)",
@@ -345,7 +353,7 @@
 },	
 {
 "title": "VLC Media Player ⏯️",
-	"description": "LA référence, LE MEILEUR lecteur alternatif sous Android pour regarder des vidéos stockées sur votre équipement Android.",
+	"description": "LA référence, LE MEILLEUR lecteur alternatif sous Android pour regarder des vidéos stockées sur votre équipement Android.",
 	"url": "https://get.videolan.org/vlc-android/last/VLC-Android-3.7.1-armeabi-v7a.apk",
 	"app_review": "https://www.dropbox.com/scl/fi/lkzqlnfd9uul24hf97s7j/VLC-MediaPayer-3.7.1-armv7.apk?rlkey=83391frasyn3rnk50gg5d4q6x&dl=1",
 	"ver": "3.7.1 ⭐(14/07/2026)⭐",
@@ -362,7 +370,7 @@
 {
 "title": "Disney+",
 	"description": "Application officielle Disney pour regarder des films et des séries. Un compte est requis pour se connecter. \nNécessite obligatoirement un compte Disney+ pour fonctionner. \nOuverture avec le Google PlayStore en laissant appuyé sur OK.",
-	"url": "https://www.dropbox.com/scl/fi/evsz64v7c13vakkfdshmt/Disney-v2.22.2-rc1.apk?rlkey=vmzzybwdyu593vr2ajfmdldhi&dl=1",
+	"url": "",
 	"app_review": "https://play.google.com/store/apps/details?id=com.disney.disneyplus",
 	"ver": "2.22.2 ⭐(26/07/2026)⭐",
 	"category": "Multimédia"
@@ -370,7 +378,7 @@
 {
 "title": "Apple TV",
 	"description": "Apple TV+ est un service de streaming mettant en vedette Apple Originals - série primée, drames convaincants, documentaires révolutionnaires, divertissement pour les enfants, comédies, et plus encore, avec de nouveaux Apple Originals ajoutant chaque mois. \nUn compte obligatoire est requis pour se connecter.\nOuverture avec le Google PlayStore en laissant appuyé sur OK.",
-	"url": "https://www.dropbox.com/scl/fi/efpjtkdhc3ag3pz76ibcl/Apple-TV-v13.5.0.apk?rlkey=8f07q54tpao4050fliu79q3om&dl=1",
+	"url": "",
 	"app_review": "https://play.google.com/store/apps/details?id=com.apple.atve.androidtv.appletv",
 	"ver": "13.5.0 ⭐(26/07/2026)⭐",
 	"category": "Multimédia"
