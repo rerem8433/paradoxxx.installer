@@ -1,26 +1,38 @@
 {
 	"apps": [
 {
-"title": " * . . . . . . . . . . 😁 BIENVENUE 😁 . . . . . . . . . . *",
-  "description": "\n         Je vous souhaite la bienvenue sur ma nouvelle version de l'application *ParadoxXx Installer ATV* =) \n       Voici un mini-tutoriel pour comprendre comment installer les applications. Un premier onglet (Liste de A à Z) ainsi que des catégories (en cliquant sur les touches gauche/droite de votre télécommande) sont présents afin de faciliter votre navigation =>\n\n     Installation : Allez vous positionner sur l'application voulue puis cliquez sur OK de votre télécommande et finir par valider en allant vous déplaçer tout à gauche sur **Installer la sélection**. Une barre de téléchargement apparaitra puis la proposition d'installation. Il vous suffit de répéter l'opération pour chaque application voulue. Possibilité de choisir plusieurs applications mais non conseillé\n\n        La liste des logiciels présents dans cette nouvelle liste est régulièrement mise à jour par mes soins et il arrive fréquemment que j'en rajoute (Liste des modifications sour *Liste des Applications*). \n         Le logo rouge/blanc (qui ressemble à Youtube) présent sur certaines lignes de logiciels signifie qu'une vidéo/tutoriel/capture d'écran est associée.\n\n                                                                          😁 BONNE UTILISATION 😁\n                                                                            ParadoxXx Squad",
+"title": " * . . . . . . 😁 B I E N V E N U E 😁 . . . . . . *",
+  "description": "\n         Je vous souhaite la bienvenue sur ma nouvelle version de l'application *ParadoxXx Installer ATV* =) \n\nVoici un mini-tutoriel pour comprendre comment installer les applications. Un premier onglet (Liste de A à Z) ainsi que des catégories (en cliquant sur les touches gauche/droite de votre télécommande) sont présents afin de faciliter votre navigation =>\n\n     Installation : Allez vous positionner sur l'application voulue puis cliquez sur OK de votre télécommande et finir par valider en allant vous déplaçer tout à gauche sur **Installer la sélection**. Une barre de téléchargement apparaitra puis la proposition d'installation. Il vous suffit de répéter l'opération pour chaque application voulue. Possibilité de choisir plusieurs applications mais non conseillé\n\n        La liste des logiciels présents dans cette nouvelle liste est régulièrement mise à jour par mes soins et il arrive fréquemment que j'en rajoute (Liste des modifications sour *Liste des Applications*). \n\n         Le logo rouge/blanc (qui ressemble à Youtube) présent sur certaines lignes de logiciels signifie qu'une vidéo/tutoriel/capture d'écran est associée.\n\n                                                                          😁 BONNE UTILISATION 😁\n                                                                            ParadoxXx Squad",
 	"app_review": "",
 	"ver": "",
 	"category": ""
 },
 {
+<<<<<<< HEAD
 "title": "** 22/08/2026 : Nouveautés",
+=======
+"title": "** 2026/08/06 : Nouveautés",
+>>>>>>> ed5dfcbf9c01437419d1bac0d0022641a063947a
 	"description": "Création de liens pour Smartphones OU pour AndroidTV signalés à la fin du titre du logiciel \n\nAjout des logiciels :\nByeDPI, AdGuard ATV, Disney+, AppleTV, LauncherManager, LocalSend, Spotify ATV, TCL BrowseHere,FAST Speed Test \n\n Mise à jour de :\nParadoxXx Installer ATV, File Manager +, SmartTube, Nova Video Player, Projectivy Launcher, IPTV Smarters Pro, SmartTube",
 	"url": "",
 	"app_review": "",
 	"ver": "(*22/08/2026*)",
 	"category": ".Nouveautés"
-},	
+},
+{
+"title": "** 2026/08/12 : Nouveautés",
+	"description": "Ajout des logiciels :\nParadoxXx Downloader, Aurora IPTV, \n\n Mise à jour de :\nParadoxXx Installer ATV, Projectivy Launcher, SmartTube.",
+	"url": "",
+	"app_review": "",
+	"ver": "(*12/08/2026*)",
+	"category": ".Nouveautés"
+},
 {
 "title": "** NEW** ParadoxXx Installer ATV",
 	"description": "COMPATIBLE maintenant avec Smartphones Android \n\nNouvelle version de mon application avec correction de traduction. \nNew : Ajout fonction Recherche et widget latéral sur le nombre de téléchargements et progressions après appui sur Installer.",
-	"url": "https://www.dropbox.com/scl/fi/5sbw83y3a3ysgjgap11om/ParadoxXx-Installer-2.3-avec-applis-SANS-URL-MODIFIABLE.apk?rlkey=wmxgjphzbxonk8y2n41ug1eyg&dl=1",
+	"url": "https://www.dropbox.com/scl/fi/v8we7jtl7fb5t5zjvklpt/ParadoxXx-Installer-2.4-avec-applis-SANS-URL-MODIFIABLE.apk?rlkey=sczln6lf9tpkooqtj3538yt6s&dl=1",
 	"app_review": "",
-	"ver": "2.3.0 (⭐06/08/2026⭐)",
+	"ver": "2.4.0 (⭐12/08/2026⭐)",
 	"category": ".Nouveautés"
 },	
 {
@@ -110,6 +122,14 @@
 	"app_review": "https://dl.dropboxusercontent.com/scl/fi/cia0pz1iw26esb7xqdnsx/AtlasPro-Tivi.gif?rlkey=1kyxegc5lqgwssevdjcyo8fmk&dl=0",
 	"ver": "5.1.1",
 	"category": "IPTV AtlasPro"
+},
+{
+"title": "Aurora IPTV",
+	"description": "Aurora est un lecteur multimédia pour Android. Ajoutez les connexions que vous avez le droit d'utiliser (par exemple Xtream Codes API ou M3U), puis parcourez-les et jouez-les dans une mise en page propre et organisée. \nPour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
+	"url": "https://auroraiptv.app/api/download/aurora-iptv-v0.2.25.apk",
+	"app_review": "https://dl.dropbox.com/scl/fi/3835zrdcx0re4cxnvngp1/aurora-iptv-v0.1.67.png?rlkey=ils10tqzo3r2iph67r2bq6jhk&dl=0",
+	"ver": "0.2.25",
+	"category": "IPTV Divers"
 },
 {
 "title": "Browser for ATV 🌐 (AndroidTV)",
@@ -258,9 +278,9 @@
 {
 "title": "Projectivy Launcher (AndroidTV)",
 	"description": "Launcher pour remplacer AndroidTV / GoogleTV qui sont bourrés de pubs et videos en arrière plan ou suggestions d'achat: simple, paramétrable et customisable à volonté.",
-	"url": "https://www.dropbox.com/scl/fi/oil9973il8fr4xxu82pcy/Projectivy-Launcher-Premium-v4.71-fidyBG.apk?rlkey=0fjkgmwrzd1f3vokplw4bzmrc&dl=1",
-	"app_review": "",
-	"ver": "4.71 (⭐20/07/26⭐)",
+	"url": "https://www.dropbox.com/scl/fi/3e8ktbmyoiewae9jf19z8/Projectivy-Launcher-ParadoxXx-4.72.apk?rlkey=urhjty7y5zk4qg3z12xvapsoo&dl=1",
+	"app_review": "https://dl.dropbox.com/scl/fi/wvn29tofb546vqkvs7xcs/Projectivy-Launcher-ParadoxXx-4.72.gif?rlkey=il1cmatbrv2r4vobjbqwcjs0t&dl=0",
+	"ver": "4.72 (⭐12/08/26⭐)",
 	"category": "Utilitaires"
 },
 {
@@ -337,7 +357,7 @@
 },	
 {
 "title": "VLC Media Player ⏯️",
-	"description": "LA référence, LE MEILEUR lecteur alternatif sous Android pour regarder des vidéos stockées sur votre équipement Android.",
+	"description": "LA référence, LE MEILLEUR lecteur alternatif sous Android pour regarder des vidéos stockées sur votre équipement Android.",
 	"url": "https://get.videolan.org/vlc-android/last/VLC-Android-3.7.1-armeabi-v7a.apk",
 	"app_review": "https://www.dropbox.com/scl/fi/lkzqlnfd9uul24hf97s7j/VLC-MediaPayer-3.7.1-armv7.apk?rlkey=83391frasyn3rnk50gg5d4q6x&dl=1",
 	"ver": "3.7.1 ⭐(14/07/2026)⭐",
@@ -354,7 +374,7 @@
 {
 "title": "Disney+",
 	"description": "Application officielle Disney pour regarder des films et des séries. Un compte est requis pour se connecter. \nNécessite obligatoirement un compte Disney+ pour fonctionner. \nOuverture avec le Google PlayStore en laissant appuyé sur OK.",
-	"url": "https://www.dropbox.com/scl/fi/evsz64v7c13vakkfdshmt/Disney-v2.22.2-rc1.apk?rlkey=vmzzybwdyu593vr2ajfmdldhi&dl=1",
+	"url": "",
 	"app_review": "https://play.google.com/store/apps/details?id=com.disney.disneyplus",
 	"ver": "2.22.2 ⭐(26/07/2026)⭐",
 	"category": "Multimédia"
@@ -362,7 +382,7 @@
 {
 "title": "Apple TV",
 	"description": "Apple TV+ est un service de streaming mettant en vedette Apple Originals - série primée, drames convaincants, documentaires révolutionnaires, divertissement pour les enfants, comédies, et plus encore, avec de nouveaux Apple Originals ajoutant chaque mois. \nUn compte obligatoire est requis pour se connecter.\nOuverture avec le Google PlayStore en laissant appuyé sur OK.",
-	"url": "https://www.dropbox.com/scl/fi/efpjtkdhc3ag3pz76ibcl/Apple-TV-v13.5.0.apk?rlkey=8f07q54tpao4050fliu79q3om&dl=1",
+	"url": "",
 	"app_review": "https://play.google.com/store/apps/details?id=com.apple.atve.androidtv.appletv",
 	"ver": "13.5.0 ⭐(26/07/2026)⭐",
 	"category": "Multimédia"
@@ -440,17 +460,25 @@
     "category": "Utilitaires"
 },
 {
+"title": "ParadoxXx Downloader",
+    "description": "Version moddée de Downloader pour afficher mes logiciels. \nPour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
+    "url": "https://www.dropbox.com/scl/fi/qmj809cju1ggicoc3zcnd/ParadoxXx-Downloader-v.3.3.3.apk?rlkey=cxe7jyzakr0p1gcnmvug30zb8&dl=1",
+    "app_review": "https://dl.dropbox.com/scl/fi/9o2az5ci67x4lvb0w243p/ParadoxXx-Downloader.png?rlkey=0x7mfhw282h3l93gfgjyim2uu&dl=0",
+    "ver": "3.3.3",
+    "category": "Navigateurs"
+},
+{
 "title": " ⬇️ ⬇️ Liste des applications ⬇️ ⬇️ ",
 	"description": "",
     "app_review": "",
-    "ver": ".",
+    "ver": "",
 	"category": "Assistance"
 },
 {
-"title": " .⬇️ ⬇️ T U T O R I E L S️ ⬇️ ⬇️ ",
+"title": " *⬇️ ⬇️ T U T O R I E L S️ ⬇️ ⬇️* ",
     "description": "Liste de tutoriels vidéos pour dépanner certaines situations",
     "app_review": "",
-    "ver": ".",
+    "ver": "",
     "category": ".Tutoriels"
 },
 {
