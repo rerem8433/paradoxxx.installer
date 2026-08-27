@@ -66,10 +66,22 @@
 	"ver": "1.4",
 	"description": "Version d'essai. Abonnement à l'application (aucun contenu sans votre abonnement) :\nIPTV Premium 1 Mois = 9.99€\nIPTV Premium 12 Mois = 18€\nPaiement à vie = 35€.",
 	"logo": "https://cdn.aptoide.com/imgs/7/5/d/75d5ca2d6f5840edd542d1cd2e8872f7_icon.png",
-	"url": "https://apps.apple.com/fr/app/gse-smart-iptv-player-live-tv/id6444845680",
+	"url": "https://apps.apple.com/fr/app/vu-iptv-player/id6526480705",
 	"screenshot": "https://iptvapp.net/wp-content/uploads/2024/12/Slider-768x503-1.png",
 	"video": "",
 	"site": "https://iptvapp.net/"
+},
+{
+"title": "Tivimax Mobile",
+	"ver": "3.6.2",
+	"description": "",
+	"logo": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/be/57/e4be5717-41f6-a44a-4bf7-99a71e802654/Placeholder.mill/200x200bb-75.webp",
+	"url": "https://apps.apple.com/us/app/tivimax-iptv-player-mobile/id1614111033",
+	"screenshot": "https://www.arassocies.com/wp-content/uploads/2019/04/gratuit.jpg",
+    "screenshot2": "https://tivimax.web.app/images/project/project-image02.jpg",
+    "sceeenshot3": "https://tivimax.web.app/images/project/project-image05.jpg",
+	"video": "",
+	"site": "https://tivimax.web.app/"
 },
 {
 "title": "Zen IPTV Player",
