@@ -53,13 +53,34 @@
 {
 "title": "GSE Smart IPTV Player Live TV",
 	"ver": "1.26",
-	"description": "Version d'essai. Abonnement à l'application (aucun contenu sans votre abonnement) :\nIPTV Premium 1 Month = 5.99€\nIPTV Premium 3 Months = 8.99€\nIPTV Premium 12 Months = 18€\nPaiement à vie = 39€.",
+	"description": "Version d'essai. Abonnement à l'application (aucun contenu sans votre abonnement) :\nIPTV Premium 1 Mois = 5.99€\nIPTV Premium 3 Mois = 8.99€\nIPTV Premium 12 Mois = 18€\nPaiement à vie = 39€.",
 	"logo": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/7c/44/597c4455-7a67-6ef8-7d35-f9f8588e55c5/Placeholder.mill/200x200bb-75.webp",
 	"url": "https://apps.apple.com/fr/app/gse-smart-iptv-player-live-tv/id6444845680",
 	"screenshot": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/92/9a/58/929a5842-0f74-642d-f2f0-df5ecf967050/1fc9be2e-a71a-4c13-8549-7f1a5d992c04_1.png/230x498bb.webp",
     "screenshot2": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f4/cd/11/f4cd117b-aa61-549b-ced8-1d68a47cacfe/0bd1bd39-4dfc-493a-b3bd-05c1c1e7cae2_4.png/392x696bb.png",
 	"video": "",
-	"site": "https://9xtream4k.com/manage/login/"
+	"site": "https://gse-iptv.com/"
+},
+{
+"title": "VU IPTV Player",
+	"ver": "1.4",
+	"description": "Version d'essai. Abonnement à l'application (aucun contenu sans votre abonnement) :\nIPTV Premium 1 Mois = 9.99€\nIPTV Premium 12 Mois = 18€\nPaiement à vie = 35€.",
+	"logo": "https://cdn.aptoide.com/imgs/7/5/d/75d5ca2d6f5840edd542d1cd2e8872f7_icon.png",
+	"url": "https://apps.apple.com/fr/app/gse-smart-iptv-player-live-tv/id6444845680",
+	"screenshot": "https://iptvapp.net/wp-content/uploads/2024/12/Slider-768x503-1.png",
+	"video": "",
+	"site": "https://iptvapp.net/"
+},
+{
+"title": "Zen IPTV Player",
+	"ver": "2.0.5",
+	"description": "Version d'essai. Abonnement à l'application (aucun contenu sans votre abonnement) :\nIPTV Premium 1 Mois = 1.99€\nIPTV Premium 12 Mois = 16€\nPaiement à vie = 25€.",
+	"logo": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/c6/d3/0fc6d30a-3650-89cb-e1d0-8aee6a84a1e8/Placeholder.mill/200x200bb-75.webp",
+	"url": "https://apps.apple.com/fr/app/zen-iptv-player/id6458223193",
+	"screenshot": "https://www.numerama.com/wp-content/uploads/2025/06/Screenshot-1-986.jpg",
+    "screenshot2": "https://troypoint.com/wp-content/uploads/2026/02/Zen-IPTV-Apple-App-Store2.jpg",
+	"video": "",
+	"site": "https://zeniptv.app/"
 },
 {
 "title": "9Xtream 4K",
@@ -85,7 +106,7 @@
 	"site": "https://ipexoplayer.com/"
 },
 {
-    "title": "IPTV+: My Smart IPTV Player",
+    "title": "IPTV+ : My Smart IPTV Player",
     "ver": "2.0.2",
     "description": "Découvrez une toute nouvelle manière de profiter de votre contenu IPTV avec IPTV+ 2.0. \nLibérez le plein potentiel de votre expérience IPTV/OTT avec IPTV+ 2.0, le lecteur IPTV le plus rapide et le plus dynamique du marché. Entièrement conçu avec une nouvelle interface élégante, IPTV+ 2.0 révolutionne votre expérience de streaming, vous permettant de profiter de votre contenu IPTV sans limites, à tout moment, n'importe où.\n Version d'essai, abonnement possible pour :\n1 mois = 2.99€\n1 an = 22.99€\nA vie = 59.99€",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/dc/5d/09dc5daf-6854-d962-7d06-622961aadf6f/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/200x200ib-75.webp",
