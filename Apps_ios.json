@@ -84,6 +84,17 @@
 	"site": "https://tivimax.web.app/"
 },
 {
+"title": "OPUS Media Player",
+	"ver": "1.7.8",
+	"description": "Synchro possible sur 5 appareils (reprise de films/séries/favoris/etc) après achat.\n Version d'essai. Abonnement à l'application :\nIPTV Premium 1 Mois = 9.99€\nIPTV Premium 12 Mois = 35€\nPaiement à vie = 60€.",
+	"logo": "https://opusmediaplayer.com/images/opusiptv.webp",
+	"url": "https://apps.apple.com/fr/app/iptv-player-opus/id1592313576",
+	"screenshot": "https://opusmediaplayer.com/images/phones.webp",
+    "screenshot2": "https://is3-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/ec/22/00/ec2200e8-bf11-dfbb-4795-35d2948cab0f/8dffb177-7362-4951-b0d9-e379a6d3773f_eng_ss1.png/1920x1080bb.webp",
+	"video": "",
+	"site": "https://opusmediaplayer.com/"
+},
+{
 "title": "Zen IPTV Player",
 	"ver": "2.0.5",
 	"description": "Version d'essai. Abonnement à l'application (aucun contenu sans votre abonnement) :\nIPTV Premium 1 Mois = 1.99€\nIPTV Premium 12 Mois = 16€\nPaiement à vie = 25€.",
