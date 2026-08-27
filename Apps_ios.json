@@ -13,7 +13,14 @@
 	"url": "",
 	"app_review": "",
 	"ver": ""
-},	
+},
+{
+"title": " ** 27/08/2026 : Mise à jour",
+	"description": "Rajout des logiciels suivants:\nSmarters Player Lite, GSE Smart IPTV Player Live TV, .",
+	"url": "",
+	"app_review": "",
+	"ver": ""
+},
 {
 "title": "⬇️ ⬇️ Liste des applications ⬇️ ⬇️ ",
 	"description": "",
@@ -22,7 +29,7 @@
 },
 {
 "title": "iBo Media Player",
-	"ver": "3.70 ",
+	"ver": "2.9.1",
 	"description": "Le célèbre lecteur iBo issu des TVs Samsung/LG et porté sur iPhone",
 	"url": "https://apps.apple.com/in/app/ibo-pro-player/id6449647925",
 	"app_review": "https://iboproapp.com/public/intro.mp4",
@@ -32,8 +39,29 @@
 	"site": "https://iboproapp.com/manage-playlists/list/"
 },
 {
+"title": "Smarters Player Lite",
+	"ver": "1.4.1",
+	"description": "Le célèbre lecteur crée par la socité qui a dévéloppé le TRES célèbre *IPTV Smarters* pour Android.",
+	"url": "https://apps.apple.com/fr/app/smarters-player-lite/id1628995509",
+	"app_review": "",
+	"logo": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/07/20/eb07201a-cf5c-d616-7d1c-85f057e4e115/Placeholder.mill/200x200bb-75.webp",
+	"screenshot": "https://cdn-icon.bluestacks.com/5di9KF9wRv0319B0ZOEStccBL2epFnusdre5NZGJ3lv4E_apMqcLwSGKJQTNSzM8hNs=s0",
+	"video": "",
+	"site": ""
+},
+{
+"title": "GSE Smart IPTV Player Live TV",
+	"ver": "1.26",
+	"description": "Version d'essai. Abonnement à l'application (aucun contenu sans votre abonnement) :\nIPTV Premium 1 Month = 5.99€\nIPTV Premium 3 Months = 8.99€\nIPTV Premium 12 Months = 18€\nPaiement à vie = 39€.",
+	"logo": "https://pbs.twimg.com/profile_images/1892234921680519168/HRSR4miV_400x400.jpg",
+	"url": "https://apps.apple.com/us/app/9xtream-4k-player-iptv-live/id6745410384",
+	"screenshot": "https://9xtream4k.com/_next/static/media/website.ad931e7c.png",
+	"video": "",
+	"site": "https://9xtream4k.com/manage/login/"
+},
+{
 "title": "9Xtream 4K",
-	"ver": "1.2.5",
+	"ver": "1.14",
 	"description": "Logiciel le plus abouti esthétiquement, existe pour Windows / Android / iOs.",
 	"logo": "https://pbs.twimg.com/profile_images/1892234921680519168/HRSR4miV_400x400.jpg",
 	"url": "https://apps.apple.com/us/app/9xtream-4k-player-iptv-live/id6745410384",
@@ -43,7 +71,7 @@
 },
 {
     "title": "IPEXO IPTV Player",
-    "ver": "3.0.4",
+    "ver": "3.2.4",
     "description": "IPEXO IPTV Player est le meilleur lecteur IPTV pour PC où vous pouvez ajouter vos propres listes de lecture avec nom d'utilisateur + mot de passe + URL/DNS pour regarder Live Tv, Movies et Series.",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/d3/e7/a3d3e7f5-9a7b-9067-f935-7e05ec475236/Placeholder.mill/200x200bb-75.webp",
     "url": "https://apps.apple.com/in/app/iptv-player-ipexo/id6739544197",
@@ -63,7 +91,7 @@
 },
 {
     "title": "IPTVX",
-    "ver": "22.8",
+    "ver": "22.11.1",
     "description": "La première application qui révolutionne l'expérience utilisateur OTT/IPTV, attractive et simple à utiliser pour diffuser votre contenu numérique sur tous vos appareils.\n Nous sommes l'original, le premier-né de nombreuses imitations, qui ont poussé ce marché à évoluer dans notre direction. Choisissez l'original.\n\nOrganisez et regardez votre contenu numérique, la télévision en direct, les films et les émissions de télévision AVEC STYLE (NOUS NE FOURNISSONS PAS DE CONTENU) !\n \nIPTVX prend en charge les principaux formats et services, notamment l'API Xtream, M3U, M3U8, PLEX et SMB (pour NAS/serveurs et ordinateurs).",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/ff/20/23ff2008-339a-dfe2-0b69-11d153dd5339/Placeholder.mill/200x200bb-75.webp",
     "url": "https://apps.apple.com/us/app/iptvx/id1451470024",
@@ -72,7 +100,7 @@
 },
 {
     "title": "MyTVOnline+",
-    "ver": "1.0.6",
+    "ver": "1.0.10",
     "description": "MYTVOnline+ est le moyen le plus simple de regarder vos sources de streaming IPTV en déplacement. \nLe meilleur 💯 client de visualisation multimédia en streaming pour téléviseurs 📺 est désormais disponible sur les appareils mobiles 📱 ! Emportez vos contenus en streaming avec vous avec MYTVOnline+.",
     "logo": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/5a/78/b25a78a7-077c-5509-55ff-f48bb96974ce/Placeholder.mill/200x200bb-75.webp",
     "url": "https://apps.apple.com/fr/app/mytvonline-iptv-player/id6714452886",
@@ -83,7 +111,7 @@
 },
 {
 	"title": "NexTV",
-	"ver": "3.0.9",
+	"ver": "3.5.1",
 	"description": "Notre application est connue pour sa simplicité et sa facilité d'utilisation. Découvrez les dernières tendances en matière de films et d'émissions de télévision. Intégration transparente avec TMDB, avec métadonnées riches et recommandations.",
 	"logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/5e/9d/065e9dc3-cf00-6eb5-9b7c-120ae92e8f24/AppIcon-0-0-1x_U007epad-0-1-85-220.png/200x200ia-75.webp",
 	"url": "https://apps.apple.com/us/app/nextv/id1628393213",
@@ -109,7 +137,7 @@
 },
 {
 	"title": "1.1.1.1 - Cloudflare DNS",
-	"ver": "6.31.5",
+	"ver": "6.31.6",
 	"description": "1.1.1.1 avec WARP rend votre Internet plus privé et plus sûr. Personne ne devrait pouvoir espionner 🔍 ce que vous faites sur Internet. Nous avons créé la version 1.1.1.1 pour que vous puissiez vous connecter à Internet en toute sécurité à tout moment et en tout lieu..",
 	"logo": "https://play-lh.googleusercontent.com/PDwXxcvulfxi2bH4UjcMGJ7i0CQ7_QNypYohkhhg02zE7FdNTNRyF21-ikrLM5kyvcmNxtr77Va-7sS3NLbpNg=s56",
 	"url": "https://apps.apple.com/fr/app/1-1-1-1-faster-internet/id1423538627",
