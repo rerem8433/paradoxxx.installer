@@ -72,7 +72,7 @@
 	"category": "Utilitaires"
 },
 {
-"title": "AtlasPro 9x (Downloader 4858164)",
+"title": "AtlasPro 9x (AndroidTV)",
 	"description": "Nouvelle appli sortie le 20/01/2026.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
 	"url": "https://dl.dropboxusercontent.com/scl/fi/dt1w9cf94x4zcn50tekw6/ATLASPRO-9x-new.apk?rlkey=rj8jn1w6i0x6l6xhgpiqm1nvf&dl=0",
 	"app_review": "https://dl.dropboxusercontent.com/scl/fi/2osjl402tq102i0b8c442/ATLASPRO-9x.gif?rlkey=z5e9tasv01twin2ax399fu4nk&dl=0",
@@ -80,7 +80,7 @@
 	"category": "IPTV AtlasPro"
 },
 {
-"title": "AtlasPro iBo (Downloader 4201733)",
+"title": "AtlasPro iBo",
 	"description": "Inspirée de l'application MediaPlayer iBo des TVs Samsung/LG.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
 	"url": "https://dl.dropboxusercontent.com/scl/fi/oayvd6jsw4n0av7ti145m/ATLAS-PRO-IBO.apk?rlkey=ak90t4eu8e174mf3qvzaq435z&dl=0",
 	"app_review": "https://dl.dropboxusercontent.com/scl/fi/1mrhzezizgiy8u7l2e1k2/ATLAS-PRO-IBO.gif?rlkey=8t44rbhkrfdjm3c4oha1i2lk1&dl=0",
@@ -88,7 +88,7 @@
 	"category": "IPTV AtlasPro"
 },
 {
-"title": "AtlasPro MAX (Downloader 6881653)",
+"title": "AtlasPro MAX",
 	"description": "Inspirée de l'application XCIPTV, possède une interface sobre mais efficace.Gros logos de chaînes TV au lieu d'une liste. \nPour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
 	"url": "https://www.dropbox.com/scl/fi/hs6ayaqb46ci0b3jifmgc/ATLASPRO-MAX-7.0.2001.apk?rlkey=xdius6s4ps6wc5xt658kx80c2&dl=1",
 	"app_review": "https://dl.dropboxusercontent.com/scl/fi/5wv4nm9u55zjpokeen71r/ATLASPRO-MAX.gif?rlkey=r36fzusjx6w4nt5phcel37yh1&dl=0",
@@ -96,7 +96,7 @@
 	"category": "IPTV AtlasPro"
 },
 {
-"title": "AtlasPro ONTV (Downloader 822648)",
+"title": "AtlasPro ONTV",
 	"description": "Inspirée de la célèbre application IPTV Smarters Pro avec fonction de téléchargement de films ou episodes de series pour visionnage en hors-ligne. \nPour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
 	"url": "https://dl.dropboxusercontent.com/scl/fi/e51sfpmsh3o46hb8z9kdq/ATLASPRO-ONTV-4.0.2.apk?rlkey=bnkggnbe2s45vn4ps1l74jdbc&st=q055fymq&dl=0",
 	"app_review": "https://dl.dropboxusercontent.com/scl/fi/0ldt6ctsm987njqcfafka/ATLASPRO-ONTV.gif?rlkey=wjalnuj2iaufkjv5j64pe4xor&dl=0",
@@ -104,7 +104,7 @@
 	"category": "IPTV AtlasPro"
 },
 {
-"title": "AtlasPro Prime (Downloader 361975) (AndroidTV)",
+"title": "AtlasPro Prime (AndroidTV)",
 	"description": "Inspirée de l'application NexTV avec une interface plus proche esthetiquement d'une appli NetFlix, fonction modifications de DNS intégrées. \nPour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
 	"url": "https://dl.dropboxusercontent.com/scl/fi/ied7okqbq6vb9ihig3u22/ATLASPRO_Prime.apk?rlkey=u33vcrxcg7tceow2yg8cnmz36&dl=0",
 	"app_review": "https://dl.dropboxusercontent.com/scl/fi/lev9wmp4b3108xdtvg2yi/ATLASPRO-Prime.gif?rlkey=o3j37ka4ghp1tw5vtsqwfssm8&dl=0",
@@ -344,7 +344,7 @@
 	"category": "Multimédia"
 },
 {
-"title": "Kodi ⏯️",
+"title": "Kodi ⏯️ (AndroidTV)",
 	"description": "Le célèbre lecteur Kodi. Permet de créer des bibliothèques films/series/photos/musiques avec des medias locaux ou en réseau. Possibilité d'ajouter des addons et de customiser le thème principal.Si vous laissez appuyé sur OK ici, cela va télécharger le plugin Catchup TV and More qui permet d'ajouter la TV TNT dans Kodi.",
 	"url": "https://mirrors.kodi.tv/releases/android/arm/kodi-21.3-Omega-armeabi-v7a.apk?https=1",
 	"app_review": "https://github.com/Catch-up-TV-and-More/plugin.video.catchuptvandmore/releases/download/v0.2.41/plugin.video.catchuptvandmore-no-openvpn.zip",
@@ -360,7 +360,7 @@
 	"category": "Multimédia"
 },
 {
-"title": "AdGuard ATV",
+"title": "AdGuard ATV (AndroidTV)",
 	"description": "AdGuard - Un outil efficace pour bloquer les publicités présentes sur l'appareil, préserver la confidentialité et se protéger contre les sites et applications malveillants.",
 	"url": "https://www.dropbox.com/scl/fi/59u7prs361if3i6pt44ee/Adguard-Pro-v4.14.35.apk?rlkey=bhh0n7hml9bnxwhvd7520iwtb&dl=1",
 	"app_review": "",
@@ -448,7 +448,7 @@
 	"category": "Utilitaires"
 },
 {
-"title": "Monet Launcher",
+"title": "Monet Launcher (AndroidTV)",
     "description": "Il s'agit d'une interface élégante et moderne pour votre appareil, conçue selon le célèbre style Material You. \nL'application vous permet de transformer complètement votre écran d'accueil en ajustant automatiquement la palette de couleurs, les accents et les icônes pour qu'ils s'harmonisent avec le fond d'écran de votre choix. \nElle dispose d'une interface standard sans publicités intégrées, de widgets intelligents en temps réel et est entièrement optimisée pour les appareils Android TV et la télécommande.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
     "url": "https://www.dropbox.com/scl/fi/cgpbfqw90suqzqmjdvi10/Monet-Launcher-1.0.62.apk?rlkey=8nox3q4nrxeo2c40rtfvfx3pw&dl=1",
     "app_review": "https://dl.dropboxusercontent.com/scl/fi/9e6uzjc9yi96ydguiosk1/Monet-Launcher.png?rlkey=5wn7lkifw9ud83dmazanfooha&dl=0",
