@@ -71,10 +71,10 @@
 },	
 {
 	"title": "IPTVnator",
-	"ver": " 0.22.0",
+	"ver": " 0.23.0",
 	"description": "IPTVnator est une application de lecteur vidéo qui fournit la prise en charge de la lecture de la liste de lecture IPTV (m3u, m3u8). L'application permet aux utilisateurs d'importer des listes de lecture à l'aide d'URL distantes ou en téléchargeant des fichiers à partir du système de fichiers local. En outre, il prend en charge les informations EPG au format XMLTV qui peuvent être fournies via l'URL.",
 	"logo": "https://iptvnator.org/wp-content/uploads/2026/04/cropped-1200x630wa-300x300.png",
-	"url": "https://github.com/4gray/iptvnator/releases/download/v0.22.0/iptvnator-0.22.0-windows-x64-setup.exe",
+	"url": "https://github.com/4gray/iptvnator/releases/download/v0.23.0/iptvnator-0.23.0-windows-x64-setup.exe",
 	"screenshot": "https://4gray.github.io/iptvnator/screenshots/dashboard-with-content.webp",
 	"screenshot2": "https://4gray.github.io/iptvnator/screenshots/screenshot-player.webp",
 	"screenshot3": "https://4gray.github.io/iptvnator/screenshots/settings.webp",
