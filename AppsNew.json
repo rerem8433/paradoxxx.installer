@@ -17,7 +17,7 @@
 },
 {
 "title": "** 2026/09/15 : Nouveautés",
-	"description": "Ajout des logiciels :\n \n\n Mise à jour de :\nParadoxXx Installer ATV, Aurora IPTV, ByeByeDPI, Monet Launcher, Projectivy Launcher, RustDesk, SmartTube, Stremio.",
+	"description": "Ajout des logiciels :\n Extreme-InfiniTV \n\n Mise à jour de :\nParadoxXx Installer ATV, Aurora IPTV, ByeByeDPI, Monet Launcher, Projectivy Launcher, RustDesk, SmartTube, Stremio.",
 	"url": "",
 	"app_review": "",
 	"ver": "(⭐15/09/2026⭐)",
@@ -158,6 +158,14 @@
 	"app_review": "https://www.youtube.com/watch?v=ZuxE14gGoRc",
 	"ver": "1.4.5",
 	"category": "Navigateurs"
+},
+{
+	"title": "Extreme InfiniTV",
+	"description": "Un lecteur IPTV multiplateforme pour les codes Xtream et les playlists M3U / M3U8. TV en direct avec EPG, films, séries, téléchargements hors ligne et navigation TV-remote (D-pad). Expédié sous Windows (Microsoft Store + installateur), téléphone / tablette / TV Android (Google Play), macOS, Linux et le Web",
+	"url": "https://github.com/infinitel8p/Extreme-InfiniTV/releases/download/v1.9.0/Extreme-InfiniTV.apk",
+    "app_review": "https://raw.githubusercontent.com/infinitel8p/Extreme-InfiniTV/main/docs/screenshots/Desktop/home.png",
+    "ver": "1.9.0 (⭐02/09/26⭐)",
+	"category": "IPTV Divers"
 },
 {
 "title": "FileManager Plus",
