@@ -8,19 +8,19 @@
 	"category": ""
 },
 {
-"title": "** 2026/08/06 : Nouveautés",
-	"description": "Création de liens pour Smartphones OU pour AndroidTV signalés à la fin du titre du logiciel \n\nAjout des logiciels :\nByeDPI, AdGuard ATV, Disney+, AppleTV, LauncherManager, LocalSend, Spotify ATV, TCL BrowseHere,FAST Speed Test \n\n Mise à jour de :\nParadoxXx Installer ATV, File Manager +, SmartTube, Nova Video Player, Projectivy Launcher, IPTV Smarters Pro, SmartTube",
+"title": "** 2026/08/12 : Nouveautés",
+	"description": "Création de liens pour Smartphones OU pour AndroidTV signalés à la fin du titre du logiciel. \nLogiciel ParadoxXx Installer désormais compatible avec les smartphones avec la sortie de la version 2.4",
 	"url": "",
 	"app_review": "",
-	"ver": "(*06/08/2026*)",
+	"ver": "(⭐12/08/2026⭐)",
 	"category": ".Nouveautés"
 },
 {
-"title": "** 2026/08/22 : Nouveautés",
-	"description": "Ajout des logiciels :\nParadoxXx Downloader, Aurora IPTV, \n\n Mise à jour de :\nParadoxXx Installer ATV, Projectivy Launcher, SmartTube, Nova Video Player.",
+"title": "** 2026/09/15 : Nouveautés",
+	"description": "Ajout des logiciels :\n Extreme-InfiniTV \n\n Mise à jour de :\nParadoxXx Installer ATV, Aurora IPTV, ByeByeDPI, Monet Launcher, Projectivy Launcher, RustDesk, SmartTube, Stremio.",
 	"url": "",
 	"app_review": "",
-	"ver": "(*22/08/2026*)",
+	"ver": "(⭐15/09/2026⭐)",
 	"category": ".Nouveautés"
 },
 {
@@ -122,9 +122,9 @@
 {
 "title": "Aurora IPTV",
 	"description": "Aurora est un lecteur multimédia pour Android. Ajoutez les connexions que vous avez le droit d'utiliser (par exemple Xtream Codes API ou M3U), puis parcourez-les et jouez-les dans une mise en page propre et organisée. \nPour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
-	"url": "https://auroraiptv.app/api/download/aurora-iptv-v0.2.25.apk",
+	"url": "https://auroraiptv.app/api/download/aurora-iptv-v0.2.31.apk",
 	"app_review": "https://dl.dropbox.com/scl/fi/3835zrdcx0re4cxnvngp1/aurora-iptv-v0.1.67.png?rlkey=ils10tqzo3r2iph67r2bq6jhk&dl=0",
-	"ver": "0.2.25",
+	"ver": "0.2.31",
 	"category": "IPTV Divers"
 },
 {
@@ -136,11 +136,11 @@
 	"category": "Navigateurs"
 },
 {
-"title": "ByeDPI 📡",
+"title": "ByeByeDPI 📡",
 	"description": "Une application Android et AndroidTV qui execute un service VPN local pour contourner le DPI (Deep Packet Inspection) et la censure. \nPermet de pourvoir afficher certains sites bloqués par votre fournisseur internet.",
-	"url": "https://github.com/dovecoteescapee/ByeDPIAndroid/releases/download/v1.2.0/byedpi-1.2.0.apk",
+	"url": "https://github.com/romanvht/ByeByeDPI/releases/download/v.1.7.8/ByeByeDPI-v1.7.8-universal-release.apk",
 	"app_review": "",
-	"ver": "1.2.0 (⭐23/08/2024⭐)",
+	"ver": "1.7.8 (⭐14/08/2026⭐)",
 	"category": "VPN"
 },
 {
@@ -158,6 +158,14 @@
 	"app_review": "https://www.youtube.com/watch?v=ZuxE14gGoRc",
 	"ver": "1.4.5",
 	"category": "Navigateurs"
+},
+{
+	"title": "Extreme InfiniTV",
+	"description": "Un lecteur IPTV multiplateforme pour les codes Xtream et les playlists M3U / M3U8. TV en direct avec EPG, films, séries, téléchargements hors ligne et navigation TV-remote (D-pad). Expédié sous Windows (Microsoft Store + installateur), téléphone / tablette / TV Android (Google Play), macOS, Linux et le Web",
+	"url": "https://github.com/infinitel8p/Extreme-InfiniTV/releases/download/v1.9.0/Extreme-InfiniTV.apk",
+    "app_review": "https://raw.githubusercontent.com/infinitel8p/Extreme-InfiniTV/main/docs/screenshots/Desktop/home.png",
+    "ver": "1.9.0 (⭐02/09/26⭐)",
+	"category": "IPTV Divers"
 },
 {
 "title": "FileManager Plus",
@@ -282,9 +290,9 @@
 {
 "title": "RustDesk",
 	"description": "Logiciel RustDesk pour prise en main à distance de l'équipement depuis un autre appareil.",
-	"url": "https://github.com/rustdesk/rustdesk/releases/download/1.4.9/rustdesk-1.4.9-universal-signed.apk",
+	"url": "https://github.com/rustdesk/rustdesk/releases/download/nightly/rustdesk-1.5.0-universal-signed.apk",
 	"app_review": "",
-	"ver": "1.4.9 (⭐06/07/26⭐)",
+	"ver": "1.5.0 (⭐15/09/26⭐)",
 	"category": "Assistance"
 },
 {
@@ -292,7 +300,7 @@
 	"description": "Un excellent remplacement pour YouTubeTV. Interface ergonomique, frequence d'images automatiques (pour les decodeurs), pas de publicite et SponsorBlock. Version stable.",
 	"url": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
 	"app_review": "https://www.youtube.com/watch?v=ZuxE14gGoRc",
-	"ver": "32.10 (⭐07/08/26⭐)",
+	"ver": "32.47 (⭐14/09/26⭐)",
 	"category": "YouTube"
 },
 {
@@ -300,7 +308,7 @@
 	"description": "Logiciel pour prise en main à distance depuis un autre appareil SANS confirmation de l'utilisateur",
 	"url": "https://download.teamviewer.com/download/TeamViewerHost.apk",
 	"app_review": "",
-	"ver": "15.79",
+	"ver": "15.81.236",
 	"category": "Assistance"
 },
 {
@@ -320,7 +328,7 @@
 	"category": "Navigateurs"
 },
 {
-"title": "Stremio ⏯️",
+"title": "Stremio ⏯️ Smartphones",
 	"description": "Le meilleur logiciel/lecteur pour télécharger des films/séries sur Android TV. Fonctionnement avec torrentio recommandé : installer d'abord Stremio puis revenir ici et laissé appuyer sur OK pour télécharger *torrentio*.\nAu premier écran, choisissez Se connecter puis Guest login tout en bas.",
 	"url": "https://dl.strem.io/android/v2.3.2-android/com.stremio.one-2.3.2-5048578-armeabi-v7a.apk",
 	"app_review": "stremio://torrentio.strem.fun/providers=yts,eztv,rarbg,1337x,thepiratebay,kickasstorrents,torrentgalaxy,magnetdl,torrent9|language=french/manifest.json",
@@ -328,10 +336,18 @@
 	"category": "Multimédia"
 },
 {
+"title": "Stremio ⏯️ AndroidTV",
+	"description": "Le meilleur logiciel/lecteur pour télécharger des films/séries sur Android TV. Fonctionnement avec torrentio recommandé : installer d'abord Stremio puis revenir ici et laissé appuyer sur OK pour télécharger *torrentio*.\nAu premier écran, choisissez Se connecter puis Guest login tout en bas.",
+	"url": "https://dl.strem.io/android/v1.10.4-androidTV/com.stremio.one-1.10.4-31048580-armeabi-v7a.apk",
+	"app_review": "stremio://torrentio.strem.fun/providers=yts,eztv,rarbg,1337x,thepiratebay,kickasstorrents,torrentgalaxy,magnetdl,torrent9|language=french/manifest.json",
+	"ver": "1.10.4",
+	"category": "Multimédia"
+},
+{
 "title": "Stremio - addon Torrentio ⏯️",
 	"description": "Le meilleur logiciel/lecteur pour télécharger des films/séries sur Android TV. Fonctionnement avec torrentio recommandé : installer d'abord Stremio puis revenir ici et laissé appuyer sur OK pour télécharger *torrentio*. \nAu premier écran, choisissez Se connecter puis Guest login tout en bas.",
 	"url": "",
-	"app_review": "https://torrentio.strem.fun/language=french/manifest.json",
+	"app_review": "https://torrentio.strem.fun/providers=yts,eztv,rarbg,1337x,ext,thepiratebay,kickasstorrents,torrentgalaxy,magnetdl,horriblesubs,nyaasi,tokyotosho,anidex,nekobt,rutracker,torrent9|language=french/manifest.json",
 	"ver": "2.3.2",
 	"category": "Multimédia"
 },
@@ -436,7 +452,7 @@
 	"description": "Un navigateur web gratuit conçu spécialement pour Android TV, Google TV, Amazon Fire TV ainsi que les boîtiers et appareils Android.\n BrowseHere prend en charge une expérience de streaming vidéo optimisée pour un usage TV, un blocage puissant des publicités sur les pages web et un lecteur IPTV, et est entièrement optimisé pour la navigation à la télécommande.",
 	"url": "https://tcl-img.b-cdn.net/BrowseHere/browsehere.net/browsehere-net-app-release.apk",
 	"app_review": "",
-	"ver": "8.02",
+	"ver": "8.02.085",
 	"category": "Navigateurs"
 },
 {
@@ -450,9 +466,9 @@
 {
 "title": "Monet Launcher (AndroidTV)",
     "description": "Il s'agit d'une interface élégante et moderne pour votre appareil, conçue selon le célèbre style Material You. \nL'application vous permet de transformer complètement votre écran d'accueil en ajustant automatiquement la palette de couleurs, les accents et les icônes pour qu'ils s'harmonisent avec le fond d'écran de votre choix. \nElle dispose d'une interface standard sans publicités intégrées, de widgets intelligents en temps réel et est entièrement optimisée pour les appareils Android TV et la télécommande.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
-    "url": "https://www.dropbox.com/scl/fi/cgpbfqw90suqzqmjdvi10/Monet-Launcher-1.0.62.apk?rlkey=8nox3q4nrxeo2c40rtfvfx3pw&dl=1",
+    "url": "https://www.dropbox.com/scl/fi/cgfkq4hy6okht30tj4mlr/Monet-Launcher-1.0.84.apk?rlkey=m4ufvntsfzqh6hiybtqdwjm1o&dl=1",
     "app_review": "https://dl.dropboxusercontent.com/scl/fi/9e6uzjc9yi96ydguiosk1/Monet-Launcher.png?rlkey=5wn7lkifw9ud83dmazanfooha&dl=0",
-    "ver": "1.0.62",
+    "ver": "1.0.84 ⭐(12/09/2026)⭐",
     "category": "Utilitaires"
 },
 {
