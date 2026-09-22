@@ -21,6 +21,18 @@
     "ver": "."
 },
 {
+	"title": "AtlasPro Officielle",
+	"description": "L'application officielle développée par le fournisseur IPTV et inspirée de IPTV Smarters pour MacOS",
+	"site": "https://atlaspro.io/download/70/pc-mac/2032/atlas-pro-mac-os.dmg",
+	"logo" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQScUFYvBOXjRxKJAuFDMICqyNQbB9aWpcrIN6HIioiJbbfaO4Y9uPXmQ&s=10",
+	"screenshot": "https://dl.dropboxusercontent.com/scl/fi/k668m4y7utxqto8iid7q1/AtlasPro-Windows-1.png?rlkey=y888fwkivf9qnabapumjh6zyz&dl=0",
+	"screenshot2": "https://dl.dropboxusercontent.com/scl/fi/z33o5zq9vbkzkybugdd0z/AtlasPro-Windows-2.png?rlkey=vin4nkx9la9o8rbvq6d4dbwbw&dl=0",
+	"screenshot3": "https://dl.dropboxusercontent.com/scl/fi/6aeoju142kv0mqxsipqlp/AtlasPro-Windows-4.png?rlkey=f045c4lnftgfmmrl5z6fgigkb&dl=0",
+    "app_review": "",
+	"site": "",
+    "ver": "1.9.0"
+},
+{
 "title": "Extreme InfiniTV",
 	"description": "Un lecteur IPTV multiplateforme pour les codes Xtream et les playlists M3U / M3U8. TV en direct avec EPG, films, séries, téléchargements hors ligne et navigation TV-remote (D-pad). Expédié sous Windows (Microsoft Store + installateur), téléphone / tablette / TV Android (Google Play), macOS, Linux et le Web. \n\nImportant d'ouvrir un terminal et taper : xattr -dr com.apple.quarantine ''/Applications/Extreme InfiniTV.app''Puis ouvrir l'appli normalement.",
 	"logo" :"https://raw.githubusercontent.com/infinitel8p/Extreme-InfiniTV/refs/heads/main/src-tauri/icons/128x128@2x.png",
