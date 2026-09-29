@@ -138,9 +138,9 @@
 {
 "title": "ByeByeDPI 📱 📺",
 	"description": "Une application Android et AndroidTV qui execute un service VPN local pour contourner le DPI (Deep Packet Inspection) et la censure. \nPermet de pourvoir afficher certains sites bloqués par votre fournisseur internet.",
-	"url": "https://github.com/romanvht/ByeByeDPI/releases/download/v.1.7.8/ByeByeDPI-v1.7.8-universal-release.apk",
+	"url": "https://github.com/romanvht/ByeByeDPI/releases/download/v.1.8.0/ByeByeDPI-v.1.8.0-universal-release.apk",
 	"app_review": "",
-	"ver": "1.7.8 (⭐14/08/2026⭐)",
+	"ver": "1.8.0 (⭐29/09/2026⭐)",
 	"category": "VPN"
 },
 {
