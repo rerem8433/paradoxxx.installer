@@ -59,9 +59,9 @@
 {
     "title": "iBo Media Player",
     "ver": "2.06",
-    "description": "Le célèbre lecteur issu des TVs Samsung/LGs.",
+    "description": "Le célèbre lecteur issu des TVs Samsung/LGs, N.B : payant après 7 jours",
     "logo": "https://iboproapp.com/m3u/logo-512.png",
-    "url": "https://cdn.iboproapp.com/download/windows",
+    "url": "https://iboplayer.com/app_downloads/ibo_installer.exe",
     "screenshot": "https://iboproapp.com/m3u/tv-screen-3.png",
 	"screenshot2": "https://iboproapp.com/m3u/tv-screen-2.png",
 	"screenshot3": "https://iboproapp.com/m3u/tv-screen-1.png",
