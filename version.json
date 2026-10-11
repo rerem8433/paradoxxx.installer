@@ -1,0 +1,264 @@
+package fr.paradoxxx.atvinstaller;
+
+import android.app.Activity;
+import android.app.AlertDialog;
+import android.app.ProgressDialog;
+import android.content.DialogInterface;
+import android.os.Build;
+import android.os.Handler;
+import android.os.Looper;
+import android.widget.Toast;
+
+import org.json.JSONObject;
+
+import java.io.ByteArrayOutputStream;
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.InputStream;
+import java.net.HttpURLConnection;
+import java.net.URL;
+
+import fr.paradoxxx.atvinstaller.adbinstall.InstallApkAdbTask;
+import fr.paradoxxx.atvinstaller.adbinstall.InstallCallback;
+import fr.paradoxxx.atvinstaller.utils.ApkInstaller;
+import fr.paradoxxx.atvinstaller.utils.Prefs;
+
+/**
+ * Vérifie au démarrage si une nouvelle version est publiée dans version.json
+ * et propose de la télécharger / installer.
+ *
+ * version.json :
+ * { "versionCode": 251, "versionName": "2.5", "notes": "...", "force": false,
+ *   "apk": { "normal": "https://www.dropbox.com/scl/fi/xrutq0u20g72gyik6ew2f/ParadoxXx-Installer-2.5-avec-applis-SANS-URL-MODIFIABLE.apk?rlkey=mufin1lc15okbptawcoxzohmj&dl=1", "vide": "https://..." } }
+ */
+public final class UpdateChecker {
+
+    // URL fixe du fichier de version (tinyurl -> GitHub raw)
+    public static final String VERSION_URL = "https://tinyurl.com/ys3yp9ct";
+    // Canal de cette variante : "normal" ou "vide" (patché à la construction)
+    public static final String CHANNEL = "normal";
+
+    private static boolean checkedThisProcess = false;
+
+    private UpdateChecker() {}
+
+    public static void check(final Activity activity) {
+        if (activity == null || checkedThisProcess) return;
+        checkedThisProcess = true;
+        final Handler ui = new Handler(Looper.getMainLooper());
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                try {
+                    String body = new String(fetch(VERSION_URL), "UTF-8");
+                    JSONObject json = new JSONObject(body.trim());
+                    final int remoteCode = json.optInt("versionCode", 0);
+                    final String remoteName = json.optString("versionName", String.valueOf(remoteCode));
+                    final String notes = json.optString("notes", "");
+                    final boolean force = json.optBoolean("force", false);
+                    JSONObject apk = json.optJSONObject("apk");
+                    final String apkUrl = apk != null ? apk.optString(CHANNEL, "") : json.optString("url", "");
+
+                    int localCode = currentVersionCode(activity);
+                    if (remoteCode <= localCode || apkUrl.length() == 0) return;
+
+                    ui.post(new Runnable() {
+                        @Override
+                        public void run() {
+                            showUpdateDialog(activity, remoteName, notes, force, apkUrl);
+                        }
+                    });
+                } catch (Throwable t) {
+                    // pas de réseau / JSON invalide : on ignore silencieusement
+                }
+            }
+        }, "UpdateChecker").start();
+    }
+
+    @SuppressWarnings("deprecation")
+    private static int currentVersionCode(Activity a) {
+        try {
+            return a.getPackageManager().getPackageInfo(a.getPackageName(), 0).versionCode;
+        } catch (Throwable t) {
+            return Integer.MAX_VALUE;
+        }
+    }
+
+    private static void showUpdateDialog(final Activity activity, String versionName, String notes,
+                                         boolean force, final String apkUrl) {
+        if (activity.isFinishing()) return;
+        if (Build.VERSION.SDK_INT >= 17 && activity.isDestroyed()) return;
+
+        StringBuilder msg = new StringBuilder();
+        msg.append("La version ").append(versionName).append(" de ParadoxXx Installer est disponible.");
+        if (notes.length() > 0) msg.append("\n\n").append(notes);
+
+        AlertDialog.Builder b = new AlertDialog.Builder(activity, AlertDialog.THEME_DEVICE_DEFAULT_DARK);
+        b.setTitle("Mise à jour disponible");
+        b.setMessage(msg.toString());
+        b.setCancelable(!force);
+        b.setPositiveButton("Télécharger et Installer", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface d, int which) {
+                d.dismiss();
+                downloadAndInstall(activity, apkUrl);
+            }
+        });
+        if (!force) {
+            b.setNegativeButton("Plus tard", new DialogInterface.OnClickListener() {
+                @Override
+                public void onClick(DialogInterface d, int which) {
+                    d.dismiss();
+                }
+            });
+        }
+        AlertDialog dlg = b.create();
+        dlg.show();
+        try {
+            dlg.getButton(DialogInterface.BUTTON_POSITIVE).requestFocus();
+        } catch (Throwable ignored) {}
+    }
+
+    @SuppressWarnings("deprecation")
+    private static void downloadAndInstall(final Activity activity, final String apkUrl) {
+        final ProgressDialog pd = new ProgressDialog(activity, AlertDialog.THEME_DEVICE_DEFAULT_DARK);
+        pd.setTitle("Mise à jour");
+        pd.setMessage("Téléchargement en cours…");
+        pd.setProgressStyle(ProgressDialog.STYLE_HORIZONTAL);
+        pd.setMax(100);
+        pd.setIndeterminate(false);
+        pd.setCancelable(false);
+        pd.show();
+
+        final Handler ui = new Handler(Looper.getMainLooper());
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                File out = null;
+                String error = null;
+                try {
+                    File dir = activity.getExternalFilesDir(null);
+                    if (dir == null) dir = activity.getCacheDir();
+                    if (!dir.exists()) dir.mkdirs();
+                    out = new File(dir, "ParadoxXx_update.apk");
+                    if (out.exists()) out.delete();
+                    download(apkUrl, out, pd, ui);
+                } catch (Throwable t) {
+                    error = t.getMessage() != null ? t.getMessage() : t.toString();
+                }
+                final File apk = out;
+                final String err = error;
+                ui.post(new Runnable() {
+                    @Override
+                    public void run() {
+                        try { pd.dismiss(); } catch (Throwable ignored) {}
+                        if (err != null || apk == null || !apk.exists() || apk.length() < 1024) {
+                            Toast.makeText(activity, "Échec du téléchargement de la mise à jour"
+                                    + (err != null ? " : " + err : ""), Toast.LENGTH_LONG).show();
+                            return;
+                        }
+                        install(activity, apk);
+                    }
+                });
+            }
+        }, "UpdateDownload").start();
+    }
+
+    private static void install(Activity activity, File apk) {
+        try {
+            String method = null;
+            try { method = Prefs.INSTANCE.getMethod(); } catch (Throwable ignored) {}
+            if ("adb".equals(method) && activity instanceof InstallCallback) {
+                Toast.makeText(activity, "Installation de la mise à jour…", Toast.LENGTH_LONG).show();
+                new InstallApkAdbTask(apk.getPath(), (InstallCallback) activity).start();
+                return;
+            }
+            if (!ApkInstaller.INSTANCE.installApplication(activity, apk.getPath())) {
+                Toast.makeText(activity, "Impossible de lancer l'installation", Toast.LENGTH_LONG).show();
+            }
+        } catch (Throwable t) {
+            Toast.makeText(activity, "Erreur d'installation : " + t, Toast.LENGTH_LONG).show();
+        }
+    }
+
+    private static HttpURLConnection open(String url) throws Exception {
+        String current = url;
+        for (int i = 0; i < 8; i++) {
+            HttpURLConnection c = (HttpURLConnection) new URL(current).openConnection();
+            c.setConnectTimeout(10000);
+            c.setReadTimeout(20000);
+            c.setInstanceFollowRedirects(false);
+            c.setRequestProperty("User-Agent", "ParadoxXxInstaller");
+            c.setRequestProperty("Cache-Control", "no-cache");
+            int code = c.getResponseCode();
+            if (code >= 300 && code < 400) {
+                String loc = c.getHeaderField("Location");
+                c.disconnect();
+                if (loc == null) throw new Exception("Redirection sans destination");
+                current = new URL(new URL(current), loc).toString();
+                continue;
+            }
+            if (code != 200) {
+                c.disconnect();
+                throw new Exception("HTTP " + code);
+            }
+            return c;
+        }
+        throw new Exception("Trop de redirections");
+    }
+
+    private static byte[] fetch(String url) throws Exception {
+        HttpURLConnection c = open(url);
+        try {
+            InputStream in = c.getInputStream();
+            ByteArrayOutputStream bos = new ByteArrayOutputStream();
+            byte[] buf = new byte[8192];
+            int n;
+            while ((n = in.read(buf)) > 0) bos.write(buf, 0, n);
+            in.close();
+            return bos.toByteArray();
+        } finally {
+            c.disconnect();
+        }
+    }
+
+    @SuppressWarnings("deprecation")
+    private static void download(String url, File out, final ProgressDialog pd, Handler ui) throws Exception {
+        HttpURLConnection c = open(url);
+        FileOutputStream fos = null;
+        try {
+            final long total = c.getContentLength();
+            if (total <= 0) {
+                ui.post(new Runnable() {
+                    @Override
+                    public void run() { try { pd.setIndeterminate(true); } catch (Throwable ignored) {} }
+                });
+            }
+            InputStream in = c.getInputStream();
+            fos = new FileOutputStream(out);
+            byte[] buf = new byte[65536];
+            long done = 0;
+            int lastPct = -1;
+            int n;
+            while ((n = in.read(buf)) > 0) {
+                fos.write(buf, 0, n);
+                done += n;
+                if (total > 0) {
+                    final int pct = (int) (done * 100 / total);
+                    if (pct != lastPct) {
+                        lastPct = pct;
+                        ui.post(new Runnable() {
+                            @Override
+                            public void run() { try { pd.setProgress(pct); } catch (Throwable ignored) {} }
+                        });
+                    }
+                }
+            }
+            fos.flush();
+            in.close();
+        } finally {
+            if (fos != null) try { fos.close(); } catch (Throwable ignored) {}
+            c.disconnect();
+        }
+    }
+}
