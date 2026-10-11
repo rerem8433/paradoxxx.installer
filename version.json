@@ -29,7 +29,7 @@ import fr.paradoxxx.atvinstaller.utils.Prefs;
  *
  * version.json :
  * { "versionCode": 251, "versionName": "2.5", "notes": "...", "force": false,
- *   "apk": { "normal": "https://www.dropbox.com/scl/fi/xrutq0u20g72gyik6ew2f/ParadoxXx-Installer-2.5-avec-applis-SANS-URL-MODIFIABLE.apk?rlkey=mufin1lc15okbptawcoxzohmj&dl=1", "vide": "https://..." } }
+ *   "apk": { "normal": "https://www.dropbox.com/scl/fi/xrutq0u20g72gyik6ew2f/ParadoxXx-Installer-2.5-avec-applis-SANS-URL-MODIFIABLE.apk?rlkey=mufin1lc15okbptawcoxzohmj&dl=1", "vide": "" } }
  */
 public final class UpdateChecker {
 
