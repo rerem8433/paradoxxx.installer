@@ -1,0 +1,79 @@
+{
+	"apps": [
+{
+"title": "  * . . . . . . . . . . 😁 BIENVENUE 😁 . . . . . . . . . . *",
+	"description": "Vous trouverez ici une sélection de logiciels pour distros Linux",
+	"app_review": "",
+	"ver": "",
+	"category": ""
+},
+{
+"title": " ** 23/10/2026 : Nouveautés",
+	"description": "Ajout des logiciels :\n, - Tutoriels\n\nMise à jour de :\nAucun.",
+	"url": "",
+	"app_review": "",
+	"ver": ""
+},	
+{
+"title": "⬇️ ⬇️ Liste des applications ⬇️ ⬇️ ",
+	"description": "",
+    "app_review": "",
+    "ver": "."
+},
+{
+	"title": "AtlasPro Officielle",
+	"description": "L'application officielle développée par le fournisseur IPTV et inspirée de IPTV Smarters pour Linux",
+	"url": "https://atlaspro.io/download/70/pc-mac/2097/atlas-pro-linux.deb",
+	"logo" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQScUFYvBOXjRxKJAuFDMICqyNQbB9aWpcrIN6HIioiJbbfaO4Y9uPXmQ&s=10",
+	"screenshot": "https://dl.dropboxusercontent.com/scl/fi/k668m4y7utxqto8iid7q1/AtlasPro-Windows-1.png?rlkey=y888fwkivf9qnabapumjh6zyz&dl=0",
+	"screenshot2": "https://dl.dropboxusercontent.com/scl/fi/z33o5zq9vbkzkybugdd0z/AtlasPro-Windows-2.png?rlkey=vin4nkx9la9o8rbvq6d4dbwbw&dl=0",
+	"screenshot3": "https://dl.dropboxusercontent.com/scl/fi/6aeoju142kv0mqxsipqlp/AtlasPro-Windows-4.png?rlkey=f045c4lnftgfmmrl5z6fgigkb&dl=0",
+    "app_review": "",
+	"site": "",
+    "ver": "1.0.0"
+},
+{
+"title": "Extreme InfiniTV",
+	"description": "Un lecteur IPTV multiplateforme pour les codes Xtream et les playlists M3U / M3U8. TV en direct avec EPG, films, séries, téléchargements hors ligne et navigation TV-remote (D-pad). Expédié sous Windows (Microsoft Store + installateur), téléphone / tablette / TV Android (Google Play), macOS, Linux et le Web. \n\nImportant d'ouvrir un terminal et taper : xattr -dr com.apple.quarantine ''/Applications/Extreme InfiniTV.app''Puis ouvrir l'appli normalement.",
+	"logo" :"https://raw.githubusercontent.com/infinitel8p/Extreme-InfiniTV/refs/heads/main/src-tauri/icons/128x128@2x.png",
+	"url": "https://github.com/infinitel8p/Extreme-InfiniTV/releases/download/v1.9.0/Extreme.InfiniTV_1.9.0_amd64.deb",
+	"screenshot": "https://raw.githubusercontent.com/infinitel8p/Extreme-InfiniTV/main/docs/screenshots/Desktop/livetv.png",
+	"site": "https://dev.infinitel8p.com/Extreme-InfiniTV/",
+    "app_review": "https://raw.githubusercontent.com/infinitel8p/Extreme-InfiniTV/main/docs/screenshots/Desktop/home.png",
+    "ver": "1.9.0 (31/08/2026)"
+},
+{
+	"title": "IPTVnator",
+	"ver": " 0.24.0",
+	"description": "IPTVnator est une application de lecteur vidéo qui fournit la prise en charge de la lecture de la liste de lecture IPTV (m3u, m3u8). L'application permet aux utilisateurs d'importer des listes de lecture à l'aide d'URL distantes ou en téléchargeant des fichiers à partir du système de fichiers local. En outre, il prend en charge les informations EPG au format XMLTV qui peuvent être fournies via l'URL.",
+	"logo": "https://iptvnator.org/wp-content/uploads/2026/04/cropped-1200x630wa-300x300.png",
+	"url": "https://github.com/4gray/iptvnator/releases/download/v0.24.0/iptvnator-0.24.0-linux-amd64.deb",
+	"screenshot": "https://4gray.github.io/iptvnator/screenshots/dashboard-with-content.webp",
+	"app_review": "https://www.dropbox.com/scl/fi/ai5jxtn2uf3lgfl0dgrk7/IPTVnator.mp4?rlkey=uypvwvdzo3ldfqdkmmpkumoqu",
+	"tutorial": "https://iptvnator-org.translate.goog/iptvnator-playlist-setup-guide/?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp",
+	"site": "https://iptvnator.org/"
+},
+{
+"title": " ⬇️ ⬇️ T U T O R I E L S️ ⬇️ ⬇️ ",
+	"description": "Liste de tutoriels vidéos pour dépanner certaines situations",
+	"app_review": "",
+	"ver": "."
+},
+{
+"title": " Changer ses DNS sur Linux",
+	"description": "Comment installer manuellement les DNS de Cloudflare sur Linux pour lutter contre la censure et accéder à des sites bloqués.",
+	"site": "https://www.macbookcity.fr/tutoriels/7808/utiliser-le-dns-de-cloudflare-sur-mac",
+	"app_review": "https://www.youtube.com/watch?v=8WnSo8ccOqY"
+},
+{
+"title": " Tutoriel - Speedtest",
+	"description": "SpeedTest sur un serveur auto-hébergé",
+	"app_review": "https://tinyurl.com/bdh2dkty"
+},
+{
+"title": " Tutoriel - Verificateur Resolveur DNS",
+	"description": "Site Browserleaks.com pour verifier les DNS actuels du boitier/téléphone",
+	"app_review": "https://browserleaks.net/dns"
+}
+]
+}
