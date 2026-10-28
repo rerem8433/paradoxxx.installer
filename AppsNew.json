@@ -131,9 +131,9 @@
 {
 "title": "Browser for ATV 📺",
 	"description": "Navigateur désigné pour les TVs/Sticks/Boitiers sous Android et qui possède un bloqueur de pubs intégré",
-	"url": "https://www.tvbox.one/box-files/Browser-for-TV-2.18.02.apk",
+	"url": "https://www.tvbox.one/box-files/Browser-for-TV-2.18.03.apk",
 	"app_review": "",
-	"ver": "2.18.02 (⭐20/09/2026⭐)",
+	"ver": "2.18.03 (⭐20/10/2026⭐)",
 	"category": "Navigateurs"
 },
 {
@@ -171,9 +171,9 @@
 {
 "title": "FileManager Plus 📱 📺",
 	"description": "FileManager Plus est un explorateur de fichiers simple et puissant pour les appareils Android. Avec une interface utilisateur ergonomique, il est extrêmement facile à utiliser.",
-	"url": "http://dl.dropbox.com/scl/fi/ix1m5etdb03oaib2kcj8z/FileManagerPlus.apk?rlkey=kj0yvdn1iwipl9yv7fm3t0l4o&st=o34eklom&dl=1",
+	"url": "https://www.tvbox.one/tv-content/FileManager-Plus-3.8.4.apk",
 	"app_review": "",
-	"ver": "3.8.3 (⭐06/08/26⭐)",
+	"ver": "3.8.4 (⭐15/10/26⭐)",
 	"category": "Utilitaires"
 },
 {
@@ -195,9 +195,9 @@
 {
 "title": "Nova Video Player",
 	"description": "Lecteur video entièrement gratuit et tres puissant pour décodeurs. Prend en charge le transfert audio direct (passthrow), la lecture DoVi (y compris Profle 7) et l'utilisation des ressources du reseau local. Il existe un systeme complet de parametres et la possibilite de creer un catalogue pratique à partir de votre collection de films et de series televisees.",
-	"url": "https://www.dropbox.com/scl/fi/a9u6ic12t4ikx1d7xula4/Nova-Player-6.5.3.apk?rlkey=5sgaya4qbn7uoq1nbaskf5x09&dl=1",
+	"url": "https://www.tvbox.one/atv-release/Nova-VideoPlayer-6.6.2-armv7.apk",
 	"app_review": "",
-	"ver": "6.5.3 (⭐01/10/26⭐)",
+	"ver": "6.6.2 (⭐28/10/26⭐)",
 	"category": "Multimédia"
 },
 {
@@ -307,7 +307,7 @@
 {
 "title": "Via Browser 📱 📺",
 	"description": "Navigateur Internet avec bloqueur de pubs",
-	"url": "https://d.apkpure.com/b/APK/mark.via.gp?version=latest",
+	"url": "Https://d.apkpure.com/b/APK/mark.via.gp?version=latest",
 	"app_review": "",
 	"ver": "7.3.3 (⭐27/08/26⭐)",
 	"category": "Navigateurs"
@@ -451,9 +451,9 @@
 {
 "title": "Monet Launcher 📱 📺",
     "description": "Il s'agit d'une interface élégante et moderne pour votre appareil, conçue selon le célèbre style Material You. \nL'application vous permet de transformer complètement votre écran d'accueil en ajustant automatiquement la palette de couleurs, les accents et les icônes pour qu'ils s'harmonisent avec le fond d'écran de votre choix. \nElle dispose d'une interface standard sans publicités intégrées, de widgets intelligents en temps réel et est entièrement optimisée pour les appareils Android TV et la télécommande.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
-    "url": "https://www.dropbox.com/scl/fi/cgfkq4hy6okht30tj4mlr/Monet-Launcher-1.0.84.apk?rlkey=m4ufvntsfzqh6hiybtqdwjm1o&dl=1",
+    "url": "https://www.tvbox.one/atv-release/Monet-Launcher-1.1.0.apk",
     "app_review": "https://dl.dropboxusercontent.com/scl/fi/9e6uzjc9yi96ydguiosk1/Monet-Launcher.png?rlkey=5wn7lkifw9ud83dmazanfooha&dl=0",
-    "ver": "1.0.84 ⭐(12/09/2026)⭐",
+    "ver": "1.1.0 ⭐(20/10/2026)⭐",
     "category": "Utilitaires"
 },
 {
