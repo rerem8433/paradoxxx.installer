@@ -2,21 +2,14 @@
 	"apps": [
 {
 "title": "  * . . . . . . . . . . 😁 BIENVENUE 😁 . . . . . . . . . . *",
-	"description": "Vous trouverez ici une sélection de logiciels pour iOs",
+	"description": "Vous trouverez ici une sélection de logiciels pour iOs (iPhone/iPad)",
 	"app_review": "",
 	"ver": "",
 	"category": ""
 },
 {
-"title": " ** 06/08/2026 : Nouveautés",
-	"description": "Ajout des logiciels :\nLogiciels IPTV + Logiciel 1.1.1.1 de Cloudflare si blocages + tutoriels \n\nMise à jour de :\nAucun.",
-	"url": "",
-	"app_review": "",
-	"ver": ""
-},
-{
-"title": " ** 27/08/2026 : Mise à jour",
-	"description": "Rajout des logiciels suivants:\nSmarters Player Lite, GSE Smart IPTV Player Live TV, .",
+"title": " ** 27/10/2026 : Nouveautés",
+	"description": "Ajout des logiciels :\nLogiciels IPTV + Logiciel 1.1.1.1 de Cloudflare si blocages + tutoriels \n\nMise à jour de :\nSmarters Player Lite, GSE Smart IPTV Player Live TV.",
 	"url": "",
 	"app_review": "",
 	"ver": ""
@@ -71,11 +64,11 @@
 	"site": "https://iptvapp.net/"
 },
 {
-"title": "Tivimax Mobile",
-	"ver": "3.6.2",
-	"description": "Version payante 20$",
+"title": "Tivimax Lite",
+	"ver": "3.6.1",
+	"description": "Version lite",
 	"logo": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/be/57/e4be5717-41f6-a44a-4bf7-99a71e802654/Placeholder.mill/200x200bb-75.webp",
-	"url": "https://apps.apple.com/us/app/tivimax-iptv-player-mobile/id1614111033",
+	"url": "https://apps.apple.com/us/app/tivimax-iptv-player-lite/id1614152894",
     "screenshot": "https://tivimax.web.app/images/tv.png",
     "sceeenshot2": "https://tivimax.web.app/images/ipad.png",
 	"video": "",
