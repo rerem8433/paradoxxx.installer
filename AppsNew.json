@@ -25,14 +25,6 @@
 	"category": ".Nouveautés"
 },	
 {
-"title": "9Xtream 📱 📺",
-	"description": "Nouvelle application IPTV permettant le téléchargement de films/séries et possibilité de les récuperer ensuite sur une clé USB/HDD",
-	"url": "https://www.dropbox.com/scl/fi/kmt243jeujxso51xiptf9/9Xtream_46.0.0.apk?rlkey=dbozh7gkjrz19uuc2rpfgja8e&dl=1",
-	"app_review": "https://www.dropbox.com/scl/fi/v7ahp2fkqxypqu5n1k3d8/9xtream.mp4?rlkey=u63j3ququ2e78bu69vz0h96yc&dl=0",
-	"ver": "46.0.0",
-	"category": "IPTV Divers"
-},
-{
 "title": "AnyDesk 📱 📺",
 	"description": "Logiciel de prise en main à distance pour dépannage depuis un autre appareil. A utiliser si Android 11 TV sur le boitier",
 	"url": "http://download.anydesk.com/anydesk.apk",
@@ -113,22 +105,6 @@
 	"category": "IPTV AtlasPro"
 },
 {
-"title": "AtlasPro Tivi (** NON-OFFICIELLE **) 📺",
-	"description": "Version customisée aux couleurs d'AtlasPro du célèbre logiciel TiviMate avec une interface intelligente et simplifiée mais bourrée de fonctionnalités. \n\nN.B ====> Pour configurer votre abonnement, demandez le lien de votre sauvegarde Tivimate au vendeur.\n Une fois le logiciel lancé, allez sur *Parametres* puis sur *Général* pour enfin aller cliquer en bas sur *Restaurer les données*. Choisir enfin *Entrer l'URL* et saisir l'URL que vous aura communiqué le vendeur.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
-	"url": "https://www.dropbox.com/scl/fi/bdr2ejbjmd6l554k74tve/AtlasPro-Tivi-5.1.0.apk?rlkey=nkcfn1iesviwbn19a4dtyie8o&dl=1",
-	"app_review": "https://dl.dropboxusercontent.com/scl/fi/cia0pz1iw26esb7xqdnsx/AtlasPro-Tivi.gif?rlkey=1kyxegc5lqgwssevdjcyo8fmk&dl=0",
-	"ver": "5.1.1",
-	"category": "IPTV AtlasPro"
-},
-{
-"title": "Aurora IPTV 📱 📺",
-	"description": "Aurora est un lecteur multimédia pour Android. Ajoutez les connexions que vous avez le droit d'utiliser (par exemple Xtream Codes API ou M3U), puis parcourez-les et jouez-les dans une mise en page propre et organisée. \nPour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
-	"url": "https://www.dropbox.com/scl/fi/zhe0fgrce1u10duft42en/Aurora-0.2.34-fix.apk?rlkey=zkria0rd6ig0cawll9eu2nwmh&dl=1",
-	"app_review": "https://dl.dropbox.com/scl/fi/3835zrdcx0re4cxnvngp1/aurora-iptv-v0.1.67.png?rlkey=ils10tqzo3r2iph67r2bq6jhk&dl=0",
-	"ver": "0.2.34",
-	"category": "IPTV Divers"
-},
-{
 "title": "Browser for ATV 📺",
 	"description": "Navigateur désigné pour les TVs/Sticks/Boitiers sous Android et qui possède un bloqueur de pubs intégré",
 	"url": "https://www.tvbox.one/box-files/Browser-for-TV-2.18.03.apk",
@@ -161,14 +137,6 @@
 	"category": "Navigateurs"
 },
 {
-	"title": "Extreme InfiniTV 📱 📺",
-	"description": "Un lecteur IPTV multiplateforme pour les codes Xtream et les playlists M3U / M3U8. TV en direct avec EPG, films, séries, téléchargements hors ligne et navigation TV-remote (D-pad). Expédié sous Windows (Microsoft Store + installateur), téléphone / tablette / TV Android (Google Play), macOS, Linux et le Web",
-	"url": "https://github.com/infinitel8p/Extreme-InfiniTV/releases/download/v1.9.0/Extreme-InfiniTV.apk",
-    "app_review": "https://raw.githubusercontent.com/infinitel8p/Extreme-InfiniTV/main/docs/screenshots/Desktop/home.png",
-    "ver": "1.9.0 (⭐02/09/26⭐)",
-	"category": "IPTV Divers"
-},
-{
 "title": "FileManager Plus 📱 📺",
 	"description": "FileManager Plus est un explorateur de fichiers simple et puissant pour les appareils Android. Avec une interface utilisateur ergonomique, il est extrêmement facile à utiliser.",
 	"url": "https://www.tvbox.one/tv-content/FileManager-Plus-3.8.4.apk",
@@ -195,9 +163,9 @@
 {
 "title": "Nova Video Player",
 	"description": "Lecteur video entièrement gratuit et tres puissant pour décodeurs. Prend en charge le transfert audio direct (passthrow), la lecture DoVi (y compris Profle 7) et l'utilisation des ressources du reseau local. Il existe un systeme complet de parametres et la possibilite de creer un catalogue pratique à partir de votre collection de films et de series televisees.",
-	"url": "https://www.tvbox.one/atv-release/Nova-VideoPlayer-6.6.2-armv7.apk",
+	"url": "https://www.tvbox.one/atv-release/Nova-VideoPlayer-6.6.4-armv7.apk",
 	"app_review": "",
-	"ver": "6.6.2 (⭐28/10/26⭐)",
+	"ver": "6.6.4 (⭐06/11/26⭐)",
 	"category": "Multimédia"
 },
 {
@@ -249,22 +217,6 @@
 	"category": "IPTV DigitalTV"
 },
 {
-"title": "NexTV 3 📺",
-	"description": "Lecteur IPTV soigné esthétiquement avec proposition de contenu similaire, accès aux fiches d'acteurs et autre.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
-	"url": "https://www.dropbox.com/scl/fi/bm59245l0yspsr41b0t13/NexTv_IPTV_player_v3_2_7_rev2_google_tv_mod-unlocked.apk?rlkey=q7p1jhndnbce6497q188areei&dl=1",
-	"app_review": "https://dl.dropboxusercontent.com/scl/fi/238yuc23cxz0k2j7djlwh/NexTv_IPTV_player_v3_2_7_rev2_google_tv_mod-unlocked.png?rlkey=8asezic92ruttly94igyh3bud&dl=0",
-	"ver": "3.2.7 (⭐16/06/26⭐)",
-	"category": "IPTV Divers"
-},
-{
-"title": "IPTV Smarters Pro 📱 📺",
-	"description": "LE célèbre lecteur universel.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
-	"url": "https://www.dropbox.com/scl/fi/rz5lcqob7f3o1obqk8ajm/IPTV-Smarters-Pro-v5.0-Premium.apk?rlkey=mrt03uhdu8glh96lpze9qz87j&dl=1",
-	"app_review": "",
-	"ver": "5.0 (⭐16/06/26⭐)",
-	"category": "IPTV Divers"
-},
-{
 "title": "Projectivy Launcher 📺",
 	"description": "Launcher pour remplacer AndroidTV / GoogleTV qui sont bourrés de pubs et videos en arrière plan ou suggestions d'achat: simple, paramétrable et customisable à volonté.",
 	"url": "https://www.dropbox.com/scl/fi/3e8ktbmyoiewae9jf19z8/Projectivy-Launcher-ParadoxXx-4.72.apk?rlkey=urhjty7y5zk4qg3z12xvapsoo&dl=1",
@@ -273,28 +225,12 @@
 	"category": "Utilitaires"
 },
 {
-"title": "RustDesk 📱 📺",
-	"description": "Logiciel RustDesk pour prise en main à distance de l'équipement depuis un autre appareil.",
-	"url": "https://github.com/rustdesk/rustdesk/releases/download/nightly/rustdesk-1.5.0-universal-signed.apk",
-	"app_review": "",
-	"ver": "1.5.0 (⭐15/09/26⭐)",
-	"category": "Assistance"
-},
-{
 "title": "SmartTube [ ▶︎ ] 📺",
 	"description": "Un excellent remplacement pour YouTubeTV. Interface ergonomique, frequence d'images automatiques (pour les decodeurs), pas de publicite et SponsorBlock. Version stable.",
 	"url": "https://github.com/yuliskov/SmartTube/releases/download/latest/smarttube_stable.apk",
 	"app_review": "https://www.youtube.com/watch?v=ZuxE14gGoRc",
-	"ver": "32.56 (⭐24/09/26⭐)",
+	"ver": "32.71 (⭐06/11/26⭐)",
 	"category": "YouTube"
-},
-{
-"title": "TeamViewer Host 📱 📺",
-	"description": "Logiciel pour prise en main à distance depuis un autre appareil SANS confirmation de l'utilisateur",
-	"url": "https://download.teamviewer.com/download/TeamViewerHost.apk",
-	"app_review": "",
-	"ver": "15.81.236",
-	"category": "Assistance"
 },
 {
 "title": "TizenTube Cobalt [ ▶︎ ] 📺",
@@ -329,14 +265,6 @@
 	"category": "Multimédia"
 },
 {
-"title": "Stremio - addon Torrentio ⏯️",
-	"description": "Le meilleur logiciel/lecteur pour télécharger des films/séries sur Android TV. Fonctionnement avec torrentio recommandé : installer d'abord Stremio puis revenir ici et laissé appuyer sur OK pour télécharger *torrentio*. \nAu premier écran, choisissez Se connecter puis Guest login tout en bas.",
-	"url": "",
-	"app_review": "https://torrentio.strem.fun/providers=yts,eztv,rarbg,1337x,ext,thepiratebay,kickasstorrents,torrentgalaxy,magnetdl,horriblesubs,nyaasi,tokyotosho,anidex,nekobt,rutracker,torrent9|language=french/manifest.json",
-	"ver": "2.3.2",
-	"category": "Multimédia"
-},
-{
 "title": "ViMu Media Player️ 📺",
 	"description": "Le meilleur lecteur (après VLC) pour regarder des videos stockées sur votre équipement.",
 	"url": "https://www.dropbox.com/scl/fi/u5an3iasmxsv0owzo3bke/Vimu-videoplayer-12.50-arm7.apk?rlkey=e5t8vimua3qwxl8vkbb6cg45s&dl=1",
@@ -363,34 +291,10 @@
 {
 "title": "AdGuard ATV 📺",
 	"description": "AdGuard - Un outil efficace pour bloquer les publicités présentes sur l'appareil, préserver la confidentialité et se protéger contre les sites et applications malveillants.",
-	"url": "https://www.dropbox.com/scl/fi/tgp9fp2e55r4nk07x0gb7/AdGuard-4.14.2-67dr324273.apk?rlkey=fq74ewnu5fs70ra66ta18zxdj&dl=1",
+	"url": "https://www.dropbox.com/scl/fi/dxnetwzmq3bl2bmuf1k1g/AdGuard-4.15.2-mod.apk?rlkey=hl9bqzr4njmm7ruyxeyo63hit&dl=1",
 	"app_review": "",
-	"ver": "4.14.2 ⭐(26/07/2026)⭐",
+	"ver": "4.15.2 ⭐(04/11/2026)⭐",
 	"category": "VPN"
-},
-{
-"title": "Disney+",
-	"description": "Application officielle Disney pour regarder des films et des séries. Un compte est requis pour se connecter. \nNécessite obligatoirement un compte Disney+ pour fonctionner. \nOuverture avec le Google PlayStore en laissant appuyé sur OK.",
-	"url": "",
-	"app_review": "https://play.google.com/store/apps/details?id=com.disney.disneyplus",
-	"ver": "2.22.2 ⭐(26/07/2026)⭐",
-	"category": "Multimédia"
-},
-{
-"title": "Apple TV",
-	"description": "Apple TV+ est un service de streaming mettant en vedette Apple Originals - série primée, drames convaincants, documentaires révolutionnaires, divertissement pour les enfants, comédies, et plus encore, avec de nouveaux Apple Originals ajoutant chaque mois. \nUn compte obligatoire est requis pour se connecter.\nOuverture avec le Google PlayStore en laissant appuyé sur OK.",
-	"url": "",
-	"app_review": "https://play.google.com/store/apps/details?id=com.apple.atve.androidtv.appletv",
-	"ver": "13.5.0 ⭐(26/07/2026)⭐",
-	"category": "Multimédia"
-},
-{
-"title": "Amazon Prime Video",
-	"description": "Amazon Prime Video est un service de streaming nécessitant un compte Amazon Prime pour l'utiliser. Qualité SD uniquement.\nUn abonnement AmazonPrime est nécessaire pour l'utilisation de cette application. \nOuverture avec le Google PlayStore en laissant appuyé sur OK.",
-	"url": "",
-	"app_review": "https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient",
-	"ver": "xxx ⭐(09/08/2026)⭐",
-	"category": "Multimédia"
 },
 {
 "title": "Launcher Manager by TDUK 📺",
@@ -457,12 +361,12 @@
     "category": "Utilitaires"
 },
 {
-"title": "ParadoxXx Downloader 📱 📺",
-    "description": "Version moddée de Downloader pour afficher mes logiciels. \nPour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
-    "url": "https://www.dropbox.com/scl/fi/qmj809cju1ggicoc3zcnd/ParadoxXx-Downloader-v.3.3.3.apk?rlkey=cxe7jyzakr0p1gcnmvug30zb8&dl=1",
-    "app_review": "https://dl.dropbox.com/scl/fi/9o2az5ci67x4lvb0w243p/ParadoxXx-Downloader.png?rlkey=0x7mfhw282h3l93gfgjyim2uu&dl=0",
-    "ver": "3.3.3",
-    "category": "Navigateurs"
+"title": "** ParadoxXx 4K Tester",
+	"description": "Application permettant de faire des tests vidéos afin de savoir si l'équipement est capable de décoder la 4K et 8K",
+	"url": "https://github.com/rerem8433/ParadoxXx-4K-Tester/releases/download/v1.6/ParadoxXx-4K-Tester.apk",
+	"app_review": "",
+	"ver": "1.6 (2026/11/05)",
+	"category": "Utilitaires"
 },
 {
 "title": " ⬇️ ⬇️ Liste des applications ⬇️ ⬇️ ",
