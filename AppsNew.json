@@ -8,8 +8,8 @@
 	"category": ""
 },
 {
-"title": "** 2026/10/23 : Nouveautés",
-	"description": "Magasin d'applications proposées selon le choix du développeur, liens constamment mis à jour pour publier les nouvelles versions avec dates \nLe logiciel est désormais COMPATIBLE avec les smartphones et tablettes dès la version 2.4",
+"title": "** 18/11/2026 : Nouveautés",
+	"description": "Magasin d'applications proposées selon le choix du développeur, liens constamment mis à jour pour publier les nouvelles versions avec dates \nLe logiciel est désormais COMPATIBLE avec les smartphones et tablettes dès la version 2.4\n\nMise à jour des applis:\n Downloader, SmartTube, Monet Launcher",
 	"url": "",
 	"app_review": "",
 	"ver": "(⭐11/10/2026⭐)",
@@ -29,7 +29,7 @@
 	"description": "Logiciel de prise en main à distance pour dépannage depuis un autre appareil. A utiliser si Android 11 TV sur le boitier",
 	"url": "http://download.anydesk.com/anydesk.apk",
 	"app_review": "https://dl.dropboxusercontent.com/scl/fi/pfcjq5vcz6pzcdob6jouz/Anydesk.mp4?rlkey=t9nuklzq9896s471xiwpqmkn5",
-	"ver": "9.0.2 (⭐22/09/2026⭐)",
+	"ver": "9.1.0 (⭐15/11/2026⭐)",
 	"category": "Assistance"
 },
 {
@@ -37,7 +37,7 @@
 	"description": "A installer en complément du logiciel principal AnyDesk pour les boitiers/TV sous AndroidTV / GoogleTV.",
 	"url": "https://download.anydesk.com/android/plugins/adcontrol-ad1.apk",
 	"app_review": "",
-	"ver": ".",
+	"ver": "1.7.4 (15/11/2026)",
 	"category": "Assistance"
 },	
 {
@@ -45,7 +45,7 @@
 	"description": "A installer en complément du logiciel principal AnyDesk pour les boitiers/TV sous AndroidTV / GoogleTV.",
 	"url": "https://download.anydesk.com/android/plugins/adcontrol-aosp2.apk",
 	"app_review": "",
-	"ver": ".",
+	"ver": "1.5.2",
 	"category": "Assistance"
 },	
 {
@@ -82,9 +82,9 @@
 },
 {
 "title": "AtlasPro MAX 📱 📺",
-	"description": "Inspirée de l'application XCIPTV, possède une interface sobre mais efficace.Gros logos de chaînes TV au lieu d'une liste. \nPour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
-	"url": "https://www.dropbox.com/scl/fi/hs6ayaqb46ci0b3jifmgc/ATLASPRO-MAX-7.0.2001.apk?rlkey=xdius6s4ps6wc5xt658kx80c2&dl=1",
-	"app_review": "https://dl.dropboxusercontent.com/scl/fi/5wv4nm9u55zjpokeen71r/ATLASPRO-MAX.gif?rlkey=r36fzusjx6w4nt5phcel37yh1&dl=0",
+	"description": "Inspirée de l'application XCIPTV, possède une interface sobre mais efficace. Gros logos de chaînes TV au lieu d'une liste.\nPour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
+	"url": "https://www.dropbox.com/scl/fi/s1a947i32enbuh3tv88vm/ATLASPRO-MAX-7.0.2002-OK.apk?rlkey=sokb369bph2ackvj3c7q3x9xl&dl=1",
+	"app_review": "",
 	"ver": "7.0.2001 (⭐20/01/2026⭐)",
 	"category": "IPTV AtlasPro"
 },
@@ -131,9 +131,9 @@
 {
 "title": "Downloader by AFTVnews (Android TV) 📱 📺",
 	"description": "Navigateur/telechargeur bien connu pour AndroidTV et Amazon FireSticks. Permet de rentrer un nombre tel que 123456 et pouvoir télécharger des applications non disponibles sur le Google Play Store.",
-	"url": "https://www.dropbox.com/scl/fi/4y07zicxged49fkpyl2lz/Downloader-by-AFTVnews_1.4.5-ForGoogleAndroidTV_APKPure.apk?rlkey=ukbiydjvj1yzz5t6bdkzsmzky&dl=1",
+	"url": "https://www.dropbox.com/scl/fi/bkyoks2ab5b52c27aqkqh/Downloader_2.0.4.apk?rlkey=df1tymdsho03s28oehxck8ep1&dl=1",
 	"app_review": "https://www.youtube.com/watch?v=ZuxE14gGoRc",
-	"ver": "1.4.5",
+	"ver": "2.0.4 (31/07/2026)",
 	"category": "Navigateurs"
 },
 {
@@ -163,9 +163,9 @@
 {
 "title": "Nova Video Player",
 	"description": "Lecteur video entièrement gratuit et tres puissant pour décodeurs. Prend en charge le transfert audio direct (passthrow), la lecture DoVi (y compris Profle 7) et l'utilisation des ressources du reseau local. Il existe un systeme complet de parametres et la possibilite de creer un catalogue pratique à partir de votre collection de films et de series televisees.",
-	"url": "https://www.tvbox.one/atv-release/Nova-VideoPlayer-6.6.4-armv7.apk",
+	"url": "https://www.tvbox.one/atv-release/Nova-VideoPlayer-6.6.5-armv7.apk",
 	"app_review": "",
-	"ver": "6.6.4 (⭐06/11/26⭐)",
+	"ver": "6.6.5 (⭐13/11/26⭐)",
 	"category": "Multimédia"
 },
 {
