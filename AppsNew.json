@@ -65,6 +65,14 @@
 	"category": "Utilitaires"
 },
 {
+"title": "** NEW** AtlasPro Installer 📱 📺",
+	"description": "Application qui sert à installer les 5 applis de DigitalTV. Code Downloader : 6726295\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
+	"url": "https://www.dropbox.com/scl/fi/4tbvzkdmvztn52updo50x/AtlasPro-Downloader.apk?rlkey=85z13j6p235hxhrn2vb89jyez&dl=1",
+	"app_review": "https://dl.dropboxusercontent.com/scl/fi/i00g0bmz2w7x53t2wa0g3/Screenshot_20261118-101036_ATLASPRO-Downloader.png?rlkey=vfzve623g6xuw9z9382n2ek0s&dl=0",
+	"ver": "3.3.3 (⭐18/11/2026⭐)",
+	"category": "IPTV AtlasPro"
+},
+{
 "title": "AtlasPro 9x 📺",
 	"description": "Nouvelle appli sortie le 20/01/2026.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
 	"url": "https://dl.dropboxusercontent.com/scl/fi/dt1w9cf94x4zcn50tekw6/ATLASPRO-9x-new.apk?rlkey=rj8jn1w6i0x6l6xhgpiqm1nvf&dl=0",
@@ -85,7 +93,7 @@
 	"description": "Inspirée de l'application XCIPTV, possède une interface sobre mais efficace. Gros logos de chaînes TV au lieu d'une liste.\nPour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
 	"url": "https://www.dropbox.com/scl/fi/s1a947i32enbuh3tv88vm/ATLASPRO-MAX-7.0.2002-OK.apk?rlkey=sokb369bph2ackvj3c7q3x9xl&dl=1",
 	"app_review": "",
-	"ver": "7.0.2001 (⭐20/01/2026⭐)",
+	"ver": "7.0.2002 (⭐18/11/2026⭐)",
 	"category": "IPTV AtlasPro"
 },
 {
@@ -209,11 +217,19 @@
 	"category": "IPTV DigitalTV"
 },
 {
-"title": "DigitalTV - Smarters 5.0 📺",
+"title": "DigitalTV - Smarters 📱 📺",
 	"description": "Inspirée de l'application de la célèbre IPTV Smarters.\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
 	"url": "https://cdn-uk.apk.st/SmartersV5_D3R3KERRAM_2545.apk",
 	"app_review": "https://dl.dropboxusercontent.com/scl/fi/b5wt8dy5ktsqtfa4flhuf/DigitalTV-Smarters-1.png?rlkey=f9jdau4np7ocbdosn33nj662o&st=3werg61g&dl=0",
 	"ver": "5.0 (⭐23/10/26⭐)",
+	"category": "IPTV DigitalTV"
+},
+{
+"title": "** NEW** DigitalTV - Downloader 📱 📺",
+	"description": "Application qui sert à installer les 5 applis de DigitalTV. Code Downloader : 6865194\n Pour visualiser l'apparence, laissez appuyer sur ok sur cette ligne.",
+	"url": "https://www.dropbox.com/scl/fi/5lfjxt0xphrok780fqdm9/DigitalTV-Downloader.apk?rlkey=b2rgan36cvnrd546kiyy4yicq&dl=1",
+	"app_review": "https://dl.dropbox.com/scl/fi/0fqirah6u0w1dw34fl0ez/Screenshot_20261118-101058_DigitalTV-Downloader.png?rlkey=rmhm58f752xj9afzuxclwn8bp&dl=0",
+	"ver": "3.3.3 (⭐18/11/26⭐)",
 	"category": "IPTV DigitalTV"
 },
 {
